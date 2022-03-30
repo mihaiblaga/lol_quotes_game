@@ -1,0 +1,5 @@
+venv/
+scraper/
+champions_list.txt
+raw_data.txt
+url_builder.py
