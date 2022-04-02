@@ -13,12 +13,13 @@ class MainModel(QObject):
         super(MainModel, self).__init__()
         
         self.quotes: List[Quote] = None
-        self.load_quotes_from_file(None)
+        self.load_quotes_from_file('/home/mihaiblaga/lol_quotes_game/quotes/Aatrox.txt')
+        random.shuffle(self.quotes)
         
         self.used_quotes_ids: List[Quote.id] = []
         
         self.possible_answers_list: List[Answer] = None
-        self.load_answers_from_file("/home/mihaiblaga/lol_quotes_game/raw_data.txt")
+        self.load_answers_from_file("/home/mihaiblaga/lol_quotes_game/champions_list.txt")
         
         self.current_answers: List[Answer] = None
         self.current_quote: Quote = None
@@ -39,14 +40,11 @@ class MainModel(QObject):
     def wrong_answer_clicked(self):
         print("wrong answer")
         
-    def get_random_quote(self):
-        random_quote = random.choice(self.quotes)
-        if self.current_quote:
-            if random_quote.id in self.used_quotes_ids:
-                return self.get_random_quote()    
-            else:
-                return random_quote   
-        return random_quote
+    def get_quote(self):
+        if self.quotes:
+            return self.quotes.pop(0)
+        else:
+            return Quote(None, 'No more quotes', Answer(''))
              
             
     def set_quote(self, quote):
@@ -60,12 +58,12 @@ class MainModel(QObject):
             self.possible_answers_list = [Answer(line.strip('\n')) for line in f.readlines()]
             
     def load_quotes_from_file(self, file_path):
-        self.quotes = [Quote(1, 'Aatrox is answer', Answer('Aatrox')),
-                Quote(2, 'Lux is answer', Answer('Lux')),
-                Quote(3, 'Ahri is answer', Answer('Ahri'))]
+        with open(file_path, 'r') as f:
+            raw_quotes = f.readlines()
+        self.quotes = [Quote(index, raw_quote, Answer("Aatrox")) for index, raw_quote in enumerate(raw_quotes)]
         
     def update_model(self):
-        next_quote = self.get_random_quote()
+        next_quote = self.get_quote()
         answers = self.get_random_answers(2)
         answers.append(next_quote.answer)
         random.shuffle(answers)
