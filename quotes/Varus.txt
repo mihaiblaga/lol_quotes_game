@@ -1,0 +1,89 @@
+"The guilty will know agony."
+"I am forsaken."
+"Beware a man with nothing to lose."
+"My purpose is clear."
+"My work is not done."
+"I'm on borrowed time."
+"Give me a target."
+"I am forsaken."
+"Bloodshed carries a price."
+"Only cowards flee their fate."
+There is no salvation.
+"I do what I must."
+"Pain is my gift to you."
+"The cost of your life is one arrow."
+"You'd like some real amusement? Come closer."
+"When you dance with death, lead."
+Varus laughs.
+Varus laughs.
+Varus laughs.
+Varus laughs.
+"No forgiveness."
+"They will know regret."
+"No turning back."
+"Face oblivion."
+"My arrows always find their marks."
+"Deliver them to their end."
+"Pity those who cross me."
+Varus grunts.
+Varus grunts.
+Varus grunts.
+Varus grunts.
+Varus grunts.
+Varus grunts.
+Varus grunts.
+Varus grunts.
+Varus grunts.
+Varus grunts.
+Varus grunts.
+Varus grunts.
+Varus grunts.
+Varus grunts.
+Varus groans.
+Varus groans.
+Varus groans.
+Varus groans.
+Varus_PROJECT_Attack_0.ogg
+Varus_PROJECT_Attack_1.ogg
+Varus_PROJECT_Attack_2.ogg
+Varus_PROJECT_Attack_3.ogg
+Varus_PROJECT_Attack_4.ogg
+Varus_PROJECT_Attack_5.ogg
+Varus_PROJECT_Attack_6.ogg
+Varus_PROJECT_Death_0.ogg
+Varus_PROJECT_Death_1.ogg
+Varus_PROJECT_Death_2.ogg
+Varus_PROJECT_Death_3.ogg
+Varus_PROJECT_E_0.ogg
+Varus_PROJECT_E_1.ogg
+Varus_PROJECT_E_2.ogg
+Varus_PROJECT_E_3.ogg
+Varus_PROJECT_Joke_0.ogg
+Varus_PROJECT_Joke_1.ogg
+Varus_PROJECT_Laugh_0.ogg
+Varus_PROJECT_Laugh_1.ogg
+Varus_PROJECT_Laugh_2.ogg
+Varus_PROJECT_Laugh_3.ogg
+Varus_PROJECT_Move_0.ogg
+Varus_PROJECT_Move_1.ogg
+Varus_PROJECT_Move_2.ogg
+Varus_PROJECT_Move_3.ogg
+Varus_PROJECT_Move_4.ogg
+Varus_PROJECT_Move_5.ogg
+Varus_PROJECT_Move_6.ogg
+Varus_PROJECT_Move_7.ogg
+Varus_PROJECT_Move_8.ogg
+Varus_PROJECT_Move_9.ogg
+Varus_PROJECT_Q_Activate_0_0.ogg
+Varus_PROJECT_Q_Activate_0_1.ogg
+Varus_PROJECT_Q_Activate_0_2.ogg
+Varus_PROJECT_Q_Activate_1_0.ogg
+Varus_PROJECT_Q_Activate_1_1.ogg
+Varus_PROJECT_Q_Activate_1_2.ogg
+Varus_PROJECT_Q_Activate_1_3.ogg
+Varus_PROJECT_R_0.ogg
+Varus_PROJECT_R_1.ogg
+Varus_PROJECT_R_2.ogg
+Varus_PROJECT_Taunt_0.ogg
+Varus_PROJECT_Taunt_1.ogg
+"Beware of one who has nothing to lose".

@@ -1,0 +1,222 @@
+"I will be the best."
+"Who questions my ability?"
+Wukong BattleAcademia SpinToWin 0.ogg
+Wukong BattleAcademia SpinToWin 1.ogg
+Wukong BattleAcademia SpinToWin 2.ogg
+Wukong BattleAcademia SpinToWin 3.ogg
+Wukong LancerStratus Attack 0.ogg
+Wukong LancerStratus Attack 1.ogg
+Wukong LancerStratus Attack 2.ogg
+Wukong LancerStratus Attack 3.ogg
+Wukong LancerStratus Attack 4.ogg
+Wukong LancerStratus Attack 5.ogg
+Wukong LancerStratus BasicAttack 0.ogg
+Wukong LancerStratus BasicAttack 1.ogg
+Wukong LancerStratus BasicAttack 2.ogg
+Wukong LancerStratus BasicAttack 3.ogg
+Wukong LancerStratus Death 0.ogg
+Wukong LancerStratus Death 1.ogg
+Wukong LancerStratus Death 2.ogg
+Wukong LancerStratus Death 3.ogg
+Wukong LancerStratus DecoySwipe 0.ogg
+Wukong LancerStratus DecoySwipe 1.ogg
+Wukong LancerStratus DecoySwipe 2.ogg
+Wukong LancerStratus DecoySwipe 3.ogg
+Wukong LancerStratus Joke 0.ogg
+Wukong LancerStratus Joke 1.ogg
+Wukong LancerStratus Laugh 0.ogg
+Wukong LancerStratus Laugh 1.ogg
+Wukong LancerStratus Laugh 2.ogg
+Wukong LancerStratus Laugh 3.ogg
+Wukong LancerStratus Move 0.ogg
+Wukong LancerStratus Move 1.ogg
+Wukong LancerStratus Move 2.ogg
+Wukong LancerStratus Move 3.ogg
+Wukong LancerStratus Move 4.ogg
+Wukong LancerStratus Move 5.ogg
+Wukong LancerStratus Move 6.ogg
+Wukong LancerStratus Move 7.ogg
+Wukong LancerStratus Move 8.ogg
+Wukong LancerStratus Move 9.ogg
+Wukong LancerStratus Nimbus 0.ogg
+Wukong LancerStratus Nimbus 1.ogg
+Wukong LancerStratus Nimbus 2.ogg
+Wukong LancerStratus Nimbus 3.ogg
+Wukong LancerStratus QAttack 0.ogg
+Wukong LancerStratus QAttack 1.ogg
+Wukong LancerStratus QAttack 2.ogg
+Wukong LancerStratus QAttack 3.ogg
+Wukong LancerStratus SpinToWin 0.ogg
+Wukong LancerStratus SpinToWin 1.ogg
+Wukong LancerStratus SpinToWin 2.ogg
+Wukong LancerStratus SpinToWin 3.ogg
+Wukong LancerStratus Taunt.ogg
+Wukong Original Attack 0.ogg
+Wukong Original Attack 1.ogg
+Wukong Original Attack 2.ogg
+Wukong Original Attack 3.ogg
+Wukong Original Attack 4.ogg
+Wukong Original Attack 5.ogg
+Wukong Original BasicAttack 0.ogg
+Wukong Original BasicAttack 1.ogg
+Wukong Original BasicAttack 2.ogg
+Wukong Original BasicAttack 3.ogg
+Wukong Original Death 0.ogg
+Wukong Original Death 1.ogg
+Wukong Original Death 2.ogg
+Wukong Original Death 3.ogg
+Wukong Original DecoySwipe 0.ogg
+Wukong Original DecoySwipe 1.ogg
+Wukong Original DecoySwipe 2.ogg
+Wukong Original DecoySwipe 3.ogg
+Wukong Original Joke 0.ogg
+Wukong Original Joke 1.ogg
+Wukong Original Laugh 0.ogg
+Wukong Original Laugh 1.ogg
+Wukong Original Laugh 2.ogg
+Wukong Original Laugh 3.ogg
+Wukong Original Move 0.ogg
+Wukong Original Move 1.ogg
+Wukong Original Move 2.ogg
+Wukong Original Move 3.ogg
+Wukong Original Move 4.ogg
+Wukong Original Move 5.ogg
+Wukong Original Move 6.ogg
+Wukong Original Move 7.ogg
+Wukong Original Move 8.ogg
+Wukong Original Nimbus 0.ogg
+Wukong Original Nimbus 1.ogg
+Wukong Original Nimbus 2.ogg
+Wukong Original Nimbus 3.ogg
+Wukong Original QAttack 0.ogg
+Wukong Original QAttack 1.ogg
+Wukong Original QAttack 2.ogg
+Wukong Original QAttack 3.ogg
+Wukong Original SpinToWin 0.ogg
+Wukong Original SpinToWin 1.ogg
+Wukong Original SpinToWin 2.ogg
+Wukong Original SpinToWin 3.ogg
+Wukong Original Taunt.ogg
+Wukong Radiant Attack 0.ogg
+Wukong Radiant Attack 1.ogg
+Wukong Radiant Attack 2.ogg
+Wukong Radiant Attack 3.ogg
+Wukong Radiant Attack 4.ogg
+Wukong Radiant Attack 5.ogg
+Wukong Radiant BasicAttack 0.ogg
+Wukong Radiant BasicAttack 1.ogg
+Wukong Radiant BasicAttack 2.ogg
+Wukong Radiant BasicAttack 3.ogg
+Wukong Radiant Death 0.ogg
+Wukong Radiant Death 1.ogg
+Wukong Radiant Death 2.ogg
+Wukong Radiant Death 3.ogg
+Wukong Radiant DecoySwipe 0.ogg
+Wukong Radiant DecoySwipe 1.ogg
+Wukong Radiant DecoySwipe 2.ogg
+Wukong Radiant DecoySwipe 3.ogg
+Wukong Radiant Joke 0.ogg
+Wukong Radiant Joke 1.ogg
+Wukong Radiant Laugh 0.ogg
+Wukong Radiant Laugh 1.ogg
+Wukong Radiant Laugh 2.ogg
+Wukong Radiant Laugh 3.ogg
+Wukong Radiant Move 0.ogg
+Wukong Radiant Move 1.ogg
+Wukong Radiant Move 2.ogg
+Wukong Radiant Move 3.ogg
+Wukong Radiant Move 4.ogg
+Wukong Radiant Move 5.ogg
+Wukong Radiant Move 6.ogg
+Wukong Radiant Move 7.ogg
+Wukong Radiant Move 8.ogg
+Wukong Radiant Move 9.ogg
+Wukong Radiant Nimbus 0.ogg
+Wukong Radiant Nimbus 1.ogg
+Wukong Radiant Nimbus 2.ogg
+Wukong Radiant Nimbus 3.ogg
+Wukong Radiant QAttack 0.ogg
+Wukong Radiant QAttack 1.ogg
+Wukong Radiant QAttack 2.ogg
+Wukong Radiant QAttack 3.ogg
+Wukong Radiant SpinToWin 0.ogg
+Wukong Radiant SpinToWin 1.ogg
+Wukong Radiant SpinToWin 2.ogg
+Wukong Radiant SpinToWin 3.ogg
+Wukong Radiant Taunt.ogg
+Wukong Underworld Attack 0.ogg
+Wukong Underworld Attack 1.ogg
+Wukong Underworld Attack 2.ogg
+Wukong Underworld Attack 3.ogg
+Wukong Underworld Attack 4.ogg
+Wukong Underworld Attack 5.ogg
+Wukong Underworld BasicAttack 0.ogg
+Wukong Underworld BasicAttack 1.ogg
+Wukong Underworld BasicAttack 2.ogg
+Wukong Underworld BasicAttack 3.ogg
+Wukong Underworld Death 0.ogg
+Wukong Underworld Death 1.ogg
+Wukong Underworld Death 2.ogg
+Wukong Underworld Death 3.ogg
+Wukong Underworld DecoySwipe 0.ogg
+Wukong Underworld DecoySwipe 1.ogg
+Wukong Underworld DecoySwipe 2.ogg
+Wukong Underworld DecoySwipe 3.ogg
+Wukong Underworld Joke 0.ogg
+Wukong Underworld Joke 1.ogg
+Wukong Underworld Laugh 0.ogg
+Wukong Underworld Laugh 1.ogg
+Wukong Underworld Laugh 2.ogg
+Wukong Underworld Laugh 3.ogg
+Wukong Underworld Move 0.ogg
+Wukong Underworld Move 1.ogg
+Wukong Underworld Move 2.ogg
+Wukong Underworld Move 3.ogg
+Wukong Underworld Move 4.ogg
+Wukong Underworld Move 5.ogg
+Wukong Underworld Move 6.ogg
+Wukong Underworld Move 7.ogg
+Wukong Underworld Move 8.ogg
+Wukong Underworld Nimbus 0.ogg
+Wukong Underworld Nimbus 1.ogg
+Wukong Underworld Nimbus 2.ogg
+Wukong Underworld Nimbus 3.ogg
+Wukong Underworld QAttack 0.ogg
+Wukong Underworld QAttack 1.ogg
+Wukong Underworld QAttack 2.ogg
+Wukong Underworld QAttack 3.ogg
+Wukong Underworld SpinToWin 0.ogg
+Wukong Underworld SpinToWin 1.ogg
+Wukong Underworld SpinToWin 2.ogg
+Wukong Underworld SpinToWin 3.ogg
+Wukong Underworld Taunt.ogg
+"You got it!"
+"Show me the path."
+"My place is at the top."
+"Adapt to all situations."
+"Bring me a real challenge."
+"Who questions my ability?"
+"Every mistake is a lesson."
+"Never settle for second."
+"My journey's only beginning."
+"If you don't fight, you can't make friends."
+"Improve your skills! Then find me again."
+"No matter how far it is to the top, it's still within my grasp!"
+"I bet I can hit their base from here!"
+Wukong laughs.
+Wukong laughs.
+Wukong laughs.
+Wukong laughs.
+"Wuju style."
+"Put me to the test."
+"I got this."
+"Just try to stop me."
+"Is that all they've got?"
+"Been waiting for this."
+"If you don't fight, you can't make friends."
+"Wuju Style"
+"Show me the path"
+"I will show you the path"
+Rúyì Jīngū Bàng
+As-Willed Gold-Rimmed Pole
+Shénzhēntiě

@@ -1,0 +1,237 @@
+"Welcome to the League of Draven."
+"Draven out!"
+"Draven_MechaKingdoms_R_0.ogg"
+"Draven_MechaKingdoms_R_1.ogg"
+"Draven_MechaKingdoms_R_2.ogg"
+"Draven_MechaKingdoms_R_3.ogg"
+"Draven_MechaKingdoms_SpinningAttack_0.ogg"
+"Draven_MechaKingdoms_SpinningAttack_1.ogg"
+"Draven_MechaKingdoms_SpinningAttack_2.ogg"
+"Draven_MechaKingdoms_SpinningAttack_3.ogg"
+"Draven_MechaKingdoms_SpinningCatch_0.ogg"
+"Draven_MechaKingdoms_SpinningCatch_5.ogg"
+"Draven_MechaKingdoms_SpinningCatch_6.ogg"
+"Draven_MechaKingdoms_SpinningCatch_7.ogg"
+"Draven_Ruined_BasicAttack_0.ogg"
+"Draven_Ruined_BasicAttack_1.ogg"
+"Draven_Ruined_BasicAttack_2.ogg"
+"Draven_Ruined_BasicAttack_3.ogg"
+"Draven_Ruined_Death_0.ogg"
+"Draven_Ruined_Death_1.ogg"
+"Draven_Ruined_Death_2.ogg"
+"Draven_Ruined_Death_3.ogg"
+"Draven_Ruined_DoubleShot_0.ogg"
+"Draven_Ruined_DoubleShot_1.ogg"
+"Draven_Ruined_DoubleShot_2.ogg"
+"Draven_Ruined_DoubleShot_3.ogg"
+"Draven_Ruined_Laugh_0.ogg"
+"Draven_Ruined_Laugh_1.ogg"
+"Draven_Ruined_Laugh_2.ogg"
+"Draven_Ruined_Recall_0.ogg"
+"Draven_Ruined_Recall_1.ogg"
+"Draven_Ruined_Recall_2.ogg"
+"Draven_Ruined_Recall_3.ogg"
+"Draven_Ruined_R_0.ogg"
+"Draven_Ruined_R_1.ogg"
+"Draven_Ruined_R_2.ogg"
+"Draven_Ruined_R_3.ogg"
+"Draven_Ruined_SpinningAttack_0.ogg"
+"Draven_Ruined_SpinningAttack_1.ogg"
+"Draven_Ruined_SpinningAttack_2.ogg"
+"Draven_Ruined_SpinningAttack_3.ogg"
+"Draven_Ruined_SpinningCatch_2.ogg"
+"Draven_Ruined_SpinningCatch_3.ogg"
+"Draven_Ruined_SpinningCatch_5.ogg"
+"Draven_Ruined_SpinningCatch_6.ogg"
+"Draven_SoulReaver_BasicAttack_0.ogg"
+"Draven_SoulReaver_BasicAttack_1.ogg"
+"Draven_SoulReaver_BasicAttack_2.ogg"
+"Draven_SoulReaver_BasicAttack_3.ogg"
+"Draven_SoulReaver_Death_0.ogg"
+"Draven_SoulReaver_Death_1.ogg"
+"Draven_SoulReaver_Death_2.ogg"
+"Draven_SoulReaver_DoubleShot_0.ogg"
+"Draven_SoulReaver_DoubleShot_1.ogg"
+"Draven_SoulReaver_DoubleShot_2.ogg"
+"Draven_SoulReaver_DoubleShot_3.ogg"
+"Draven_SoulReaver_Laugh_0.ogg"
+"Draven_SoulReaver_Laugh_1.ogg"
+"Draven_SoulReaver_Laugh_2.ogg"
+"Draven_SoulReaver_Laugh_3.ogg"
+"Draven_SoulReaver_R_0.ogg"
+"Draven_SoulReaver_R_1.ogg"
+"Draven_SoulReaver_R_2.ogg"
+"Draven_SoulReaver_R_3.ogg"
+"Draven_SoulReaver_SpinningAttack_0.ogg"
+"Draven_SoulReaver_SpinningAttack_1.ogg"
+"Draven_SoulReaver_SpinningAttack_2.ogg"
+"Draven_SoulReaver_SpinningAttack_3.ogg"
+"Draven_SoulReaver_SpinningCatch_3.ogg"
+"Draven_SoulReaver_SpinningCatch_4.ogg"
+"Draven_SoulReaver_SpinningCatch_5.ogg"
+"Draven_SoulReaver_SpinningCatch_6.ogg"
+"Smooth."
+"Man, I'm good."
+"Don't be jealous."
+"I've got pain to serve."
+"Perfection? I got that."
+"Got axes, need victims."
+"Now this is how to move."
+"Places to go, me to see."
+"Let's admire me for a bit."
+"Subtle? I don't do subtle."
+"Doesn't get better than this."
+"No followin' these footsteps."
+"Who wants some Draven? Heheheh."
+"Come out and play. Heheheh."
+"Not Draven; Draaaaven."
+"Draven does it all… with style!"
+Draven laughs.
+Draven laughs.
+Draven laughs.
+"Yeah, yeah! Yeah!"
+"Yeah! Woo!"
+"Woo! Yeah! Yeah!"
+"Yeah, yeah! Yeah!"
+"Yeah, yeah! Yeah!"
+Draven grunts.
+Draven grunts.
+Draven grunts.
+Draven grunts.
+Draven grunts
+Draven grunts
+Draven grunts
+Draven grunts
+"Stand back."
+"Let's do this."
+"Watch and learn."
+"I have the best job."
+"Hit 'em where it hurts."
+"Something need killin'?"
+"This is where Draven shines."
+"Hear that? Death's knocking."
+"Seems to be blood everywhere I go."
+Draven grunts.
+Draven grunts.
+Draven grunts.
+Draven grunts.
+"Too easy."
+"I'll take that."
+"Here we go."
+"Why, thank you!"
+Draven giggles.
+Draven giggles.
+Draven giggles.
+Draven giggles.
+"Yoink."
+"Nice axe, I'll take it."
+Draven grunts.
+Draven grunts.
+Draven grunts.
+Draven grunts.
+Draven grunts
+Draven grunts
+Draven grunts
+Draven grunts
+Draven grunts.
+Draven grunts.
+Draven grunts.
+Draven grunts.
+"Draven out!"
+"Draven's makin' an exit."
+Draven giggles.
+Draven giggles.
+Draven giggles.
+Draven giggles.
+Draven groans.
+Draven groans.
+Draven groans.
+Draven groans.
+Draven groans
+Draven groans
+Draven groans
+Draven groans
+"Welcome, ladies and gentlemen, to another exciting edition of the League of Draven Championship Series!"
+"Should've banned Draven!"
+"Draven's making some good map movements."
+"Check out these Draven rotations!"
+"Draven showing some excellent positioning."
+"He's applying a lot of map pressure."
+"Draven's got his shoes laced up and he's making moves."
+"Draven is just owning the map."
+"Sjokz better interview me after this."
+"A very nice move by Draven."
+"Yeah! Draven was an excellent pick this game! Heh, and every game."
+"Nobody's got an answer for this Draven!"
+"And let's see what Draven's up to!"
+"Meanwhile, Draven!"
+"According to lolesports.com, 100% of you think that Draven will win!"
+"Let's check out our OP players of the game: Draven, Draven, Draven, Draven and Draaaven."
+"And our MVP for this game: Draven!"
+"Let's check out our featured matchup of the day: Draven versus… some loser."
+"Let's check out our featured matchup of the day: Draven versus Draven!"
+"Did you know Draven can catch another Draven's axes? Haha! You should read the hints more often!"
+"Draven's just showin' off, now!"
+"It looks like Draven's taking a Draven break."
+"Draven's lookin' really sharp right now."
+"Draven laughs."
+"Draven laughs."
+"Draven laughs."
+"Yeah, yeah! Yeah!"
+"Yeah! Woo!"
+"Woo! Yeah! Yeah!"
+"Yeah, yeah! Yeah!"
+Draven grunts.
+Draven grunts.
+Draven grunts.
+Draven grunts.
+"Draven's giving a master class in how to play Draven."
+"Draven doing a little face-checking!"
+"Draven's improving those stats once again!"
+"Enough about Draven! What do you think about… Draven?"
+"If Draven does it, it's not kill-stealing."
+"Please speak directly into the microphone!"
+"And of course, Draven counters everyone."
+"Draven trying to keep the pressure on!"
+"Draven's looking to make plays."
+"Draven going full-on aggression!"
+Draven grunts.
+Draven grunts.
+Draven grunts.
+Draven grunts.
+"Too easy."
+"I'll take that."
+"Here we go."
+"Why, thank you!"
+Draven grunts.
+Draven grunts.
+Draven grunts.
+Draven grunts.
+Draven grunts.
+Draven grunts.
+Draven grunts.
+Draven grunts.
+"
+#DravenBigPlay
+!"
+"An ult from Draven!"
+"Draven fires his ult!"
+"Look out, Draven's got his Infinity Edge!"
+"That's a Phantom Dancer on Draven!"
+"Draven has finished his Bloodthirster!"
+"Wow, that's tons o' damage!"
+"Why would Draven get a Nashor's Tooth? Because Draven."
+"Fantastic ward coverage."
+"Draven warding out the map."
+"More vision for Draven."
+"Coming up after the break: more Draven!"
+"We'll be right back with more Draven!"
+"Don't touch that browser, Draven'll be right back!"
+"There was definitely some miscommunication there!"
+"Buying time for the rest of his team with that sacrifice!"
+"Draven throwing the other team a bone!"
+"Worth!"
+"At my signal, unleash Draven!"
+"Give to Draven what Draven owns… and everything else!"
+"Render unto Caesar the things that are Caesar's."
+"What Draven does in life, echoes through eternity."

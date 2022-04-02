@@ -1,0 +1,211 @@
+"Violence solves everything."
+"Is that fear I smell?"
+"Ready for trouble?"
+"I've made my choice."
+"Intriguing."
+"Keep friends close and enemies guessing."
+"Never play fair."
+"To the point."
+"Why? Because I can."
+"No going back."
+"I like it."
+"Only fools hesitate."
+"Better dead than dull."
+"Come on, live a little... while you can!"
+"If you run, you won't see me stab you!"
+Katarina laughs.
+Katarina laughs.
+Katarina laughs.
+Katarina laughs.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+"My pleasure."
+"Let the bloodshed begin!"
+"Let's dance!"
+"Blood for Noxus!"
+"Without mercy."
+"Is that fear I smell?"
+"I can't wait."
+"Only fools hesitate."
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+"Next time... run."
+"Unmatched."
+"The dance of blades."
+"Too easy."
+Katarina groans.
+Katarina groans.
+Katarina groans.
+Katarina groans.
+Death Sworn Accompanying SFX
+Death Sworn Accompanying SFX
+Death Sworn Accompanying SFX
+Death Sworn Accompanying SFX
+Death Sworn Accompanying SFX
+Death Sworn Accompanying SFX
+Death Sworn Accompanying SFX
+Death Sworn Accompanying SFX
+Death Sworn Accompanying SFX
+Death Sworn Accompanying SFX
+Death Sworn Accompanying SFX
+Death Sworn Accompanying SFX
+Death Sworn Accompanying SFX
+Death Sworn Accompanying SFX
+Death Sworn Accompanying SFX
+Death Sworn Accompanying SFX
+Death Sworn Accompanying SFX
+"They fear the power of my crest and the majesty of my blades."
+"Let the coronation bloodbath begin!"
+"I fight alongside my fellow queens. So long as they honor me."
+"You face me? In the coronation? I will disgrace you."
+"My crest feeds on blood."
+"To disobey a queen's command is death."
+"They fear my weapons? I am the weapon."
+"They'll bleed for the crown. I can't wait."
+"Kneel before me or bleed out."
+"I bend any weapon to my majesty."
+"I wield both crown and dagger with elegance."
+"No one defies the queen."
+"I am queen of Schema. Why stop there?"
+"My rivals broke before me. The other queens will too."
+"My rule is iron. My will is steel."
+"After this, all of Elysia will know what I'm capable of."
+"My crest is merely the first of many crowns."
+"Murder isn't personal. It's fun!"
+"Power is a weapon, and I do love a weapon."
+"I killed for this crown. Fear what I'll do now!"
+"Lives are short, unlike my legacy."
+"My favorite part of ruling... is the executions."
+"Weaker rulers show mercy."
+"There's glory in bloodshed but there's also purpose. A feared queen reigns longest."
+"I don't care if they're bowing or bleeding so long as I win."
+"A victory is sweetest when it leads to another. After this, all will fear my power."
+"For years, these queendoms have squabbled. Uneasy alliances, unstable power. I can use that."
+"Ruling is one part grace, two parts threat. Or is it the other way around?"
+"A queen's versatility and an assassin's ruthlessness. The coronation never planned on me."
+"These other queens? I wish them luck. Why shouldn't I? There's no one like me."
+"I always plan three steps ahead of other rulers but it's still gracious to feign surprise."
+"The queens' alliance is feeble. To lead it requires strength. A bit of new blood."
+"I am the queen of assassins. I won my throne by murder. I'd like to see these others try and take it."
+"The tournament is only the first step. With me as queen, Schema will reign forever."
+"Garen, let's see if you're strong enough to handle a queen."
+"If you can see the future, Diana, you'll flee right now."
+"Come all the way down from Aurai to play with us, Janna? Think you can keep up?"
+"You've waited so long for this, Qiyana. Shame it'll be over so quickly."
+"You'd be good in Schema's battle pits, Rell. As a warmup."
+"Your majesty! This coronation, I'll whet my blade on you."
+"Come back when you can wield a crest like I do."
+"The magic of the world flows through my daggers. What have you got?"
+"You wouldn't dare repeat that with my knife at your throat."
+"The queen is not amused."
+Katarina laughs.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+"The queen of carnage!"
+"Bow to my blades!"
+"Run not from a queen!"
+"Blood for Schema!"
+"You'll bleed so beautifully."
+"Hail to the queen!"
+"Glory to me!"
+"A queen never hesitates."
+"Justice by my blade."
+"Your death will honor me!"
+"I reign supreme!"
+"A peerless queen!"
+"Kneel to my throne."
+"I command your execution."
+"My victory is sealed!"
+"For my crown!"
+"Fear my glory!"
+"My reign is unmatched."
+"No one defies a queen!"
+"Crest and blade!"
+"Bow before you bleed!"
+"I give no quarter!"
+"Your death's decreed!"
+"Off with your head!"
+"I command you to die!"
+"Your pain, my glory!"
+"My queendom reigns triumphant!"
+"The crown is mine!"
+"Look sharp!"
+"My royal decree!"
+"My blade caught you off guard, Diana?!"
+"Janna! Weak crest, weak queen!"
+"Your plots are weak, Qiyana, and so are you!"
+"Gonna use my crest against me, Rell?!"
+"Bow before me!"
+"You rogue!""
+"Die, knave!"
+"For my throne!"
+"Die by decree!"
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+Katarina grunts.
+"A crown of daggers!"
+"Your execution is at hand!"
+"The queen's blades command you!"
+"Bleed for Schema's glory!"
+"Kneel before your queen!"
+"The crown cannot be defied!"
+"There's blood all over my dress now."
+"A true queen can subdue any foe with grace."
+"I'll take those curtsies now. Thank you!"
+"Diplomacy is overrated. Stabbing's easier."
+"Hmph. You were in my queendom's way."
+"Pity you weren't better."
+"Not today, Caitlyn! Not today!"
+"What a shame, Garen. A queen requires a more worthy consort."
+"Poor Diana. Your visions were as weak as your rule."
+"Janna. Too flighty to be a strong ruler."
+"Might have been tough as metal, Rell, but metal cracks."
+"Not much of a coronation for you."
+"My queendom reigns triumphant! Let the blood flow!"
+"A queen's retreat is always strategic."
+"We planned for this. The bloodshed will wait for me."
+"This fight's beneath my station. I'll wait for a better one."
+"Schema... must triumph..."
+"This must not be... the end..."
+Katarina groans.
+Katarina groans.
+Katarina groans.
+"The coronation's not finished, and neither am I!"
+"A great queen needs tenacity!"
+"It doesn't matter who strikes the first blow. Just the last."
+"A fresh addition to the royal arsenal."
+"I do so love an accolade, especially a sharp one."
+"Let's see what this one can do."
+"Every triumph brings a new blade."
+"The weapon is the setting. I am the jewel."
+"Another? For me? I'm honored."
+"Another blade! It's good to be the queen."
+"A tithe of steel. I like it."
+"Any weapon cuts just as deep... in my hands."
+"Remember, 'evil' spelled backward is 'live'. No coincidence."

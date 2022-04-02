@@ -1,0 +1,83 @@
+"Behold, the might of the Shadow Isles."
+"I do not rest."
+"The shadow approaches."
+"War is eternal."
+"Ride out."
+"Their souls beg for release."
+"Send me to battle."
+"The grave calls."
+"I do not rest."
+"I am beyond death."
+"Life is fleeting."
+"Your life is a burden. I bring you freedom!"
+"You won't live to see your world destroyed."
+Hecarim skips around his weapon.
+"Suffering is magic."
+"Another blue ribbon for Hecarim."
+Hecarim laughs.
+Hecarim laughs.
+Hecarim laughs.
+Hecarim laughs.
+Hecarim grunts.
+Hecarim grunts.
+Hecarim grunts.
+Hecarim grunts.
+"Break their ranks."
+"Embrace death."
+"Trample their bones."
+"The living will fall."
+"Never relent."
+"Crush them underfoot."
+Hecarim grunts.
+Hecarim grunts.
+Hecarim grunts.
+Hecarim grunts.
+Hecarim grunts.
+"Despair!"
+"Face death!"
+"Torment!"
+Hecarim grunts.
+Hecarim grunts.
+Hecarim grunts.
+"Cower!"
+"Run!"
+"Terror!"
+Hecarim yells.
+Hecarim yells.
+Hecarim yells.
+Hecarim yells.
+"Plays a guitar solo."
+Hecarim dies.
+Hecarim dies.
+Hecarim dies.
+Hecarim dies.
+"Hecarim_CosmicCharger_BasicAttack_0.ogg"
+"Hecarim_CosmicCharger_BasicAttack_1.ogg"
+"Hecarim_CosmicCharger_BasicAttack_2.ogg"
+"Hecarim_CosmicCharger_BasicAttack_3.ogg"
+"Hecarim_CosmicCharger_Death_0.ogg"
+"Hecarim_CosmicCharger_Death_1.ogg"
+"Hecarim_CosmicCharger_Death_2.ogg"
+"Hecarim_CosmicCharger_Death_3.ogg"
+"Hecarim_CosmicCharger_Laugh_0.ogg"
+"Hecarim_CosmicCharger_Laugh_1.ogg"
+"Hecarim_CosmicCharger_Laugh_2.ogg"
+"Hecarim_CosmicCharger_Laugh_3.ogg"
+"Hecarim_CosmicCharger_RapidSlash_0.ogg"
+"Hecarim_CosmicCharger_RapidSlash_1.ogg"
+"Hecarim_CosmicCharger_RapidSlash_2.ogg"
+"Hecarim_CosmicCharger_RapidSlash_3.ogg"
+"Hecarim_CosmicCharger_Ult_0.ogg"
+"Hecarim_CosmicCharger_Ult_1.ogg"
+"Hecarim_CosmicCharger_Ult_2.ogg"
+"Hecarim_CosmicCharger_Ult_3.ogg"
+"Hecarim_CosmicCharger_Ult_4.ogg"
+"Hecarim_CosmicCharger_Ult_5.ogg"
+"Hecarim_CosmicCharger_Ult_6.ogg"
+"Hecarim_CosmicCharger_W_0.ogg"
+"Hecarim_CosmicCharger_W_1.ogg"
+"Hecarim_CosmicCharger_W_2.ogg"
+"Hecarim_CosmicCharger_W_3.ogg"
+"Hecarim_CosmicCharger_W_4.ogg"
+"Hecarim_CosmicCharger_W_5.ogg"
+"Hecarim_CosmicCharger_W_6.ogg"
