@@ -5,9 +5,7 @@
 "Where there's treasure, there's glory. And where there's glory… Girls are watching."
 "*sigh* I don't care where here is. Just point me toward adventure."
 "To save video games, he had to become video games. Ezreal is… Video games."
-♫"Burning Bright! Nah-nah-nah-nah Nah-nah-nah-something."♫
-A stripped-down version of "A New Horizon" plays, which then switches to "Burning Bright".
-"Impossible comebacks are sorta my specialty."
+"Burning Bright! Nah-nah-nah-nah Nah-nah-nah-something."♫ A stripped-down version of "A New Horizon" plays, which then switches to "Burning Bright". "Impossible comebacks are sorta my specialty."
 "The gauntlet's for show… the talent's all me."
 "Jarro Lightfeather never gives up. He learned that from me."
 "I'm at my best when the worlds at the brink of annihilation."
@@ -70,15 +68,10 @@ A stripped-down version of "A New Horizon" plays, which then switches to "Burnin
 "Hey, Ashe. I totally meant to return that Avarosan sculpture thingy. Is that an ice bow? That's a cool ice bow."
 "A celestial dragon that throws stars. Well, this is totally normal. I can do this."
 "Possession is 9/10ths of the law, Caitlyn. Those pre-Zaunite demon totems are mine fair and square."
-"Okay, Camille. Fork over that 
- 
-Brackern
- Crystal."
+"Okay, Camille. Fork over that    Brackern  Crystal."
 "Woo! Strong goggles game, Corki. Keep it up."
 "Aw, crap, I opened a mirror dimension again! ...Does my hair really look like that?"
-"Giant 
-petricite
- gargoyle. So it's gonna be one of those kind of days."
+"Giant  petricite  gargoyle. So it's gonna be one of those kind of days."
 "Hey, brainface, you are why no one likes Yordle inventors."
 "Can't manufacture magic in a lab, Jayce. Or good looks, for that matter."
 "That mask is not art, Jhin. It's ancient history."
@@ -122,10 +115,7 @@ petricite
 "Didn't expect unliving ghouls. Note to self: always expect unliving ghouls."
 "Vastaya! Just like in Santangelo's field guide!"
 "Yordles. Why'd it have to be Yordles?"
-"I'm better than the First Star. Don't tell 
- 
-Ahri
- I said that."
+"I'm better than the First Star. Don't tell    Ahri  I said that."
 "Do I wear my gauntlet... or does my gauntlet wear me?"
 "Hey there, gauntlet!  How ya doin', buddy?"
 "*yawn* Call me when the stakes are higher."
@@ -136,13 +126,8 @@ Ahri
 "Sick burn… probably? Wasn't listening."
 "Sorry, I wasn't paying attention. What are your weak spots again?"
 "There's somewhere else I gotta be. Literally anywhere else."
-Ezreal tries to balance an artifact on his index finger, but drops it and barely manages to catch it.
 "Ah. Watch this. *short pause* ...We will never speak of this again. Ever."
 "This is no time for jokes. Your jokes. My jokes are great."
-Ezreal laughs.
-Ezreal laughs.
-Ezreal laughs.
-Ezreal laughs.
 "Lot of good mages out there! None of them are this hot."
 "Are you not intrigued?"
 "Time for a true display of skill."
@@ -223,8 +208,7 @@ Ezreal laughs.
 "Alright, guys. Don't miss me too much."
 "Relax. I blindly teleport long distances all the time."
 "Whoa. Time out, everyone. Don't continue the fight without me."
-A shortened version of "A New Horizon" plays.
-*Ezreal groans*
+"A New Horizon" plays. *Ezreal groans*
 *Ezreal groans in pain*
 "Reports of my death have been greatly exaggerated."
 "I'll be omitting that little mishap from the expedition logs."
@@ -251,7 +235,7 @@ A shortened version of "A New Horizon" plays.
 "Let's do this."
 "This looks like a good spot."
 "Let's rewrite some history."
-PEARL: "Pulsefire Systems - Online"
+"Pulsefire Systems - Online"
 "Run a quick analysis for me."
 "All systems operational."
 "Ooh, a fixer. Time for a little fun."
@@ -266,9 +250,7 @@ PEARL: "Pulsefire Systems - Online"
 "No."
 "I'll make my own future."
 "Grim dark future, huh? Nah, it's more of a highly-regimented totalitarian police state."
-"Oh, I know where I'm going. 
-When
- is a bit fuzzy."
+"Oh, I know where I'm going.  When  is a bit fuzzy."
 "Time to travel!"
 "Adventure is a perk."
 "Hmm… Forward or back."
@@ -317,22 +299,16 @@ When
 "I never pegged Dreadnova as a flat org. Are you hiring?"
 "The Elderwood isn't actually that old. Trust me, I've seen elder-er."
 "Organic metal is the way of the future. I'm wearing some right now! Never chafes."
-"Ha-ha! You 
-are
- real! I KNEW IT! I'M NOT CRAZY!"
+"Ha-ha! You  are  real! I KNEW IT! I'M NOT CRAZY!"
 "Hey, God-King! Both sides are bad!"
-"I have so much respect for your species. 
-Please
- don't hunt me."
+"I have so much respect for your species.  Please  don't hunt me."
 "I love the hextech renaissance. So much art, and culture, and… hextech…"
 "Last time I went to your universe, I almost got eaten by a cowboy demon. Good times."
 "Card soldiers. Rad."
 "Can you put in a good word for me on the Arclight powers thing? I would be AMAZING."
 "The mecha universes keep multiplying. And I. Am. Here for it!"
 "Oh, I have so many wrestling masks that it's fu- well, maybe not funny. More like obsessive. Yeah, obsessive."
-"There's a timeline where the Magelords survived? Then the 
-Institute
-…"
+"There's a timeline where the Magelords survived? Then the  Institute …"
 "So cool! I haven't seen one of these things since the robot wars that killed everybody."
 "Spaaaaace!"
 "Wait… aren't you dead? Or alive…? Am I dead? Time travel is messed up."
@@ -350,10 +326,7 @@ Institute
 "In hindsight, nuclear fission probably wasn't the best thing for Zaun to discover."
 "Snowball fight!"
 "Seasons greetings! …What month is this?"
-"In another life, I am a 
- 
-soccer star
-. No, seriously, I'm a huge star in your timeline."
+"In another life, I am a    soccer star . No, seriously, I'm a huge star in your timeline."
 "Hey! Can I join you guys? Like, as a junior Star Guardian! Open offer."
 "Is that a real exosuit? …Can I borrow it?"
 "I'm more of a movies-based-on-the-books guy, sorry."
@@ -362,9 +335,7 @@ soccer star
 "Other figures sold separately! I'll stop… I'll-uh, I'll stop."
 "Nuclear apocalypse gang! Are you still upset with me? You seem… a little upset."
 "Oh, gold, huh? Well, this armor's chromium. And maybe some other stuff, not sure."
-"The Protectorate? That means 
-the League
-… no…"
+"The Protectorate? That means  the League … no…"
 "Did I cause your kingdoms to war? No. Did I help? …Possibly."
 "I'm told the Poro King does not banish guests lightly. *nervous chuckle, followed by a heavy sigh*"
 "How many worlds can you break? One? More than one? …Two?"
@@ -372,22 +343,15 @@ the League
 "Do you really worship time? That's weird even by my standards."
 "Paradox Warlord isn't your usual style, Shen. Cool name though."
 "We are nothing alike. You're a time thief. I'm a time adventurer."
-*Ezreal imitates a guitar riff* ♫"What even is this armor, yeah!"♫
-♫"Doo-doo-doot-doo! Forward in time! Backward in time! Always on… whoosh, time."♫
-♫"Jumpin' through time! Arm is a gun! Everybody loves me!"♫
-♫"Who is that? Ezreal's here. It's Ezreal! T-t-t-t-t-t-t-time dude. Cool guy! Cool guy! wha-wha-wha-whaa!"♫
-"Hey, what's the scanner say about their power level?"
+*Ezreal imitates a guitar riff* ♫"What even is this armor, yeah!"♫ ♫"Doo-doo-doot-doo! Forward in time! Backward in time! Always on… whoosh, time."♫ ♫"Jumpin' through time! Arm is a gun! Everybody loves me!"♫ ♫"Who is that? Ezreal's here. It's Ezreal! T-t-t-t-t-t-t-time dude. Cool guy! Cool guy! wha-wha-wha-whaa!"♫ "Hey, what's the scanner say about their power level?"
 "No enemies display a power level over 9000."
 "Hehe, thought so."
 "I've got nothing but time! Let's go!"
-"No, 
-you
- belong in a museum!"
+"No,  you  belong in a museum!"
 "Get lost, kid!"
 "Wanna start over? I can wait."
 "I knew you'd say that."
 "Yeah, yeah. Everyone wants a piece of me."
-Ezreal prepares to fire his weapon, but it malfunctions and shoots him in the face.
 "Time for a true display of ski-"
 "Systems offline."
 "Argh!"
@@ -400,7 +364,6 @@ Ezreal prepares to fire his weapon, but it malfunctions and shoots him in the fa
 "Argh! Not cool!"
 "Sorry, I don't understand 'a true display of skill.' Would you like to search the Chronoweb?"
 "Comedy Subroutine - Offline."
-Dance Music.
 "Target acquired!"
 "They're living in the past!"
 "Pulsefire cannon primed!"
@@ -456,13 +419,13 @@ Dance Music.
 "Bee-boop. I'm a computer. Haha, no, I'm a person."
 "You know what they say about guys with chromium plating."
 "More armor, more problems. Or less problems. Both."
-PEARL: "Pulsefire cannon at maximum power."
-PEARL: "Pulsefire Armor Upgrades - Complete"
+"Pulsefire cannon at maximum power."
+"Pulsefire Armor Upgrades - Complete"
 "All Systems - Fully Charged"
 "Jumping through dimensions… In style."
 "Cool future armor at 100%!"
 "Cannon arm: Check. Butt looks amazing… Double check."
-PEARL: "Mystic Shot - Armed."
+"Mystic Shot - Armed."
 "Essence Flux - Primed."
 "Arcane Shift - Enabled."
 "Trueshot Barrage - Charged"
@@ -504,9 +467,7 @@ PEARL: "Mystic Shot - Armed."
 "He who controls the past wins!"
 "Yup, that was pretty amazing! Even for a time wizard like myself."
 "Ho-ho! I might want to jump back and do that again!"
-"Whoa! That was 
-way
- easier than fighting those dinosaurs. Wait, you don't remember the dinosaurs? *chuckles* Yeah, of course you don't."
+"Whoa! That was  way  easier than fighting those dinosaurs. Wait, you don't remember the dinosaurs? *chuckles* Yeah, of course you don't."
 "How retro."
 "I'll take one of these."
 "This looks good."
@@ -585,35 +546,19 @@ way
 "Alright Ezreal, stay calm! And rely on your senses! These abilities are still unstable."
 "Crimson Dynamite..! No, not that… Crimson RUIN?! Ugh, I suck at naming attacks."
 "This place is on a whole other level! No more training wheels, I guess."
-"Were our powers really inherited from the god-weapons?
-"Once I master these powers, nothing will stop me from realizing my dreams!"
+"Were our powers really inherited from the god-weapons? "Once I master these powers, nothing will stop me from realizing my dreams!"
 "This better not make me late for class. I've got 12 tardies, and we're only 10 days into the semester!"
 "The second years are a lot stronger than us. But with the right training, we can surpass them!"
-"Katarina is one of the academies top students.. why is she fighting me?
-"Principal Yuumi? That's not good. I don't wanna get expelled!"
+"Katarina is one of the academies top students.. why is she fighting me? "Principal Yuumi? That's not good. I don't wanna get expelled!"
 "I'm sparring with Lux? W-what do I do? Do I fight her? We have a date later!"
 "That looks like a Star Guardian from those old comic books! Wait… are they real?"
 "Professor Graves must be testing me again. Then this time, I'm going to pass!"
 "Everyone looks up to Jayce as class president. If I can beat him, maybe they'll see me the same way!"
 "What? A MECH? And it's SHOOTING FIRE?! You've gotta be kidding!"
-Ezreal charges up his weapon and lets out a yell.
-"You ready?" (yells)
-"Watch this!" (yells)
-Ezreal yells.
-Ezreal yells.
-Ezreal yells.
-Ezreal yells.
-"Are you all talk? C'mon, let's do this!"
-Ezreal pulls out his phone and exchanges texts with 
- 
-Lux
-.
+"You ready?" (yells) "Watch this!" (yells) Ezreal yells. Ezreal yells. Ezreal yells. Ezreal yells. "Are you all talk? C'mon, let's do this!"
 "And who might this be?"
 "Ooh, a text!"
 "Maybe you should focus on the mission."
-Ezreal laughs.
-Ezreal laughs.
-Ezreal laughs.
 "Now you're in for it!"
 "Nice!"
 "I've broken past my limits!"
@@ -652,12 +597,6 @@ Ezreal laughs.
 "I'll never forgive you!"
 "I never back down from a fight!"
 "I'll never lose to someone like you!"
-Ezreal grunts.
-Ezreal grunts.
-Ezreal grunts.
-Ezreal grunts.
-Ezreal grunts.
-Ezreal grunts.
 "Hey, Jayce! I'm Ezreal. Remember the name."
 "Madam Principal, I'll fight you if I have to!"
 "Don't hold back, Lux!"
@@ -707,10 +646,8 @@ Ezreal grunts.
 "Woah! Professor Graves blew them away like it was nothing!"
 "Principal Yuumi magic is so… magical."
 "I don't have to fix those, do I?"
-Ezreal grunts.
 "Piece of cake."
 "How do you like that?"
-Ezreal grunts.
 "Hyah!"
 "I wasn't strong enough?"
 "I'm sorry… everyone…"
@@ -749,12 +686,11 @@ Ezreal grunts.
 "Back to saving the world."
 "This team's under my protection."
 "Ooh, that might leave a chip. Sorry little guy."
-Kindreds going to be so mad when they come back.""
+""
 "Wait, she's down? She's down! Ha ha! Buh-bye evil Sorceress!"
 "I don't know what happened to you, Lux, but I'll fix it. Promise."
 "Anyone got a broom?"
-Stripes roars
-Ezreal tries to mimic Stripes (coughs) "I'll leave the victory roar to you."
+"I'll leave the victory roar to you."
 "Thought I'd end up in pieces."
 "Okay. Time to dust off and try again."
 "Let's not make a pattern out of this."
@@ -768,7 +704,6 @@ Ezreal tries to mimic Stripes (coughs) "I'll leave the victory roar to you."
 "In the grim darkness of a far future, there is only war"
 "Now this is Podracing!"
 "If I'm not back in five minutes… just wait longer."
-"You lost today, Kid, but that doesn't mean you have to like it" ;
-"Everybody's lost but me."
- "Fortune and glory, kid. Fortune and glory."
+"You lost today, Kid, but that doesn't mean you have to like it" ; "Everybody's lost but me."
+"Fortune and glory, kid. Fortune and glory."
 "I have all the time in the world"

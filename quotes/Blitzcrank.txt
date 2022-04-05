@@ -8,23 +8,12 @@
 "Magic and steam guide me."
 "The time of man has come to an end."
 "I put the 'go' in 'golem'. That was humor. Other golems find that to be appropriately funny."
-Blitzcrank laughs
-Blitzcrank laughs
-Blitzcrank laughs
-Blitzcrank laughs
 "Metal is harder than flesh."
 "Bone is a poor alternative."
 "Look. You're leaking."
 "Your steam is escaping."
 "Quake in fear, fleshling."
 "Exterminate. Exterminate."
-Horn sound
-Police siren
-Police siren
-Police siren
-Blitzcrank groans
-Blitzcrank groans
-Blitzcrank groans
 "Initializing… Blitz, did you forget to fix the sforzandotron?"
 "The what?"
 "Blitz! Back on the controls! It's time to conquer the galaxy!"
@@ -97,21 +86,16 @@ Blitzcrank groans
 "Willump: not a cat. Nunu: not a cat. Worthless."
 "Rumble! Robot fight!"
 "Join us, Samira. Cats are more stylish than your… current companions."
-Blitz lands on the mech's hand and dances.
 "That's what you call moves? Pathetic!"
 "Your vibes are terrible."
-Music plays.
 "We are cats. You are beneath us."
-Blitz & Crank are distracted mid-dance by red point lasers on the ground.
 "This is no time for jokes, Blitz. The galaxy must be ours."
 "Wheee!"
 "Let's have fun! You wanna hear a joke?"
 "No! Though I suppose I will play."
-Music plays.
 "Rejected. I will destroy fun."
 "Ha ha ha."
 "Ha ha ha."
-Music plays.
 "Exterminate."
 "Weapons engaged."
 "End motor function."
@@ -180,7 +164,6 @@ Music plays.
 "Dance party!"
 "I do not want to be here."
 "Goodbye."
-Music plays.
 "Jettison pilots!"
 "Wuhhugh!"
 "Mechanical failure!"
@@ -189,30 +172,6 @@ Music plays.
 "Ugh. I felt… the groove."
 "Thank you, groove!"
 "Don't talk to the groove."
-Cat meow.
-Cat meow.
-Cat meow.
-Cat meow.
-Beep.
-Cat meow.
-Cat meow.
-Cat meow.
-Cat meow.
-Cat meow.
-Cat meow.
-Cat meow.
-Cat meow.
-Cat meow.
-Cat meow.
-Cat meow.
-Cat meow.
-Cat meow.
-Beep.
-Cat meow.
-Cat meow.
-Cat meow.
-Cat meow.
-Cat meow.
 "Loading. Recommend program: Enjoy Selves!"
 "GG!"
 "My face is leaking."

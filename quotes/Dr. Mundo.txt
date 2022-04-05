@@ -21,9 +21,7 @@
 "Oh, patients! Where are you?"
 "Me started this practice with nothing but bonesaw and dream."
 "Good patient get sticker. No, wait. Cleaver!"
-"Mundo help people in Zaun 
-and
- Piltover. Mundo without borders."
+"Mundo help people in Zaun  and  Piltover. Mundo without borders."
 "The head bone's connected to the-cleaver bone!"
 "Remember oath! First do no... uh... something."
 "Why Mundo do this? For the community!"
@@ -36,7 +34,7 @@ and
 "Hmm. Label say: may cause torn clothes, mood swings, purpleness. Me watch for that."
 "Mundo not remember Mundo before Mundo was Mundo."
 "Hmm. Me should get second opinion. What you think? Me concur! Great! We agree then! Him nice guy."
-With twenty-seven medical diplomas, Mundo ready to cure what ails you!"
+"
 "Sometimes me wonder, who is me to play god? Then me remember, me Mundo."
 "Dear medical journal. Mundo attempt brain transplant on Mundo today. Me think it go good."
 "Have a seat. The Mundo will see you shortly."
@@ -61,20 +59,10 @@ With twenty-seven medical diplomas, Mundo ready to cure what ails you!"
 "You seem like reasonable person. You must be doctor too!"
 "Doggy! You fetch cleaver."
 "Good news, robut. Me found problem: you covered in metal!"
-Dr. Mundo whimpers.
 "Hmm. Your chart look bad. Me recommend aggressive treatment!"
 "Sure, you hurt Mundo good. Me can take it."
-Dr. Mundo flexes his muscles, after which they deteriorate.
 "Healthy boy building a healthy body!"
-Dr. Mundo grunts.
 "You funny! Did you take Mundo's pills?"
-Dr. Mundo laughs.
-Dr. Mundo grunts.
-Dr. Mundo grunts.
-Dr. Mundo grunts.
-Dr. Mundo grunts.
-Dr. Mundo grunts.
-Dr. Mundo grunts.
 "Me have to amputate!"
 "Yup. You crazy!"
 "This not hurt a bit!"
@@ -107,18 +95,11 @@ Dr. Mundo grunts.
 "Here you go!"
 "Incision!"
 "Take two of these!"
-Dr. Mundo grunts.
 "Sew 'em up!"
-Dr. Mundo laughs.
 "Clear!"
 "Oh that tickles!"
 "Electricity!"
 "Defibrillator!"
-Dr. Mundo is being electrocuted.
-Dr. Mundo is being electrocuted.
-Dr. Mundo grunts.
-Dr. Mundo grunts.
-Dr. Mundo grunts.
 "Huh? Supposed to be painless."
 "Thanks for coming in!"
 "Discharged!"
@@ -128,7 +109,6 @@ Dr. Mundo grunts.
 "Healimify!"
 "Embiggenate!"
 "Healy juice!"
-Dr. Mundo grunts.
 "Call Mundo in morning!"
 "Don't forget your lollipop."
 "Remember to schedule follow-up."
@@ -145,13 +125,11 @@ Dr. Mundo grunts.
 "Mundo need medical supplies. To the dump!"
 "Oops, Mundo need to sterilize instruments, whatever that mean."
 "Dr. Mundo, you needed back at the healing place. Okay!"
-Dr. Mundo makes a noise.
 "Beep... beep... beeeep..."
 "Who... heals... Mundo?.."
 "Nurse... hold... Mundo... calls..."
 "Ugh... goodbye..."
 "Nurse... bring... wheelie thing..."
-Dr. Mundo groans.
 "Phew, Mundo thought Mundo lost Mundo!"
 "Mundo resuscicitated!"
 "Uhhh... is me okay? Mundo can't remember Mundo's name!"
@@ -217,17 +195,11 @@ Dr. Mundo groans.
 "Hush, quiet. Good news, Mundo have entry level job for you, just need two years of experience."
 "Hang on, uh-uh, Mundo need you to work weekends."
 "Mundo only hear incompetence."
-Dr. Mundo sets up a graph, then flips it upside down.
 "Oh, no! Mundo fix. All good. Stonks go up!"
 "Business all matter of perspective. There! All better."
 "Silly employee draw graph wrong. Mundo demonstrate good judgment!"
 "Best way to be rich is to not be poor!"
 "Mundo hire you for company seminar!"
-Dr. Mundo laughs.
-Dr. Mundo grunts.
-Dr. Mundo grunts.
-Dr. Mundo grunts.
-Dr. Mundo grunts.
 "Time for one-on-one!"
 "Never merge! Always acquire!"
 "File complaint with Mundo!"
@@ -260,32 +232,21 @@ Dr. Mundo grunts.
 "Mundo pay!"
 "Mundo sell!"
 "Mundo file!"
-Dr. Mundo grunts.
-Dr. Mundo grunts.
 "Paid!"
-"Filed!
-"Sold!"
+"Filed! "Sold!"
 "Market surge!"
 "Mundo bullish!"
 "Pump it up!"
-Dr. Mundo grunts.
-Dr. Mundo grunts.
 "Market crash!"
 "Dump it all!"
 "Mundo bearish!"
 "Woo!"
-Dr. Mundo grunts.
 "Money mayhem!"
 "Currency commotion!"
 "Trading tantrum!"
-Dr. Mundo grunts.
-Dr. Mundo grunts.
-Dr. Mundo grunts.
 "Corporate Mundo!"
 "Mundo promote Mundo!"
 "Too big to fail!"
-Dr. Mundo grunts.
-Dr. Mundo grunts.
 "Mundo do exit interview now."
 "Reduce overhead!"
 "See you at next business conference."
@@ -310,9 +271,6 @@ Dr. Mundo grunts.
 "Great meeting... everyone..."
 "Where's... golden parachute...?"
 "No!... my assets..."
-Dr. Mundo groans.
-Dr. Mundo groans.
-Dr. Mundo groans.
 "Mundo hate coming back to work after vacation."
 "Mundo failing upward."
 "Mundo back from suspension with pay."
@@ -322,5 +280,4 @@ Dr. Mundo groans.
 "Mundo win?"
 "Mundo hears defeat a lot, he sad if he doesn't hear victory."
 "I'll go where I please, and please where I go."
-Mundo achar você frutinha!
-Mundo esmaga!
+!

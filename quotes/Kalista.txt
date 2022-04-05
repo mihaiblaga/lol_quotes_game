@@ -53,10 +53,6 @@
 "Nothing shall distract - hey, hey hey!"
 "We act as one - two - three - cease this!"
 "There will be no escape - I said no escape!"
-Kalista laughs.
-Kalista laughs.
-Kalista laughs.
-Kalista laughs.
 "So your treachery ends."
 "We have no mercy."
 "Know your folly."
@@ -87,10 +83,7 @@ Kalista laughs.
 "Blood seals our pact."
 "We are one now."
 "We have heard your plea."
-"Do not forsake us, as 
- 
-he
- did."
+"Do not forsake us, as    he  did."
 "The oath has been taken."
 "Vengeance is at hand."
 "The pact is made."
@@ -133,15 +126,9 @@ he
 "We will not be impeded."
 "We will not be at the mercy of those who hide behind magic."
 "Foul sorcery shall not deter us."
-"In the end, it was not 
- 
-his blade
- that stole our lives."
+"In the end, it was not    his blade  that stole our lives."
 "As once it symbolized hope, so now shall it incite despair!"
-"Once, 
- 
-he
- was a noble king, until grief overcame his reason."
+"Once,    he  was a noble king, until grief overcame his reason."
 "So shall others feel the bite of steel."
 "Its edge is keen as the spear's tip."
 "This sharpens our focus."
@@ -159,6 +146,5 @@ he
 "Our spears are precise."
 "Know that we shall return."
 "We must attend to other matters."
-A crowd cheers.
 "You're meddling with powers you can't possibly comprehend"
 "Give in to your anger"

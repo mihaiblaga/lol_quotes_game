@@ -102,9 +102,7 @@
 "You wanted to be a god! Instead, you are a useless antique!"
 "Foul creature, you would stop time when all things must move!"
 "You soul is a fetid, stagnant pool, untouched by the tide!"
-"You are not free from death! You 
-are
- dead."
+"You are not free from death! You  are  dead."
 "Your powers are stolen from the flow. You have damned your homeland."
 "Abomination! You are without motion."
 "You suffered... but learned nothing."
@@ -176,24 +174,10 @@ are
 "Gangplank will find you."
 "You, I like."
 "Change, or feel my god's wrath."
-Illaoi laughs.
-Illaoi laughs.
-Illaoi laughs.
-Illaoi laughs.
-Illaoi grunts.
-Illaoi grunts.
-Illaoi grunts.
-Illaoi grunts.
-Illaoi grunts.
-Illaoi grunts.
-Illaoi grunts.
-Illaoi grunts.
 "You are not in motion."
 "This will be quick."
 "To live... is to fight."
-"You 
-will
- be tested."
+"You  will  be tested."
 "We never stop."
 "This is a great day."
 "Reality is brutal."
@@ -213,10 +197,6 @@ will
 "Move!"
 "Now!"
 "Learn!"
-Illaoi grunts.
-Illaoi grunts.
-Illaoi grunts.
-Illaoi grunts.
 "Altak, kaye-sayu. Altak kaye-sayu. Altak kaye-sayu."
 "Uwon shayos kaya. Uwon shayos, kaya."
 "Tua-shak yaoto. Tua-shak, yaoto, homu."
@@ -291,9 +271,6 @@ Illaoi grunts.
 "You have been tested. You have done well."
 "Don't make me test you again."
 "Did you blunder into victory, or did you learn?"
-Illaoi grunts.
-Illaoi grunts.
-Illaoi grunts.
 "Behold!"
 "Kebouros!"
 "Shai!"
@@ -315,9 +292,7 @@ Illaoi grunts.
 "This fits me better than Gangplank."
 "All on Buhru take this test - I passed it long ago."
 "Who is Randuin? Was she a priestess?"
-"Sterak? It is the fury of the 
-mother
- I will bring."
+"Sterak? It is the fury of the  mother  I will bring."
 "The Kraken. The Serpent. The Hydra. A god's appearance is limited only by those observing it."
 "It is my god that protects me - but these metal clothes are nice."
 "Nagakabouros, uki, uki."
@@ -325,7 +300,4 @@ mother
 "Sheeyutu Nagakabouros. Nagakabouros-shee-shok."
 "Buhru-latachi."
 "Epoi-Buhru, daliet-shee."
-Illaoi groans.
-Illaoi groans.
-Illaoi groans.
-Illaoi groans.
+.

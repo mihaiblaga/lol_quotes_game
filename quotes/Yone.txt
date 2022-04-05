@@ -1,7 +1,5 @@
 "One to cut, one to seal."
-"You think 
-I
- am the one to fear? Hmph."
+"You think  I  am the one to fear? Hmph."
 "Before, I chased a wayward gale. Now I hunt a storm of darkness."
 "Many mistake me for the nightmares I slay. Hmph, let them."
 "In this cursed second life, where does the mask end, and I begin?"
@@ -51,9 +49,7 @@ I
 "Blink, and you'll miss your own death!"
 "Two paths cross. One, condemned to end."
 "Ah, to be blind to the true dangers of this world!"
-"A walking 
-feast
- for azakana!"
+"A walking  feast  for azakana!"
 "Such bravado! But you're fooling no one."
 "I know your name."
 "Death rejected me, but I'm sure it will welcome you!"
@@ -65,9 +61,7 @@ feast
 "A comfort to see you, Lillia, after so many azakana..."
 "Do not wish to hide behind masks, Lillia. Yours... is a kind face."
 "Living nightmare! I will end you before you cross paths with the dream fawn!"
-"Guilt clings to you, Riven. Forgive yourself, or the azakana 
-will
- find you."
+"Guilt clings to you, Riven. Forgive yourself, or the azakana  will  find you."
 "Balance is a delusion, Shen. Surely you see that now."
 "Grafted to a demon by choice?  What a grand fool!"
 "Tahm Kench.  Twocoats.  I know your true name, demon!"
@@ -78,20 +72,10 @@ will
 "An innocent spirit! I'd... almost forgotten those existed!"
 "Unhaunted, unworthy of my time!"
 "Azakana, once named... can be bound."
-Yone slices a fish in half, carries its raw meat in his hand, and reminisces on being able to eat.
 "Ah, eating. How I miss it."
-Yone sighs.
 "Heh."
 "Hmph."
 "Heh."
-Intro
-Loop
-Effort sound
-Effort sound
-Effort sound
-Effort sound
-Effort sound
-Effort sound
 "Kindness is a luxury!"
 "This is your remedy!"
 "Out of my way!"
@@ -123,7 +107,6 @@ Effort sound
 "Piercing winds!"
 "Storm of blades!"
 "Steel gale!"
-Yone shouts in an Ancient Ionian dialect.
 "O'sai!"
 "Kuo'an!"
 "Kase'ton!"
@@ -140,7 +123,6 @@ Yone shouts in an Ancient Ionian dialect.
 "My blades know your name!"
 "Let's end this!"
 "Nothing personal!"
-Effort sound
 "Blades blossom!"
 "Demons begone!"
 "Spirits unleashed!"
@@ -216,9 +198,7 @@ Effort sound
 "Do not waste breath tempting me to darkness."
 "Attack, if you like. Swords are unnecessary for swatting flies."
 "Not worth my scorn."
-Yone sighs.
 "The end of days is upon us, and you jest?"
-Yone laughs
 "You seek destruction?"
 "Spare yourself and run!"
 "Do not test me."
@@ -298,10 +278,7 @@ Yone laughs
 "Sleep is for the guiltless."
 "The road to ruin, I've walked it once before."
 "The road to ruin is shorter than you think."
-"Kindness is a luxury!
-"Virtue is no more than a luxury.
-"Forget the past, it only clouds the future."
-"Hmph. One step ahead of the past.
-"On a cliff by the sea I found the strangest spirit. It walked on four legs and spoke of dreams."
+"Kindness is a luxury! "Virtue is no more than a luxury. "Forget the past, it only clouds the future."
+"Hmph. One step ahead of the past. "On a cliff by the sea I found the strangest spirit. It walked on four legs and spoke of dreams."
 "I met the strangest human in my forest. D-Do you think they're here? I still have their dream."
 "Nothing personal!"

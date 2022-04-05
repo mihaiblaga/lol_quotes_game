@@ -52,14 +52,8 @@
 "Please take care of the maiden... or I won't go easy on you."
 "I heard something. 'You are bad!' They said it, not me."
 "How sad, you must be broken on the inside."
-Gwen transforms back into a doll.
 "Just like the good old times. Sweet, simple, and out of control!"
 "Bad jokes are a waste of life!"
-Gwen laughs.
-Gwen grunts.
-Gwen grunts.
-Gwen grunts.
-Gwen grunts.
 "Oh, joy!"
 "Looking for a tailor?"
 "Whatever it takes!"
@@ -85,8 +79,6 @@ Gwen grunts.
 "Cut through!"
 "Snip snip!"
 "To pieces!"
-Gwen grunts.
-Gwen grunts.
 "Hallowed protection."
 "Safe and sound."
 "Blessed mist!"
@@ -95,15 +87,9 @@ Gwen grunts.
 "I'm gone!"
 "Promptly!"
 "Quick quick!"
-Gwen laughs.
-Gwen grunts.
 "Needles out!"
 "Go!"
 "Enough!"
-Gwen shouts.
-Gwen shouts.
-Gwen shouts.
-Gwen shouts.
 "Out of my way!"
 "She's still with me!"
 "Pin them down!"
@@ -140,8 +126,6 @@ Gwen shouts.
 "No!"
 "Just... a few more breaths..."
 "Not yet! I promised..."
-Gwen groans.
-Gwen groans.
 "Ugh, I can't give up! Not now, not ever!"
 "Oh? I thought I was lost, but I'm still here. I'm still alive!"
 "Ugh, I can do this! For her, and for everyone!"

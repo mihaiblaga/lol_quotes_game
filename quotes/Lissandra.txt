@@ -61,20 +61,11 @@
 "The world began in ice and it will end in ice."
 "Close your eyes and let the cold take you."
 "I've killed so many queens I've lost count!"
-"You 
-really
- picked the wrong side."
+"You  really  picked the wrong side."
 "Kneel before me and I will unleash your power!"
 "I make cold look... hot."
 "I consider frigid a compliment."
 "Is it cold in here, or is it just me?"
-Lissandra laughs.
-Lissandra laughs.
-Lissandra laughs.
-Lissandra grunts.
-Lissandra grunts.
-Lissandra grunts.
-Lissandra grunts.
 "I am Iceborn."
 "Flesh freezes so easily."
 "Foolish child."
@@ -86,29 +77,9 @@ Lissandra grunts.
 "Feel the power of true ice!"
 "Your death serves greater purpose."
 "Another frozen corpse."
-Lissandra grunts.
-Lissandra grunts.
-Lissandra grunts.
-Lissandra grunts.
-Lissandra grunts.
-Lissandra grunts.
-Lissandra grunts.
-Lissandra grunts.
-Lissandra grunts.
-Lissandra grunts.
-Lissandra grunts.
-Lissandra grunts.
 "Freeze!"
 "Entomb!"
 "Kneel!"
-Lissandra grunts.
-Lissandra grunts.
-Lissandra grunts.
-Lissandra grunts.
-Lissandra screams.
-Lissandra screams.
-Lissandra screams.
-Lissandra screams.
 "At last, our ascension is at hand!"
 "The Iceborn rule Freljord!"
-Lissandra's monologue.
+.

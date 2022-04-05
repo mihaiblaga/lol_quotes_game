@@ -4,12 +4,8 @@
 "My fellow travelers, you are all about to witness my majestic epicness! ... unless I get killed, but... probably not!"
 "Okay, everybody, I'm here, I'm here... the party starts now!"
 "Magic is in the heart. Magic is in the rhythm."
-"You see this cape? Ha! I say god
-damn
- I'm sexy!"
-"I can't wait to get in there. I don't know what I'm going to do, but I am going to 
-get in there!
-"
+"You see this cape? Ha! I say god damn  I'm sexy!"
+"I can't wait to get in there. I don't know what I'm going to do, but I am going to  get in there! "
 "Xayah? Xayah? Crap. What was I supposed to do?"
 "Nothing important should be taken seriously."
 "War is in the dance."
@@ -33,13 +29,9 @@ get in there!
 "Like you can talk."
 "If things go wrong---"
 "They always go wrong."
-"They don't 
-always
- go wrong."
+"They don't  always  go wrong."
 "Mostly?"
-"They 
-mostly
- go wrong."
+"They  mostly  go wrong."
 "That's why I'm here."
 "So, this mission... are we, uh...?"
 "Are you pretending to be dumb?"
@@ -78,7 +70,6 @@ mostly
 "Ha! I'm G to the D! Golden diamonds, boy! Woo!"
 "I'm just trying to live the moment."
 "I don't need anything - but the right now."
-Rakan sings.
 "Man, have you seen that forest over there?"
 "I got freedom, I got a lady, I got a cause I'd die for. That's who I am."
 "Don't leave nothing! Bring it all!"
@@ -93,7 +84,6 @@ Rakan sings.
 "Humans think that to believe in something, you have to be serious about it. That's their problem."
 "They ain't ready for what I'm bringing!"
 "Ain't nothing I say should be taken seriously! That's why it's the truth!"
-Rakan raps.
 "This looks like another dangerous situation. Thankfully, I can improvise."
 "They're gonna' try and test me? Haha!"
 "Danger is as fun as you let it be."
@@ -201,9 +191,7 @@ Rakan raps.
 "... nah. Freedom fighting is a good look for me."
 "What are those things humans wear on their feet?"
 "Shoes."
-"I need shoes. Red ones. I need them 
-so
- bad."
+"I need shoes. Red ones. I need them  so  bad."
 "Did I tell you I love you?"
 "Yes... but say it anyway."
 "I love you."
@@ -214,9 +202,7 @@ so
 "Aw... "
 "Xayah? I think we got a problem... "
 "Think, or know?"
-"I... 
-know
- we got a problem?"
+"I...  know  we got a problem?"
 "I'm so tired... "
 "You gotta rest, honey."
 "Everyone is depending on me."
@@ -237,9 +223,6 @@ know
 "I swear, you will be the death of me."
 "I'm fine with that."
 "Me too."
-Rakan asks something in Vastayan.
-Xayah replies in Vastayan.
-Xayah and Rakan laugh.
 "If we get separated, I'll find you."
 "We won't get separated."
 "You're already wandering off."
@@ -248,9 +231,7 @@ Xayah and Rakan laugh.
 "Why, thank you, darling."
 "Yes. I was... definitely talking about you, honey."
 "I need you to be more careful."
-"If anybody's gonna' die first, it's gonna' be me. I can't see you die. Also, black is a 
-terrible
- color on me."
+"If anybody's gonna' die first, it's gonna' be me. I can't see you die. Also, black is a  terrible  color on me."
 "Play it safe!"
 "Baby, I don't do safe!"
 "You okay?"
@@ -330,14 +311,9 @@ terrible
 "You! You can know these things!"
 "I love you!"
 "I know."
-Rakan sings.
-"Heh, like this... " Rakan sings.
-Rakan sings.
-Rakan sings.
-"Oh, here we go again. Mhm. Mister Scatman, uh huh. ... oh, he's got me going now... "
+"Heh, like this... " Rakan sings. Rakan sings. Rakan sings. "Oh, here we go again. Mhm. Mister Scatman, uh huh. ... oh, he's got me going now... "
 "Sing it with me, baby."
 "I don't know the words."
-Xayah groans.
 "You know, I ain't really about making fun of people, but you... make that difficult."
 "I got three rules. You're breaking two of them with that outfit."
 "Can we just get started already?"
@@ -360,14 +336,8 @@ Xayah groans.
 "At what?"
 "Smile and nod, honey."
 "Can we leave now?"
-"Do you want to smell it? 
-Not for you!
-"
-"You want to smell it? 
-No flower for you!
-"
-Rakan laughs.
-Rakan laughs.
+"Do you want to smell it?  Not for you! "
+"You want to smell it?  No flower for you! "
 "Let's get it!"
 "I got some moves for you!"
 "This is you getting slapped!"
@@ -402,9 +372,7 @@ Rakan laughs.
 "Hey! I got a joke for you!"
 "I'm right here!"
 "Am I not magnificent?"
-"I'm gonna' tear this place 
-up!
-"
+"I'm gonna' tear this place  up! "
 "Oh! I need to get in there!"
 "Hey, what did the five fingers say to the face?"
 "I feel alright!"
@@ -509,8 +477,6 @@ up!
 "Better now."
 "I got you!"
 "Thanks, babe."
-Rakan blows a kiss.
-Xayah blows a kiss.
 "You're welcome."
 "Thank you."
 "Thank you!"
@@ -628,91 +594,91 @@ Xayah blows a kiss.
 "Nice job, babe."
 "They couldn't keep up with you."
 "Only you can, Rakan."
-(Distant) "Babe! Get 'em!"
-(Nearby) "Babe! Get 'em!"
-(Distant) "You got it!"
-(Nearby) "You got it!"
-(Distant) "Deal with them!"
-(Nearby) "Deal with them!"
-(Distant) "You want it?"
-(Nearby) "You want it?"
-(Distant) "Take 'em down!"
-(Nearby) "Take 'em down!"
-(Distant) "That one!"
-(Nearby) "That one!"
-(Distant) "Rakan, slap this fool for me!"
-(Nearby) "Rakan, slap this fool for me!"
-(Distant) "Get my back."
-(Nearby) "Get my back."
-(Distant) "I need help!"
-(Nearby) "I need help!"
-(Distant) "Things are getting ugly."
-(Nearby) "Things are getting ugly."
-(Distant) "Yo! Little help!"
-(Nearby) "Yo! Little help!"
-(Distant) "I can't do this alone."
-(Nearby) "I can't do this alone."
-(Distant) "Babe, watch out."
-(Nearby) "Babe, watch out."
-(Distant) "Watch out."
-(Nearby) "Watch out."
-(Distant) "Stay sharp."
-(Nearby) "Stay sharp."
-(Distant) "Eyes up."
-(Nearby) "Eyes up."
-(Distant) "Bad thing."
-(Nearby) "Bad thing."
-(Distant) "Hang back."
-(Nearby) "Hang back."
-(Distant) "Hang back."
-(Nearby) "Hang back."
-(Distant) "Danger!"
-(Nearby) "Danger!"
-(Distant) "Look alive."
-(Nearby) "Look alive."
-(Distant) "Look alive."
-(Nearby) "Look alive."
-(Distant) "Stay alert!"
-(Nearby) "Stay alert!"
-(Distant) "They're gone."
-(Nearby) "They're gone."
-(Distant) "They vanished."
-(Nearby) "They vanished."
-(Distant) "Lost visual."
-(Nearby) "Lost visual."
-(Distant) "Enemy missing."
-(Nearby) "Enemy missing."
-(Distant) "Enemy missing."
-(Nearby) "Enemy missing."
-(Distant) "I don't see them."
-(Nearby) "I don't see them."
-(Distant) "Can't find them."
-(Nearby) "Can't find them."
-(Distant) "Bringing the pain."
-(Nearby) "Bringing the pain."
-(Distant) "On my way."
-(Nearby) "On my way."
-(Distant) "On my way."
-(Nearby) "On my way."
-(Distant) "Stay alive."
-(Nearby) "Stay alive."
-(Distant) "Here I come!"
-(Nearby) "Here I come!"
-(Distant) "Here I come!"
-(Nearby) "Here I come!"
-(Distant) "On it."
-(Nearby) "On it."
-(Distant) "On my way!"
-(Distant) "En route."
-(Nearby) "En route."
-(Distant) "Headed to ya."
-(Nearby) "Headed to ya."
-(Distant) "Keep it together!"
-(Nearby) "Keep it together!"
-(Distant) "I'm on the move."
-(Nearby) "I'm on the move."
-(Distant) "I'm on the move."
-(Nearby) "I'm on the move."
+"Babe! Get 'em!"
+"Babe! Get 'em!"
+"You got it!"
+"You got it!"
+"Deal with them!"
+"Deal with them!"
+"You want it?"
+"You want it?"
+"Take 'em down!"
+"Take 'em down!"
+"That one!"
+"That one!"
+"Rakan, slap this fool for me!"
+"Rakan, slap this fool for me!"
+"Get my back."
+"Get my back."
+"I need help!"
+"I need help!"
+"Things are getting ugly."
+"Things are getting ugly."
+"Yo! Little help!"
+"Yo! Little help!"
+"I can't do this alone."
+"I can't do this alone."
+"Babe, watch out."
+"Babe, watch out."
+"Watch out."
+"Watch out."
+"Stay sharp."
+"Stay sharp."
+"Eyes up."
+"Eyes up."
+"Bad thing."
+"Bad thing."
+"Hang back."
+"Hang back."
+"Hang back."
+"Hang back."
+"Danger!"
+"Danger!"
+"Look alive."
+"Look alive."
+"Look alive."
+"Look alive."
+"Stay alert!"
+"Stay alert!"
+"They're gone."
+"They're gone."
+"They vanished."
+"They vanished."
+"Lost visual."
+"Lost visual."
+"Enemy missing."
+"Enemy missing."
+"Enemy missing."
+"Enemy missing."
+"I don't see them."
+"I don't see them."
+"Can't find them."
+"Can't find them."
+"Bringing the pain."
+"Bringing the pain."
+"On my way."
+"On my way."
+"On my way."
+"On my way."
+"Stay alive."
+"Stay alive."
+"Here I come!"
+"Here I come!"
+"Here I come!"
+"Here I come!"
+"On it."
+"On it."
+"On my way!"
+"En route."
+"En route."
+"Headed to ya."
+"Headed to ya."
+"Keep it together!"
+"Keep it together!"
+"I'm on the move."
+"I'm on the move."
+"I'm on the move."
+"I'm on the move."
 "Let's go! Baby! Baby? Baby? Baby!"
 "Want to catch a ride?"
 "You got to keep up, baby!"
@@ -722,33 +688,10 @@ Xayah blows a kiss.
 "Damn... "
 "Not like this... "
 "Open... casket... "
-A slightly more stripped-down version of the Star Guardian 2019 login theme plays.
 "Well, I tried being good! But evil just brings out the sparkle in my eyes."
 "Riku, how can you be tired already? We just got here!"
 "What was the plan again? Oh yeah! Destroy hope, bring the second coming of darkness, and get some new hair gel. I'm almost out."
-“Ready to take over the universe?”
-"Stick to the plan”
-"I thought you said we didn't have one?”
-"We have a plan, and it's evil and awesome!”
-"Whatever you say, babe!”
-“Ugh, I hate the forces of good.”
-"I know what'll cheer you up...”
-"Murdering the Star Guardians!”
-“Hey! I have an evil plan!”
-"You're sure it's an evil plan?”
-“Yeah! Riku and I'll just make it up as we go along!”
-“That doesn't sound very evil.”
-“You sure this is a good idea?”
-“We have no choice.”
-“Don't get killed again.”
-“Like you can talk.”
-“Zoe's plans never go wrong!”
-“They always go wrong”
-“Its the Star Guardians' fault! The plans...work.”
-“Really?”
-“We might have to improvise.”
-“Good thing you got me, babe!”
-"Good guys? Ha! How quaint! I just learned that word. I like it."
+"Stick to the plan” "I thought you said we didn't have one?” "We have a plan, and it's evil and awesome!” "Whatever you say, babe!” “Ugh, I hate the forces of good.” "I know what'll cheer you up...” "Murdering the Star Guardians!” “Hey! I have an evil plan!” "You're sure it's an evil plan?” “Yeah! Riku and I'll just make it up as we go along!” “That doesn't sound very evil.” “You sure this is a good idea?” “We have no choice.” “Don't get killed again.” “Like you can talk.” “Zoe's plans never go wrong!” “They always go wrong” “Its the Star Guardians' fault! The plans...work.” “Really?” “We might have to improvise.” “Good thing you got me, babe!” "Good guys? Ha! How quaint! I just learned that word. I like it."
 "Yeah. The Star Guardians looked a whole lot better when I was on the team."
 "Get ready to shine, Riku. We're gonna knock out some starlights."
 "Woo! Being bad just feels so good!"
@@ -773,28 +716,6 @@ A slightly more stripped-down version of the Star Guardian 2019 login theme play
 "I dance to the beat... The beat called darkness."
 "Hoohoo! I feel a fight comin'."
 "Safety is boring, Riku. Let's start a fight!"
-“Remember that time on the lonely planet?”
-“Didn't we...die there?”
-“Being alone with you was very romantic. I wanna go back.”
-“But...we died.”
-“Why can't the Star Guardians just embrace destruction?”
-“They're too busy making stupid high school plans.”
-“Why?”
-“Because they're gross losers.”
-“You know my love will save you.”
-“Cut it out. We're being evil.”
-“If you don't wanna go with me-”
-“No, I'm ready.”
-“And you don't need to change outfits twenty times before we leave.”
-“Nah, being a handsome villain is a good look for me.”
-“What are those things the Star Guardians wear?”
-“Shoes?”
-“No. Those cool swoopy flowy scarf things. I want a blue one.”
-“Hey, Xayah. Xayah.”
-“What? Did you say something?”
-“Meh, nevermind.”
-“I need you to be more careful.”
-“If anybody is gonna die first, it's gonna be me. I can't see you die again.”
 "Riku! I did not rescue you from a cold dead planet so that you could laugh at me! I rescued you so you could hold my mirror and tell me I look good!"
 "Stars are just sad, lonely lightbulbs floating in space revolving endlessly in a cycle they can't control... Anyone have chocolate? I'm craving chocolate."
 "Woo! Danger brings out my bad side. Just kidding. All my sides are equally breathtaking."
@@ -829,12 +750,6 @@ A slightly more stripped-down version of the Star Guardian 2019 login theme play
 "C'mon, Riku. Truce? *Riku chittering* Ugh, never mind!"
 "Riku. I got your favourite star-shaped treats. *Riku chittering* Ahh, not the hair! Not the hair!"
 "Hahahaha! Oh, I was just laughing at how bad your joke was."
-Rakan laughs
-Rakan laughs
-Rakan laughs
-Rakan laughs
-Rakan laughs
-Rakan laughs
 "I look good. Cosmically good!"
 "You ain't ready for this darkness!"
 "Embrace the crazy!"
@@ -888,8 +803,7 @@ Rakan laughs
 "Woo! Killing makes me feel so alive!"
 "Yeah! Thought so, nerd!"
 "Wow, your plan really failed, huh?"
-"Babe, I helped, right?" 
-"Well, you were certainly there."
+"Babe, I helped, right?"  "Well, you were certainly there."
 "Time to say 'farewell' to those pitiful star losers."
 "Oh, you mean like 'Ciao, star nerds!'?"
 "Sure, honey. Whatever you like."
@@ -915,12 +829,7 @@ Rakan laughs
 "Can't kill evil. But you can wear it like a sweet cloak."
 "Woo! I am alive!"
 "Thanks, Riku! Real cold in there."
-The only way to make sense out of change is to plunge into it, move with it and join the dance
-Stayin' Alive
 "Let's go! Baby! Baby? Baby? Baby!"
-Silent Hill
 "Ha! I'm, G to the D! Golden Diamonds, boy! Woo!"
-Crayon
 "Name one genius that ain't crazy."
-Feedback
  

@@ -66,16 +66,10 @@
 "You call this civilized?"
 "You cannot cage me, summoner."
 "Instinct guides my steps."
-(Human) "Here mousy, mousy, mousy... "
-(Cougar) Nidalee licks her paw.
-(Human) "Did I mention it's mating season?"
-(Cougar) Nidalee rolls over on her back.
-Nidalee laughs.
-Nidalee laughs.
-Nidalee laughs.
+"Here mousy, mousy, mousy... "
+"Did I mention it's mating season?"
 "Claw or spear, your end's the same."
 "Mmm, the taste of coward."
-Nidalee hisses.
 "We'll prey on the civilized."
 "I'll show these house cats real claws."
 "The untamed know no fear."

@@ -10,10 +10,7 @@
 "Death is not the end for you, I have seen to it. For eternity, you are mine!"
 "Ah, the tangled webs we weave..."
 "Nom nom nom nom nom nom nom!"
-Fast "Nom nom nom nom nom nom nom!"
-Cho'Gath laughs.
-Cho'Gath laughs.
-Cho'Gath laughs.
+"Nom nom nom nom nom nom nom!"
 "You have stains upon your soul... perfect."
 "Who will be eaten first?"
 "Your souls will feed the Void!"
@@ -30,12 +27,7 @@ Cho'Gath laughs.
 "What, what… What?!"
 "Would you like some cheese with your whine?"
 "It's funny, isn't it? How your best friend can just blow up like that?"
-Slow "Nom nom nom nom nom!
-Cho'Gath laughs.
-Cho'Gath laughs.
-Cho'Gath laughs.
-Cho'Gath laughs.
-"You, sir, are a coward and a ruffian!"
+"Nom nom nom nom nom! Cho'Gath laughs. Cho'Gath laughs. Cho'Gath laughs. Cho'Gath laughs. "You, sir, are a coward and a ruffian!"
 "You cheeky little fellow!"
 "One can survive everything nowadays, except death!"
 "I challenge you to a duel!"
@@ -62,18 +54,11 @@ Cho'Gath laughs.
 "When all humans die, I will remain."
 "Cleanse the world of bio-filth."
 "Possible emotion detected. Purging database."
-"Obliterate 
-all
- resistance."
+"Obliterate  all  resistance."
 "Humans!"
 "Bow down!"
 "Doom cannon, fire! Raaaaagh!"
 "Long range communications… sent."
-Cho'Gath laughs.
-Cho'Gath laughs.
-Cho'Gath laughs.
-Cho'Gath laughs.
-Music plays.
 "Initiating combat."
 "Escalating aggression."
 "Crush them underfoot."
@@ -94,23 +79,16 @@ Music plays.
 "OM nom nom nom nom nom."
 "Nom nom nom nom nom nom nom."
 "Arm nom nom nom."
-Feast
 "Mass increasing."
 "Repurposing consumed materials."
 "Durability improved."
-Feast
 "Structural integrity reinforced."
 "Quantifying nutritional value."
 "Compacting devoured subject into cube."
-Feast
 "Maximum Cho'Gath!"
 "Core reactor fully charged!"
 "Puny creatures, observe perfection!"
-"Let the consumption begin." (Level 6)
-"Power levels rising." (Level 11)
-"Approaching peak output." (Level 16)
-"Final state reached. Tremble before me." (Level 18)
-"Refueling required."
+"Let the consumption begin." (Level 6) "Power levels rising." (Level 11) "Approaching peak output." (Level 16) "Final state reached. Tremble before me." (Level 18) "Refueling required."
 "Condensing for transport."
 "Returning to docking station."
 "Rebooting."

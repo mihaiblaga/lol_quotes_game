@@ -20,7 +20,6 @@
 "I'm on to you!"
 "Watch your step."
 "Who's following me?"
-Twitch plays his crossbow like a violin.
 "One of these is going to get stuck in your head."
 "They can play this at your funeral."
 "I'm dedicating this piece to you."
@@ -32,15 +31,10 @@ Twitch plays his crossbow like a violin.
 "I see why everyone chases you."
 "Stop moving my stench!"
 "The only thing the sun's good for is what it does to milk."
-Twitch pulls out a moldy cheese and eats it.
 "Always pack a snack a month in advance!"
 "Ah, finally ripe!"
 "Sneaking around really works up your appetite!"
 "I'm a connoisseur of the finer things!"
-Twitch laughs.
-Twitch laughs.
-Twitch laughs.
-Twitch laughs.
 "They'll have more holes than my favorite cheese."
 "Mine!"
 "I demand tribute!"
@@ -64,7 +58,6 @@ Twitch laughs.
 "Aim, then shoot. Aim, then shoot."
 "I'll be right under their noses."
 "Time to go."
-Twitch hums a tune.
 "Sneaky, sneaky... "
 "It's me! Hahahahaa!"
 "Hi!"
@@ -77,11 +70,8 @@ Twitch hums a tune.
 "You're looking a little green!"
 "Share this!"
 "Sewer skewers for everybody!"
-"Pins and needles!" (laughs)
-"This will do."
-"It's mine. 
-I
- licked it."
+"Pins and needles!" (laughs) "This will do."
+"It's mine.  I  licked it."
 "Ah, a little stench and it'll be perfect."
 "Oh, this doesn't smell at all."
 "Shiny? Ugh."
@@ -112,5 +102,4 @@ I
 "Rexpeita o Rato"
 "Respect the Rat"
 "Would you make me a sandwich?"
-"All tunnels lead to 
-Skavenblight"
+"All tunnels lead to  Skavenblight"

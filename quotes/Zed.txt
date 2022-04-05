@@ -14,17 +14,7 @@
 "Embrace the shadow... or die in darkness!"
 "The merest shade of me... is enough to defeat you!"
 "Challenge me, Shen... you shall not be an orphan long!"
-Zed plays 'rock, paper, scissors' with his shadow. If he wins, his shadow bows and disappears. If he loses, he kills his shadow.
 "Forbidden shadow wins."
-Zed snarls.
-Zed laughs.
-Zed laughs.
-Zed laughs.
-Zed laughs.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
 "Only the worthy will survive."
 "I am the blade in the darkness."
 "Cut the last breath from them."
@@ -34,29 +24,6 @@ Zed grunts.
 "They follow the wrong master."
 "None escape their shadow."
 "Ignorance is fatal."
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed chuckles.
-Zed chuckles.
-Zed chuckles.
-Zed chuckles.
-Zed groans.
-Zed groans.
-Zed groans.
 "We are life perfected."
 "What we have seen... what we have done... you are all part of it."
 "We will cure the galaxy of conflict. We will cure the galaxy of ignorance."
@@ -126,21 +93,6 @@ Zed groans.
 "Have you come to dine with us? Oh, wait... of course. You are us."
 "Look at us! Are we not the perfect reflection of your juvenile fantasies?"
 "Your jokes. They lack humor."
-Zed brings out a boombox.
-Zed laughs.
-Zed laughs.
-Zed laughs.
-Zed laughs.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Zed grunts.
 "Witness our superior form."
 "Silence your thoughts."
 "The cosmos demands better."
@@ -176,28 +128,12 @@ Zed grunts.
 "Sona! You disappoint us."
 "Are you worthy of that title 'captain'?"
 "Ready to be disgraced again Ziggs?"
-Zed grunts.
-Zed grunts.
-Zed grunts.
-Sound effect
-Sound effect
-Sound effect
 "Perfection."
 "Divide."
 "Behold."
 "Flawless."
 "One more."
 "Replicate."
-Zed grunts.
-Zed grunts.
-Sound effect
-Sound effect
-Sound effect
-Sound effect
-Sound effect
-Sound effect
-Zed laughs.
-Zed laughs.
 "We. Are. Zed."
 "It's over."
 "You're already dead."
@@ -222,9 +158,6 @@ Zed laughs.
 "A moment of peace... before our victory."
 "You all may live... until we return."
 "We go... to collect untold power."
-Nonverbal cry.
-Nonverbal cry.
-Nonverbal cry.
 "The Galaxy still needs us..."
 "Ora lasts forever..."
 "Nothing can bury us."

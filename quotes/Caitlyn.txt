@@ -4,9 +4,7 @@
 "Every case, every investigation brings me one step closer to justice."
 "It's easy to overlook the rust beneath the gilding, but I never miss a detail."
 "My duty is to protect the citizens of Piltover, and I will see that through."
-"I ought to thank 
-'C'
- for setting me on this path. Life in prison seems a proper gift, does it not?"
+"I ought to thank  'C'  for setting me on this path. Life in prison seems a proper gift, does it not?"
 "It should be progress, not power and fear, that leads Piltover into the future."
 "I'm placing my trust in you lot. Let's see this case through... and try not to disappoint me."
 "I'll be keeping a close eye on you, Jinx. You've caused enough chaos as it is."
@@ -59,10 +57,8 @@
 "Oh, a Yordle. How cute."
 "Think you're above the law? Think again."
 "Admitting your guilt? How generous."
-Caitlyn tries to fire her rifle, but a flag pops out of its barrel.
 "Ready, aim... (gasps) Urgh! Why am I not surprised?"
 "You have the right to remain silent. I advise you use it."
-Caitlyn laughs.
 "You won't escape!"
 "Got them in my sights."
 "I aim to win."
@@ -84,21 +80,9 @@ Caitlyn laughs.
 "Brilliant!"
 "As expected."
 "Boom! Headshot."
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
 "Pay no attention to the trap."
 "Fancy a treat?"
 "Mind the trap."
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
 "Right where I want you."
 "Got you!"
 "Going somewhere?"
@@ -106,10 +90,6 @@ Caitlyn grunts.
 "Think again."
 "Excellent shot!"
 "Not so close."
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
 "In my sights."
 "Target marked."
 "Taking aim."
@@ -157,7 +137,6 @@ Caitlyn grunts.
 "I cannot let them down..."
 "Can't leave this unsolved..."
 "Tell Vi that I..."
-Caitlyn groans.
 "I'm back on the case! And this time I will not fail."
 "It seems I may have a new suspect..."
 "I'll be adding that to the charges."
@@ -196,9 +175,7 @@ Caitlyn groans.
 "Keep moving on."
 "Back to work."
 "Tomorrow is now."
-"Time has laws. Time 
-is
- law."
+"Time has laws. Time  is  law."
 "Reality is held together by laws."
 "Time cannot be a circle. It has to be a line."
 "I'm from the future."
@@ -217,9 +194,7 @@ is
 "In the future, one of us is alive. Hint: it's not you."
 "This should be easy. My weapon is fueled by rubbish."
 "Mine's bigger than yours."
-"That's not a gun. 
-This
- is a gun."
+"That's not a gun.  This  is a gun."
 "You can say hello to the future when you're dead."
 "Are you version six or seven? I've lost count."
 "This timeline looks fabulous on you."
@@ -234,16 +209,9 @@ This
 "I'm the pun police - and you're under arrest."
 "How primitive."
 "Lovely."
-Caitlyn laughs.
-Caitlyn laughs.
-Caitlyn laughs.
-Caitlyn laughs.
-Caitlyn laughs.
-Caitlyn laughs.
 "They can't arrest these sick moves."
 "In the future, dancing is illegal."
 "It's just a jump to the left."
-Music plays.
 "You only get one shot."
 "This moment is all you get."
 "You're wasting your time."
@@ -289,36 +257,18 @@ Music plays.
 "Boom, nonexistence."
 "Boom, cranium blast."
 "Boom, brain hole."
-Caitlyn grunts.
-Caitlyn grunts.
 "Peacemaker protocol initiated!"
 "Time to take the shot!"
 "Tempus fugit, scumbag!"
 "Prepare yourself!"
-Caitlyn shouts.
-Caitlyn shouts.
 "Countermeasures engaged!"
 "Here's a warning - it's a trap."
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
 "One singularity net, coming up!"
 "Not so fast."
 "Oh! That's got some kick!"
-Caitlyn shouts.
-Caitlyn shouts.
-Caitlyn shouts.
-Caitlyn shouts.
-Caitlyn grunts.
-Caitlyn grunts.
 "In my sights."
 "Taking necessary action."
 "Time to take the shot."
-Ace in the Hole
 "This time machine here can blow your head clean off."
 "Chrono upgrade complete."
 "You know what I like best? Bigger guns."
@@ -397,7 +347,7 @@ Ace in the Hole
 "Well, I already have a big gun. Might as well."
 "It gets easier every time."
 "A primitive projectile weapon. Interesting."
-Caitlyn coughs. "Not quite as tasty as a cupcake... "
+"Not quite as tasty as a cupcake... "
 "That would've been better with frosting and sprinkles."
 "Bottoms up."
 "That feels better."
@@ -408,7 +358,6 @@ Caitlyn coughs. "Not quite as tasty as a cupcake... "
 "A little proactive preparation."
 "Retroactive preparation confirmed."
 "Awareness of the present is the key to having a future."
-Caitlyn opens a portal to many different timelines each time she channels Recall.
 "They'd better have coffee in this timeline."
 "Sometimes you to go back to move forward."
 "No signs of intelligent life."
@@ -453,12 +402,6 @@ Caitlyn opens a portal to many different timelines each time she channels Recall
 "Chrono recall engaged."
 "I'm definitely going to need a bigger gun."
 "Sometimes you to go back to move forward."
-Caitlyn groans.
-Caitlyn groans.
-Caitlyn groans.
-Caitlyn groans.
-Caitlyn groans.
-Caitlyn groans.
 "Temporal field stabilized."
 "Temporal sync reset."
 "Chrono stasis field disengaged."
@@ -514,11 +457,6 @@ Caitlyn groans.
 "My flan is unbeatable. You have to whisk it instead."
 "This is my flan, my recipe for success."
 "Spare me the banter."
-Caitlyn laughs.
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
 "A-plus accuracy."
 "Awful form."
 "Not worth my time."
@@ -544,20 +482,10 @@ Caitlyn grunts.
 "Let's do this, Labrys."
 "I'll always win."
 "Perfect!"
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn laughs.
 "All according to plan."
 "I knew that's where you'd go."
-Caitlyn laughs.
 "You activated my snap trap!"
 "Somebody's not paying attention."
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
-Caitlyn grunts.
 "Let's end this!"
 "Ace in the hole!"
 "My plan is unbeatable!"
@@ -588,15 +516,11 @@ Caitlyn grunts.
 "Let's take a look at the options."
 "I'm not worried. I've prepared for this."
 "How could I lose?"
-Caitlyn groans.
-Caitlyn groans.
-Caitlyn groans.
 "I got sloppy. Won't happen again."
 "I can do better. I have to."
 "I can't afford another mistake."
 "Failing's not an option for me."
 "This time I must be perfect."
-Caitlyn's weapon transforms each time she completes an item.
 "What's happening?"
 "This is better than I could have dreamed! Time for a new plan."
 "My weapon transforms!"
@@ -610,17 +534,10 @@ Caitlyn's weapon transforms each time she completes an item.
 "Labrys has made me unstoppable! Nothing will stand in my way."
 "Another transformation!"
 "The Sheriff's in town."
-"I've got a 
- 
-cupcake
- for you, little Yordle."
+"I've got a    cupcake  for you, little Yordle."
 "Sharp shooting, everyone."
 "GG!"
 "Alright you Primitive Screwheads, listen up! You see this? This... is my Boomstick!"
-Remedial Chaos Theory
-The Time Warp
-"That's not a gun. 
-This
- is a gun."
+"That's not a gun.  This  is a gun."
 "Time loop closed."
-Happiness is a warm gun.
+.

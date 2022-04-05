@@ -1,9 +1,5 @@
 "In carnage, I bloom, like a flower in the dawn."
 "My genius will be understood - eventually."
-Jhin hums.
-Jhin hums.
-Jhin hums.
-PROJECT Jhin theme starts playing.
 "Our performance begins."
 "The stage is set."
 "I suppose I must make do with this tawdry setting."
@@ -20,9 +16,7 @@ PROJECT Jhin theme starts playing.
 "Art must exist beyond reason."
 "They call me mad. All artists are mad."
 "I will not suffer this ugliness."
-"I cannot be good. I must be 
-perfection
-."
+"I cannot be good. I must be  perfection ."
 "Every element must be in place."
 "I'm misunderstood. Beauty can't be evil."
 "This performance needs more... zazz."
@@ -60,13 +54,9 @@ perfection
 "The ecstasy of opening night."
 "Smiles and screams, I bring both."
 "If I keep getting interrupted, how can I be expected to work?"
-"I was paid to put on a 
-killer
- show."
+"I was paid to put on a  killer  show."
 "My clients expect the best."
-"They will dance, they will sing, they will 
-die!
-"
+"They will dance, they will sing, they will  die! "
 "A costume, some makeup, a spray of blood."
 "It's very simple - when I shoot, they dance."
 "My critics are... usually short-lived."
@@ -114,9 +104,7 @@ die!
 "I thought diamonds were a girl's best friend."
 "So many guns, all lacking in meaning or artistry."
 "Your finale will be a duet."
-"Your story is revenge with guns 
-and
- ghosts. How droll."
+"Your story is revenge with guns  and  ghosts. How droll."
 "While you're here, consider a wardrobe upgrade."
 "I suppose you embody a primitive minimalism, but you lack my technique."
 "I remember your father! He thought he could censor me."
@@ -141,11 +129,7 @@ and
 "You were wrong to kill your master. I needed him for this performance."
 "You belong in the shadows. No audience could love you."
 "I offer an exclusive service. You'll find I murder the competition."
-Jhin tries to spin his weapon but drops it by mistake.
 "Only perfectio-gah!" (garbles incoherently) (clears throat) "... only perfection is acceptable."
-Jhin laughs.
-Jhin laughs.
-Jhin laughs.
 "You will be poetry."
 "You will be beautiful."
 "Watch my puppets dance."
@@ -155,9 +139,7 @@ Jhin laughs.
 "Art is worth the pain."
 "Beauty is pain."
 "I will make you famous."
-"You 
-will
- perform."
+"You  will  perform."
 "This is my love."
 "Each bullet is a song."
 "Each bullet will be a dance."
@@ -201,12 +183,6 @@ will
 "Four."
 "Four!"
 "Four!"
-Jhin grunts.
-Jhin grunts.
-Jhin grunts.
-Jhin grunts.
-Jhin grunts.
-Jhin grunts.
 "You... inspire me."
 "You will learn what beauty truly is."
 "Through my work, you shall transcend."
@@ -217,22 +193,7 @@ Jhin grunts.
 "I inspire action."
 "One, two, three, four, two, two, three, four."
 "This... passion... compels me."
-High Noon Jhin fourth shot theme
-High Noon Jhin fourth shot theme
-High Noon Jhin fourth shot theme
-Blood Moon Jhin fourth shot theme
-Blood Moon Jhin fourth shot theme
-Jhin grunts.
-Jhin grunts.
-Jhin grunts.
-Jhin grunts.
-Jhin grunts.
-Jhin grunts.
-Jhin grunts.
-Jhin grunts.
-"Now 
-that
- is what I want to see."
+"Now  that  is what I want to see."
 "Art shall blossom from your fear."
 "Life has no meaning, but your death shall."
 "I live for the applause, you will die for it."
@@ -243,36 +204,6 @@ that
 "With my technique, killing blooms into artwork!"
 "Prepare... for your finale."
 "Your final scene begins."
-High Noon Jhin channelling theme
-High Noon Jhin channelling theme
-High Noon Jhin channelling theme
-Blood Moon Jhin Ultimate Channelling
-Blood Moon Jhin Ultimate Channelling
-Blood Moon Jhin Ultimate Channelling
-Blood Moon Jhin Ultimate Channelling
-PROJECT Jhin Ultimate Channelling
-PROJECT Jhin Ultimate Channelling
-DWG Jhin Ultimate Channelling
-Jhin Ultimate Theme
-Jhin Ultimate Theme
-Jhin Ultimate Theme
-Jhin Ultimate Theme
-Jhin Ultimate Theme
-Jhin Ultimate Theme
-Jhin Ultimate Theme
-Jhin Ultimate Theme
-High Noon Jhin Ultimate Theme
-High Noon Jhin Ultimate Theme
-High Noon Jhin Ultimate Theme
-High Noon Jhin Ultimate Theme
-High Noon Jhin Ultimate Theme
-Blood Moon Jhin Ultimate Theme
-PROJECT Jhin Ultimate Theme
-PROJECT Jhin Ultimate Theme
-PROJECT Jhin Ultimate Theme
-PROJECT Jhin Ultimate Theme
-DWG Jhin Ultimate Theme
-DWG Jhin Ultimate Theme
 "Kill Noxians and get paid for it? What's not to like?"
 "People scare better when they're dying."
 "The truth comes only at the moment of dying."
@@ -295,20 +226,11 @@ DWG Jhin Ultimate Theme
 "The storm is in their hearts. I calm them."
 "It is by my will alone I set my mind in motion."
 "I do prefer my work to have a brisk tempo."
-"Red 
-is
- a primary color."
+"Red  is  a primary color."
 "I have a thirst for melodrama."
 "In carnage, I bloom, like a flower in the dawn."
 "I have risen from the filth and muck. I am the lotus blossom. I am beauty."
 "That delightful moment before the curtain goes up."
-A piano plays.
-Jhin dances to a electronic trap remix of his theme.
-Jhin performs a guitar solo of his theme with Take Over playing in the background
-High Noon Jhin dying
-Death sound.
-Death sound.
-Death sound.
 "Jhin_PROJECT_AccompanyingSFX_0.ogg"
 "Jhin_PROJECT_AccompanyingSFX_1.ogg"
 "Jhin_PROJECT_AccompanyingSFX_2.ogg"
@@ -316,12 +238,8 @@ Death sound.
 "Jhin_PROJECT_AccompanyingSFX_4.ogg"
 "Jhin_PROJECT_AccompanyingSFX_5.ogg"
 "Jhin_PROJECT_FirstMove_5.ogg"
-Music plays.
-Music plays.
-Music plays.
 "The Stars are watching us."
 "The curtain rises on a young and vibrant universe. An audience worthy of my talent."
-Jhin hums and laughs.
 "Twinkle, twinkle, little star."
 "Mmm, my art transcends creation."
 "All of you are my children, the children of silent gods."
@@ -341,8 +259,7 @@ Jhin hums and laughs.
 "All the stars in the sky."
 "Existence, is agonizing."
 "I want to feel everything, and then nothing"
-"I am the artist and I am starving!
-"Art should devour us all."
+"I am the artist and I am starving! "Art should devour us all."
 "My stage is the endless abyss."
 "I provide the gift of a dazzling...extinction"
 "There is a certain elegance, in annihilation."
@@ -354,8 +271,7 @@ Jhin hums and laughs.
 "Destroying galaxies is a pedestrian interpretation, I paint upon the canvas of eternity."
 "What lies beneath my mask? The universe, as I, was meant to make it."
 "Aurelion, it is endearing that your kind's work remains uncompromised by taste"
-"Go frolic amongst your starlight you sad empty little thing. A 
- artist is at work"
+"Go frolic amongst your starlight you sad empty little thing. A   artist is at work"
 "I won't be revisiting my... previous work, Your Highness, but I do have something exquisite planned for you."
 "To work on such a small stage Rakan is, mmm, well, maybe it is fitting."
 "Every universe, every Xayah, a spark... destined only to fade."
@@ -373,13 +289,9 @@ Jhin hums and laughs.
 "Just a snap of the wrist... and everything's gone."
 "I must fill this emptiness."
 "Oh, don't worry, I'll make sure you see everything you wish to see."
-Jhin hums. "Yes, no, I want you to know, stop resizing, why are these here, ugh."
-Jhin hums. "Big, small, big, not that one, not that one."
-Jhin laughs, "I suppose a nervous jab or 'FOUR' is apropos in these moments."
-Jhin laughs.
-Jhin laughs.
-Jhin laughs.
-Jhin laughs.
+"Yes, no, I want you to know, stop resizing, why are these here, ugh."
+"Big, small, big, not that one, not that one."
+"I suppose a nervous jab or 'FOUR' is apropos in these moments."
 "I know... only love."
 "This is my passion."
 "An echo of timelessness."
@@ -441,25 +353,21 @@ Jhin laughs.
 "Art springs eternal."
 "I must feel this emptiness."
 "If only you could see what you'll become."
-Jhin laughs, "There it is."
+"There it is."
 "Entropy cannot be reasoned with."
 "In an endless abyss, there is only you"
 "Erasure is perfection."
 "I am infinite."
-Music plays.
-Music plays.
 "You have gone, beauty is all that remains."
 "This is the providence of god."
 "Who are you now, what will you become."
-"But... how does it... feel?
-"Oh, to be one... with eternity."
+"But... how does it... feel? "Oh, to be one... with eternity."
 "From your dust all things are possible."
 "Erasure is the pinnacle of art."
 "Cheap materials, very little artistic value, cosmic garbage all over my stage."
 "Do you like it? You're an art lover. I know you understand."
 "What could you become? A neutron star? A red giant? What does Rakan mean? Tell me."
-"You can't fight providence Xayah, you can only 
-"
+"You can't fight providence Xayah, you can only  "
 "The dark star is an incomparable muse, and you have squandered its gifts"
 "You never understood the value of the work Thresh, and therein lies the real tragedy."
 "Varus, I've cut your layers away, and underneath revealed light."
@@ -473,9 +381,6 @@ Music plays.
 "The final fated moment before the curtain falls."
 "But, is it... art?"
 "What will... I become?"
-Jhin groans.
-Jhin groans.
-Jhin moans
 "Divinity cannot be censored."
 "My performance begins anew."
 "Even if the artist dies, his contributions persist in all things."
@@ -485,7 +390,5 @@ Jhin moans
 "Jhin_DarkCosmic_AccompanyingSFX_3.ogg"
 "Jhin_DarkCosmic_AccompanyingSFX_4.ogg"
 "Jhin_DarkCosmic_AccompanyingSFX_5.ogg"
-They'll fall, like Autumn's leaves from trees
-Soldati
 "Behind every mask there is a face, and behind that a story."
 "Behind this mask... is another mask!"

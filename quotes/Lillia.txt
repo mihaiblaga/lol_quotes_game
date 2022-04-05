@@ -62,26 +62,12 @@
 "Nightmares are desire turned inside out, and upside down, and..." *gasp* "Oh, dizzy!"
 "Running from problems won't solve them. But it makes me feel safe!"
 "When he speaks, I hear your whisper, dream!"
-"I feel your yearning. Deep down, it's what 
- 
-he
- wants too."
+"I feel your yearning. Deep down, it's what    he  wants too."
 "Why would you want to remove your mask, Yone? It's great for hidin'."
 "When trapped in fear, dreams become nightmares. We're fighting the same thing!"
 "You bring many dreams, sparkly child, but also...much anguish."
 "Time to be mean, Lillia! ...Did it work?"
 "Oh hello, bird! What little whisps have you—A-a-a-achoo!" *gasp* "Oopsie."
-Lillia laughs.
-Lillia hums.
-Lillia hums.
-Lillia grunts.
-Lillia grunts.
-Lillia grunts.
-Lillia grunts.
-Lillia grunts.
-Lillia grunts.
-Lillia grunts.
-Lillia grunts.
 "Sorry... Sorry!"
 "Shush. It's the dream's turn to sleep."
 "Dreams die when they're held too tight."
@@ -98,9 +84,6 @@ Lillia grunts.
 "All you know is nightmare."
 "Whoopsie-lily!"
 "Better a sleepy head than a sleepy heart."
-Lillia sneezes.
-Lillia grunts.
-Lillia grunts.
 "Whoopsie!"
 "Whoopsie!"
 "Ha!"
@@ -129,13 +112,6 @@ Lillia grunts.
 "Well met, human. Well left, dreams."
 "Was...was that...me?!"
 "I'm just going to go hide forever now."
-Lillia grunts.
-Lillia grunts.
-Lillia grunts.
-Lillia grunts.
-Lillia grunts.
-Lillia grunts.
-Lillia grunts.
 "Sleepy time!"
 "Sleeepy time!"
 "Sleep well. Dream better."
@@ -144,13 +120,9 @@ Lillia grunts.
 "D-don't judge a flower by its bud, you!"
 "Wake up! Wake up."
 "You dreamed until you ached. Now do something about it."
-"Oh! Are you alright, dream? Your light is so dim..." *gasp* Lillia falls asleep.
-"What's wrong, dream? Are you ready to bloom? Oh!" Lillia falls asleep.
-"When petals fall, dreams speak."
+"Oh! Are you alright, dream? Your light is so dim..." *gasp* Lillia falls asleep. "What's wrong, dream? Are you ready to bloom? Oh!" Lillia falls asleep. "When petals fall, dreams speak."
 "When spirits mourn, the world blossoms."
 "When humans sleep, spirits awake."
-Lillia groans.
-Lillia groans.
 "Not good. Not good!"
 "Do you think they'll remember me, dream? When they wake up, do they remember themselves?"
 "Now I just have to wait for my confidence to regrow."

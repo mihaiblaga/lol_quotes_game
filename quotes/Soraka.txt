@@ -1,7 +1,6 @@
 "Let me guide you."
 "What must be done."
-A stripped-down version of "A New Horizon" plays, which then switches to "Burning Bright".
-"This is my path."
+"A New Horizon" plays, which then switches to "Burning Bright". "This is my path."
 "For peace of mind."
 "Gracefully."
 "Where am I needed?"
@@ -15,10 +14,6 @@ A stripped-down version of "A New Horizon" plays, which then switches to "Burnin
 "I will not save you."
 "No, I'm not happy to see you. Yes, that is a horn growing out of my head."
 "Yes, that was a banana. *giggles* No one expects the banana."
-Soraka laughs.
-Soraka laughs.
-Soraka laughs.
-Soraka laughs.
 "By the power of the stars."
 "They will know serenity."
 "Be at peace."
@@ -30,12 +25,7 @@ Soraka laughs.
 "Live!"
 "For life!"
 "Have hope!"
-A shorten version of "A New Horizon" plays.
-Dying sounds.
-Dying sounds.
-Dying sounds.
-Dying sounds.
-"The storm of conflict between the gods has raged for far too long. I will be the light that pierces the clouds."
+"A New Horizon" plays. Dying sounds. Dying sounds. Dying sounds. Dying sounds. "The storm of conflict between the gods has raged for far too long. I will be the light that pierces the clouds."
 "I bring the light to burn away the falsehoods of chaos."
 "Awaken! Hope and order!"
 "The last light guides me."
@@ -84,15 +74,10 @@ Dying sounds.
 "I bring the end. Too bad you won't be here to see it."
 "Petty squabbles mean little in the face of the eternal conflict."
 "Forgettable words from a forgettable soul."
-Soraka twirls to summons a giant banana above herself and glorifies it.
 "I'm here to bring about the end of days and you're asking me about... fruit."
 "By the divine power of... banana?"
 "Ba-na-na!"
 "How... illuminating."
-Soraka laughs.
-Soraka laughs.
-Soraka laughs.
-Soraka laughs.
 "Daylight rises!"
 "Justice shines!"
 "Expose falsehood!"
@@ -127,7 +112,6 @@ Soraka laughs.
 "Revealed!"
 "I see through you."
 "Scour!"
-Soraka grunts.
 "Bolstered!"
 "Gift of radiance!"
 "Stand strong!"
@@ -149,7 +133,6 @@ Soraka grunts.
 "Order brings life!"
 "Banish night!"
 "Shine on!"
-Soraka yelps.
 "Darkness takes all."
 "Rest now, weary soul."
 "Slain by their hubris."
@@ -168,7 +151,6 @@ Soraka yelps.
 "Sleep now, fallen one. You are freed from chaos' grasp."
 "The light... fades."
 "Lost in the between."
-Soraka groans.
 "A new day. A new night."
 "I rise anew."
 "My work remains undone. My fate, unfinished."
@@ -221,15 +203,10 @@ Soraka groans.
 "I bring the end. Too bad you won't be here to see it."
 "Petty squabbles mean little in the face of the eternal conflict."
 "Forgettable words from a forgettable soul."
-Soraka twirls to summons a giant banana above herself and glorifies it.
 "I'm here to bring about the end of days and you're asking me about... fruit."
 "By the divine power of... banana?"
 "Ba-na-na!"
 "How... illuminating."
-Soraka laughs.
-Soraka laughs.
-Soraka laughs.
-Soraka laughs.
 "Surrender to darkness!"
 "Chaos descends!"
 "Burn away doubt!"
@@ -264,7 +241,6 @@ Soraka laughs.
 "Revealed!"
 "I see through you."
 "Scour!"
-Soraka grunts.
 "Bolstered!"
 "Gift of radiance!"
 "Stand strong!"
@@ -286,7 +262,6 @@ Soraka grunts.
 "Chaos rejects death!"
 "Rising darkness!"
 "Never fade!"
-Soraka yelps.
 "Darkness takes all."
 "Rest now, weary soul."
 "Slain by their hubris."
@@ -305,7 +280,6 @@ Soraka yelps.
 "Rise, divinity and cleanse this cruel world!"
 "The light... fades..."
 "Lost in the between."
-Soraka groans.
 "A new day. A new night."
 "I rise anew."
 "My work remains undone. My fate, unfinished."

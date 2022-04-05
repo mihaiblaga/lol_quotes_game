@@ -18,10 +18,6 @@
 "Poor creatures, so confined by a single life!"
 "Laying an egg isn't as easy as it looks."
 "The chicken or the egg? Actually I came first."
-Anivia laughs.
-Anivia laughs.
-Anivia laughs.
-Anivia laughs.
 "Find peace."
 "Life passes so swiftly."
 "I bring the storm."
@@ -32,17 +28,6 @@ Anivia laughs.
 "I will not forsake my home."
 "I am the snow, wind, and ice."
 "The cycle closes."
-Samba music plays.
-Anivia grunts.
-Anivia grunts.
-Anivia grunts.
-Anivia grunts.
-Anivia dances to Samba music.
-Anivia groans.
-Anivia groans.
-Anivia groans.
-Anivia groans.
-Anivia groans.
 "I hear whispers beneath the ice."
 "Endless cold, endless peace."
 "A world in perfect stillness."
@@ -63,14 +48,6 @@ Anivia groans.
 "You too will succumb!"
 "Behold my darkest power: laying an egg... uh... nope."
 "With this dark power, I can finally... ugh, no... still not... easy."
-Anivia laughs.
-Anivia laughs.
-Anivia laughs.
-Anivia laughs.
-Anivia grunts.
-Anivia grunts.
-Anivia grunts.
-Anivia grunts.
 "They were lost long ago."
 "As meaningless as one snowflake."
 "So many chances... wasted."
@@ -82,23 +59,4 @@ Anivia grunts.
 "A heart of ice cannot bleed."
 "Vile tainted things."
 "To the bitter end."
-Anivia grunts.
-Anivia grunts.
-Anivia grunts.
-Anivia grunts.
-Anivia grunts.
-Anivia grunts.
-Anivia grunts.
-Anivia grunts.
-Anivia grunts.
-Anivia grunts.
-Anivia grunts.
-Anivia grunts.
-Anivia grunts.
-Anivia grunts.
-Anivia grunts.
-Anivia grunts.
-Anivia groans.
-Anivia groans.
-Anivia groans.
-Anivia groans.
+.

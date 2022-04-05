@@ -14,10 +14,6 @@
 "You've earned a good death. I've earned the kill."
 "All these trophies... I'm gonna need a bigger den!"
 "So much bloodshed... This is my kind of place!"
-Rengar laughs.
-Rengar laughs.
-Rengar laughs.
-Rengar laughs.
 "A fitting prize."
 "Nothing will escape."
 "Carve off a souvenir."
@@ -35,27 +31,13 @@ Rengar laughs.
 "More prey, more prizes."
 "Leave only a trail of bodies."
 "What a glorious hunt!"
-Rengar Growls
-Rengar Growls
-Rengar Growls
-Rengar Growls
-Rengar Roars
-Rengar Roars
-Rengar Roars
-Rengar Roars
 "Come on!"
 "Let's fight!"
-Rengar Growls
-Rengar Growls
 "Not so fast!"
 "Slow down!"
 "Don't trip."
 "Easy prey."
 "Listen."
 "Focus."
-Rengar growls.
-Rengar growls.
-Rengar growls.
-Rengar growls.
 "I see you, wretched creature!"
 "I've found you, beast!"

@@ -3,46 +3,25 @@
 "Here I come to save the day... or wreck it."
 "They'll never know what hit 'em."
 "Let's get crackin'."
-"I'm doing this 
-my
- way."
+"I'm doing this  my  way."
 "Piltover's finest."
 "Plan? I don't need a plan."
 "Let's get to the fun part!"
 "Who needs a beat-down?"
 "If you hit a wall, hit it hard!"
-"Sometimes you gotta 
-make
- a door."
+"Sometimes you gotta  make  a door."
 "I let my hands do the talking."
 "I'm my own backup."
-Vi spits on the ground and assumes a boxer's fighting stance.
 "I've got five reasons for you to shut up."
 "If I want your opinion, I'll beat it out of you."
 "I like you as far as I can throw you... not even."
-Vi takes out a teacup from inside her gauntlet, takes a sip, then throws it on the ground.
-"Care for a spot of tea? Or maybe a spot of 
-punch in the face
-."
+"Care for a spot of tea? Or maybe a spot of  punch in the face ."
 "Oh, look at me... I'm on the case."
-Vi cups one of her hands and punches it with her other fist.
 "We can either do this the hard way or... oh wait, no, there's just the hard way."
 "Hmm, I like your smile. Gives me something to aim at."
 "I like your smile. Makes a nice target."
 "Why can't I get a straight answer? It's always just 'Oh no! Stop hitting me! Ow, my face!'"
-"Welcome to the party. Try the 
-punch
-."
-Vi laughs.
-Vi laughs.
-Vi laughs.
-Vi laughs.
-Vi grunts.
-Vi grunts.
-Vi grunts.
-Vi grunts.
-Vi grunts.
-Vi grunts.
+"Welcome to the party. Try the  punch ."
 "A little smash and grab."
 "Here comes the punchline!"
 "Come on! Resist arrest already!"
@@ -52,21 +31,9 @@ Vi grunts.
 "Vi, hah, stands for violence!"
 "Vi stands for vicious."
 "Vi stands for vice."
-Vi yells.
-Vi yells.
-Vi yells.
-Vi yells.
-Vi yells.
-Vi yells.
-Vi yells.
-Vi yells.
 "Get dunked!"
 "Eat this!"
 "Boom, baby!"
-Vi yells.
-Vi yells.
-Vi yells.
-Vi yells.
 "Yeah! Teamwork!"
 "High five, cupcake!"
 "Boom! Headshot."
@@ -74,6 +41,4 @@ Vi yells.
 "Nice shot, cupcake."
 "Aww, was that supposed to hurt, Cait?"
 "Nope!"
-Vi groans.
-Vi groans.
-Vi groans.
+.

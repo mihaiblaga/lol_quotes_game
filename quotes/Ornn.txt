@@ -7,12 +7,10 @@
 "I made this hammer. It was so good I named it... Hammer."
 "I will go over there. It looks quiet. It will be nice."
 "Name's Ornn. No further pleasantries needed."
-"I have fur. It is soft. Do 
-not
- hug me."
+"I have fur. It is soft. Do  not  hug me."
 "The Freljord is a place for building, fighting, and eating. Home sweet home."
 "If all goes well, our paths will never cross again. It never goes well."
-(Ornn sniffs.) "Singed fur... Jealous blood... My brother is near!"
+"Singed fur... Jealous blood... My brother is near!"
 "Volibear is near... Everyone seek shelter!"
 "I cannot choose my brother, only the weapons to slay my brother."
 "It is childish to favor one tool over another, but hammer is my favorite."
@@ -61,44 +59,19 @@ not
 "You remind me of a young me, who was less impressive."
 "Huh. You are not entirely an arse."
 "Working with you is almost like working alone. Almost."
-"Something you should know about me..." (Ornn grumbles.)
-"Whatever you want, the answer is go away."
+"Something you should know about me..." (Ornn grumbles.) "Whatever you want, the answer is go away."
 *Ornn grumbles*
 *Ornn grumbles*
 "I don't know what you do and I don't care."
 "Your base is that way. Go cower in it."
 "I do not care at all."
 "This is a waste of my time."
-(Ornn grunts, annoyed.)
-(Ornn sighs.) "I do not care at all."
-Ornn grunts and hums as he fries an egg in his hand, then yells in frustration as a poro eats it.
+"I do not care at all."
 "Buy a joke book. And a clown."
-(Ornn grunts.)
-(Ornn grunts.)
 "I now like you less. I did not think that was possible."
 "Stop it."
 "No."
-Ornn laughs.
-Ornn laughs.
-Ornn laughs.
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-*Ornn grunts*
+
 *Ornn grunts*
 *Ornn grunts*
 *Ornn grunts*
@@ -142,24 +115,8 @@ Sound Effect
 "My hammer is better."
 "I do not like you."
 "This is for my followers!"
-Ornn hums.
-Ornn hums.
-Ornn hums.
-Ornn hums.
-Ornn hums.
-Ornn hums.
-Ornn hums.
-Ornn hums.
-Ornn hums.
-Ornn hums.
 "Good... Yes."
 "I taught Doran everything he knows."
-Ornn grunts.
-Ornn grunts.
-Ornn grunts.
-Ornn grunts.
-Ornn grunts.
-Ornn grunts.
 "Ahh."
 "Do not hang that on a wall."
 "I trust you know how to use that."
@@ -174,26 +131,18 @@ Ornn grunts.
 "That's a weapon. Y'know, for fighting."
 "You may be worthy of that. Do not prove me wrong."
 "That is what good looks like."
-"That is for wielding, 
-not
- for entertaining."
+"That is for wielding,  not  for entertaining."
 "I was looking at that one too."
 "I didn't make that. You didn't buy it."
-Ornn yells.
-Ornn yells.
-Ornn yells.
 "Heheh, broke that real good."
 "Easy build, easy break."
-"Mortal craftsmanship, 
-please.
-"
+"Mortal craftsmanship,  please. "
 "Whoops. Found a flaw."
 "Shattered and melted."
 "A strong sneeze would've had the same effect."
 "Bad workmanship."
 "Demolished! Easy."
 "Barely touched it."
-Ornn yells.
 "That's done."
 "Job complete."
 "Mhm. Yup. Dead."
@@ -208,8 +157,7 @@ Ornn yells.
 "Fixed!"
 "That fixed everything."
 "Problems solved."
-(Ornn grumbles.) "We're ready Ornn... we'll be right behind you..." (Ornn grunts.)
-"Just leave everything to me as usual."
+"We're ready Ornn... we'll be right behind you..." (Ornn grunts.) "Just leave everything to me as usual."
 "Good job, everyone."
 "I'm used to this level of disappointment."
 "Too much sorcery, not enough elbow grease."
@@ -223,11 +171,11 @@ Ornn yells.
 "Whatever this drink is made of, it is working."
 "That hit the spot."
 "Heyyy, this is pretty good stuff."
-(Ornn grunts.) "I do not like surprises."
+"I do not like surprises."
 "Hmm, that all it does? Okay."
 "You stay here."
 "Is it on?"
-(Ornn grunts.) I do not know how to feel about this thing, but okay."
+"
 "Not on my watch."
 "Spy on that."
 "Denied."
@@ -270,7 +218,6 @@ Ornn yells.
 "Incoming!"
 "Well done."
 "I broke my beard!"
-Ornn groans.
 "I didn't die. My forge missed me."
 "Still no water in the fountain."
 "Rekindled the old furnace."

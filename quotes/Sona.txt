@@ -1,5 +1,4 @@
 "What masterpiece shall we play today?"
-Sona smacks her hands on her etwahl.
 "Haha. I can never shake the nerves before a big performance."
 "I never could refuse an empty stage. Not even this one."
 "Curtains up. I'm ready."
@@ -41,42 +40,8 @@ Sona smacks her hands on her etwahl.
 "Sylas? He hasn't changed. And my answer is still no."
 "It's good to see Taric hasn't changed. And bad. It's both."
 "There's so much pain in Xin Zhao's heart. Why?"
-Sona smacks her hands on her etwahl.
-Sona smacks her hands on her etwahl.
-Sona smacks her hands on her etwahl.
-Sona smacks her hands on her guqin.
-Sona smacks her hands on her guqin.
-Sona smacks her hands on her guqin.
-Sona smacks her hands on her controller.
-Sona smacks her hands on her controller.
 "Huh. Sounds like a personal problem."
-Sona plays an electric guitar riff.
-Sona plays an electric guitar riff.
-Sona plays an electric guitar riff.
-Sona plays an electric guitar riff.
-Sona plays a measure from 'Deck the Halls'.
-Sona plays a measure from 'Deck the Halls'.
-Sona plays a measure from 'Deck the Halls'.
-Sona plays a measure from 'Deck the Halls'.
-Sona plays an 8-bit electric guitar riff.
-Sona plays an 8-bit electric guitar riff.
-Sona plays an 8-bit electric guitar riff.
 "Just keep smiling and... Maybe they'll go away."
-Sona plays a song on her etwahl.
-Sona plays a song on her etwahl.
-Sona plays a song on her etwahl.
-Sona plays a song on her etwahl.
-Sona plays a song on her guqin.
-Sona plays a song on her guqin.
-Sona plays a song on her guqin.
-Sona plays a song on her controller.
-Sona plays a song on her controller.
-Sona plays a song on her controller.
-Sona plays a song on her controller.
-Sona exhales.
-Sona exhales.
-Sona exhales.
-Sona exhales.
 "Dissonance."
 "Adagio."
 "An aggressive movement!"
@@ -157,77 +122,6 @@ Sona exhales.
 "Oops. Lost myself for a minute."
 "A surprise encore? If they insist."
 "Once more with feeling."
-Sona plays a tune on her etwahl.
-Sona plays a tune on her etwahl.
-Sona plays a tune on her etwahl.
-Sona plays a tune on her etwahl.
-Sona plays a tune on her etwahl.
-Sona plays a tune on her etwahl.
-Sona plays a tune on her etwahl.
-Sona plays a tune on her etwahl.
-Sona plays a tune on her etwahl.
-Sona plays a tune on her etwahl.
-Sona plays a tune on her etwahl.
-Sona plays a tune on her etwahl.
-Sona plays a tune on her etwahl.
-Sona plays a tune on her etwahl.
-Sona plays a tune on her etwahl.
-Sona plays a tune on her etwahl.
-Sona plays a tune on her etwahl.
-Sona plays a tune on her etwahl.
-Sona plays a tune on her etwahl.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible
-Unintelligible
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
-Unintelligible.
 "Geist unit activated. Designation: Sona. Hear my thoughts."
 "Establishing mental link. My name is Sona. I fight to end this war."
 "Can you hear my voice? I am Sona. Your mind is now open to me."
@@ -280,11 +174,6 @@ Unintelligible.
 "Saw that one coming."
 "I'd share my thoughts on the situations but they might kill everyone."
 "I knew the punchline before you said it."
-Sona laughs
-Sona grunts.
-Sona grunts.
-Sona grunts.
-Sona grunts.
 "I know all."
 "Feel my psychic rage!"
 "Are you all they sent?"
@@ -324,33 +213,22 @@ Sona grunts.
 "Telekinesis!"
 "Fall!"
 "Psychokinesis!"
-Sona grunts.
-Sona grunts.
-Sona grunts.
 "Your wounds close."
 "Be restored!"
 "Heal!"
 "Recover!"
 "Stay strong."
-Sona grunts.
-Sona grunts.
-Sona grunts.
 "We move!"
 "Quicken!"
 "Stride forth!"
 "Speed of thought."
 "Don't slow down."
 "Faster!"
-Sona grunts.
-Sona grunts.
 "I control you!"
 "Move no further!"
 "Silence!"
 "Dance for me!"
 "Puppets!"
-Sona yells.
-Sona yells.
-Sona yells.
 "Psychokinesis cannot be reasoned with."
 "Don't think about it too much. I'll hear you."
 "I will remember your every dying synapse."
@@ -383,9 +261,6 @@ Sona yells.
 "I'll never go back. I've seen too much. I've seen everything."
 "Hear me..."
 "I see... Darkness..."
-Sona groans.
-Sona groans.
-Sona groans.
 "Omniscience has its uses I see."
 "Strange thought forms in death. Yet now, I return."
 "I won't be stranded in death."

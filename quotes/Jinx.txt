@@ -1,9 +1,7 @@
 "Rules are made to be broken... like buildings! Or people!"
 "Aww, c'mon, what's the worst that could happen?"
 "Let's just behave... said no one, ever."
-"Wait, I'm 
-thinking
-! Urgh... how do people do this?"
+"Wait, I'm  thinking ! Urgh... how do people do this?"
 "I'm trying to care but I just can't!"
 "Jinx? Stands for Jinx! Durr."
 "Whatever, let's just start shooting!"
@@ -12,10 +10,7 @@ thinking
 "Ask me if I'm listening! Hint: I'm not!"
 "I don't even think once about blowing stuff up!"
 "She's such a loser, always ready to cry!' T-t-t-ta!"
-"You think I'm crazy? You should see my 
- 
-sister
-!"
+"You think I'm crazy? You should see my    sister !"
 "I have the best intentions!"
 "I'm wearing lots of belts! For no reason at all."
 "Bullets!"
@@ -35,27 +30,15 @@ sister
 "You're gonna chase me, fat hands?"
 "Vi? Stands for stupid!"
 "I'm over here, fat hands!"
-Jinx pulls out 
- 
-Fishbones
- and mimics talking with him like a puppet.
 "Hey Fishbones, should we blow something up? 'You might inconvenience people and hurt their feelings.' You're the worst weapon ever!"
 "Fishbones, you know what we oughta' do? 'Do the laundry, wash dishes and pay some bills.' Stupid dumb rocket launcher."
 "Hey Fishbones, think we can wreak havoc forever? 'No, you should buy a home and save for retirement.' You know I can replace you, right?"
 "Maybe we should settle down and live peaceful lives. 'Really? I always hoped one day you'd---' Haha, nope! You're a death machine for life!"
-Jinx falls to the ground and starts giggling hysterically.
-Jinx laughs.
-Jinx laughs.
-Jinx laughs.
-Jinx laughs.
-Jinx dances next to a gramophone playing 'Get Jinxed'.
 "Stay still! I'm trying to shoot you!"
 "I'll give you to the count of - time's up!"
 "Duck! Hehe, just kidding, that won't help."
 "Gotta' die sometime!"
-"Smile! It's called gun 
-play
-."
+"Smile! It's called gun  play ."
 "Any last words? Ha! No, just die."
 "Seriously, screaming helps... not at all."
 "No need to be scared - or alive."
@@ -77,16 +60,13 @@ play
 "Bye bye!"
 "Watch this!"
 "Catch!"
-"Three, forty-one, nine and 
-lift off
-!"
+"Three, forty-one, nine and  lift off !"
 "I'll be right back! No one die screaming without me!"
 "They... got me... "
 "Awww... "
 "That really hurt... my feelings."
 "That was almost not close at all!"
-A stripped-down version of "Burning Bright" plays.
-"Slogan, catchphrase, tagline!"
+"Burning Bright" plays. "Slogan, catchphrase, tagline!"
 "To infinity and - uh, oops. Wrong catchphrase!"
 "You're not dreaming - I'm a Star Guardian now."
 "Here comes a rising star."
@@ -94,9 +74,7 @@ A stripped-down version of "Burning Bright" plays.
 "How do you like my extreme makeover?"
 "Armed and dangerous - with sparkles."
 "Protecting the universe, one bullet at a time!"
-"Can you believe I was 
-chosen
- for this?"
+"Can you believe I was  chosen  for this?"
 "Don't let the sparkles fool you."
 "Being noble takes all the fun out of fighting."
 "What do you think? Mercy, or mayhem?"
@@ -127,9 +105,7 @@ chosen
 "Ready to get glitter bombed?"
 "Not scared of my sparkles? You should be."
 "Got to say, I don't miss my old guns at all."
-"Wait. I look like 
-that
-?"
+"Wait. I look like  that ?"
 "Is it me, or is Janna getting way too old for this?"
 "Hey, Janna! You might want to look into a retirement plan."
 "When First Star talks to you, something's lost in translation."
@@ -148,9 +124,7 @@ that
 "I AM A MECH. I AM PROGRAMMED TO LOSE."
 "Hey, mech! The only good robot is a deactivated robot!"
 "Guardians rule, PROJECT drools!"
-"PROJECT? Ha! More like 
-reject
-."
+"PROJECT? Ha! More like  reject ."
 "All those PROJECT enhancements and you're still pathetic."
 "Let's bring a little starlight into the Void."
 "Wait, does Void refer to your home, or your head?"
@@ -161,29 +135,17 @@ reject
 "Hey, Vi. I'm a Star Guardian now. Jealous much?"
 "Hey, Graves! Have a taste of destiny!"
 "So, what's your favourite part about being a Star Guardian?"
-Shiro squeaks
 "Now, now, Shiro. First Star doesn't like the word slaughter."
 "Hey, Shiro, what do you call someone with their head blown off?"
-Shiro squeaks
 "I don't know either. Let's find out!"
 "So, Shiro, what was in the Star Guardian contract I signed?"
-Shiro squeaks
 "Yeah, TLDR."
 "What's your favourite part about being a Star Guardian, Kuro?"
-Kuro squeaks
 "I had no idea you loved sparkles so much."
 "Hey, Kuro, you know what I call five dead enemies?"
-Kuro squeaks
-"A great start!" (laughs)
-"What do you think, Kuro? Is Star Guardian a good look for me?"
-Kuro squeaks
+"A great start!" (laughs) "What do you think, Kuro? Is Star Guardian a good look for me?"
 "Next time, just lie."
-Jinx laughs.
-Jinx laughs.
-Jinx laughs.
-Jinx laughs.
-"I'm a shooting star!" (laughs)
-"I'll try to make this painless. Honest."
+"I'm a shooting star!" (laughs) "I'll try to make this painless. Honest."
 "Oh, no, don't make me break the Guardian code."
 "Sorry, it's my duty to destroy you."
 "I've got your starlight right here."
@@ -201,8 +163,7 @@ Jinx laughs.
 "Ew! Somebody got hit with an ugly stick."
 "Hey, Baron, I've seen black holes with more charm."
 "Three heads - and not one of them has a brain."
-"Hey, Baron, want to give us a... hand?" (laughs)
-"Ready to roll?"
+"Hey, Baron, want to give us a... hand?" (laughs) "Ready to roll?"
 "Your turn!"
 "Meet Shiro!"
 "Yes, Kuro, all my enemies fear you."
@@ -230,9 +191,7 @@ Jinx laughs.
 "Two for one!"
 "Double hatter!"
 "Combo platter!"
-"That was 
-stellar!
- Get it? Star Guardian? Stellar?"
+"That was  stellar!  Get it? Star Guardian? Stellar?"
 "Bam! It's lights out for you!"
 "It wasn't me! My guns have minds of their own."
 "You'll be missed, Janna!" Jinx laughs. "Not by me."
@@ -265,9 +224,7 @@ stellar!
 "Infinitely awesome."
 "The only kind of whisper I like."
 "Just for you, Kuro."
-"Quiet, Shiro, it's a 
-whisper.
-"
+"Quiet, Shiro, it's a  whisper. "
 "Can't keep a Star Guardian down."
 "Eh, just strap it to my gun."
 "Shiro's been asking for this."
@@ -279,9 +236,7 @@ whisper.
 "Kuro, look what I've got."
 "Who wants the red shield?"
 "Look, Kuro, legendary."
-"Shiro will 
-love
- this."
+"Shiro will  love  this."
 "Can't get enough of these."
 "I'm amazing. Not immortal."
 "Bottoms up."
@@ -291,14 +246,12 @@ love
 "You can't hide from starlight."
 "This'll shed some light on things."
 "Now I see everything."
-"Peekaboo." Jinx laughs.
-"I was just getting warmed up!"
+"Peekaboo." Jinx laughs. "I was just getting warmed up!"
 "Say goodbye, my little guns!"
 "They say parting is such sweet sorrow... they're idiots."
 "I'm taking my guns and going home."
 "Ugh, I hate this dancing part."
-A shortened version of "Burning Bright" plays.
-"Don't worry, Lux. You know I'll be back."
+"Burning Bright" plays. "Don't worry, Lux. You know I'll be back."
 "Hey, Lux, do Guardians get lunch breaks?"
 "Don't forget... to miss me, Lux... "
 "Ugh... whatever... "

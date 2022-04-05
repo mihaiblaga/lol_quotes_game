@@ -1,9 +1,7 @@
 "Love ruins all."
 "My heart was already broken."
 "She waits for me beyond the mist. My queen. My love. My black and broken heart."
-"No price is too great. No atrocity beyond my reach. For her, 
-I will do anything
-."
+"No price is too great. No atrocity beyond my reach. For her,  I will do anything ."
 "Submission or death for all who live. In the end, it matters not. I will see her face again."
 "It hurts, my heart. It hurts so much."
 "I want precious little, yet I am forced to kill for it."
@@ -48,16 +46,9 @@ I will do anything
 "You stand in the way of my love. A mistake."
 "Step aside, peasant. You are nothing compared to my queen."
 "I cannot hear you over the tremble in your voice."
-Black Mist enters Viego's lungs.
 "Sorry, went down the wrong pipe."
 "Mist, get out of my lungs, I command you."
 "Humor was better a thousand years ago."
-Viego laughs.
-Music plays.
-Viego grunts.
-Viego grunts.
-Viego grunts.
-Viego grunts.
 "Fall beneath my blade!"
 "Deny me no longer!"
 "Serve me in death."
@@ -103,12 +94,6 @@ Viego grunts.
 "This body, is this what you desire?!"
 "I command, you obey!"
 "Take me to her! Now!"
-Viego grunts.
-Viego grunts.
-Viego grunts.
-Viego laughs.
-Viego laughs.
-Viego laughs.
 "My heart beckons!"
 "Grant me passage!"
 "Flow from me!"
@@ -116,15 +101,10 @@ Viego laughs.
 "Find her!"
 "Forward, mist!"
 "Consume everything!"
-Viego grunts.
-Viego grunts.
-Viego grunts.
 "I take what is mine!"
 "Surrender to me!"
 "Where is she?!"
 "Isolde!"
-Viego grunts.
-Viego grunts.
 "Your pain is nothing compared to mine."
 "The dead will not rest until I am whole once more."
 "Love is cruel. Yet, it will conquer."
@@ -143,10 +123,7 @@ Viego grunts.
 "The mist will consume all. My victory is simply a matter of time."
 "I cast myself upon this broken throne awaiting her return."
 "Isolde... why?"
-Viego groans.
-Viego groans.
-Viego groans.
 "The ruination cannot end. Not yet."
 "No. She remains in this world. I can feel it."
 "In a world without love, death means nothing."
-Awake, O lord, woulds’t thou reject us forever? Why do you hide your face and forget us?
+?

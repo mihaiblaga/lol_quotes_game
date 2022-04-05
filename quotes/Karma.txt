@@ -14,14 +14,6 @@
 "If you desire peace, you must prepare for war!"
 "An ideal is nothing... until you fight for it."
 "You know what they say: Karma always catches up to you."
-Karma laughs.
-Karma laughs.
-Karma laughs.
-Karma laughs.
-Karma grunts.
-Karma grunts.
-Karma grunts.
-Karma grunts.
 "None will question our resolve."
 "To conquer one's self is to conquer all."
 "Now we prove our courage."
@@ -32,28 +24,10 @@ Karma grunts.
 "By force of will."
 "Act with conviction."
 "Peace, no matter the cost."
-Karma grunts.
-Karma grunts.
-Karma grunts.
-Karma grunts.
-Karma grunts.
-Karma grunts.
-Karma grunts.
 "Peace!"
 "Never falter."
 "Focus!"
-Karma chants in an Ancient Ionian dialect.
-"Lath Rian Oune Vi." ("Weave the threads of... ")
-"Lath Rian Oune Vi." ("Weave the threads of... ")
-"Gaen Na Kyri Vi." ("Reap the winds of... ")
-"Gaen Na Kyri Vi." ("Reap the winds of... ")
-"Sae Eleisa Tera Vi." ("Discover the meaning of... ")
-"Sae Eleisa Tera Vi." ("Discover the meaning of... ")
-Karma groans.
-Karma groans.
-Karma groans.
-Karma groans.
-"How noble."
+"Lath Rian Oune Vi." ("Weave the threads of... ") "Lath Rian Oune Vi." ("Weave the threads of... ") "Gaen Na Kyri Vi." ("Reap the winds of... ") "Gaen Na Kyri Vi." ("Reap the winds of... ") "Sae Eleisa Tera Vi." ("Discover the meaning of... ") "Sae Eleisa Tera Vi." ("Discover the meaning of... ") Karma groans. Karma groans. Karma groans. Karma groans. "How noble."
 "Ionia shall prevail."
 "Focus your wit and will."
 "Victory is assured."
@@ -66,36 +40,10 @@ Karma groans.
 "I interrupted my meditation, for this?"
 "This dress may have been impractical."
 "Guess what's about to hit the fan."
-Karma laughs.
-Karma laughs.
-Karma laughs.
-Karma laughs.
 "Negotiations have ended."
 "They will not crush our spirit."
 "No compromise."
 "None will question our resolve."
 "Where the battle goes, so go I."
 "One by one, they will fall."
-Karma grunts.
-Karma grunts.
-Karma grunts.
-Karma grunts.
-Karma grunts.
-Karma grunts.
-Karma grunts.
-Karma grunts.
-Karma grunts.
-Karma grunts.
-Karma grunts.
-Karma grunts.
-Karma chants in an Ancient Ionian dialect.
-"Lath Rian Oune Vi." ("Weave the threads of... ")
-"Lath Rian Oune Vi." ("Weave the threads of... ")
-"Gaen Na Kyri Vi." ("Reap the winds of... ")
-"Gaen Na Kyri Vi." ("Reap the winds of... ")
-"Sae Eleisa Tera Vi." ("Discover the meaning of... ")
-"Sae Eleisa Tera Vi." ("Discover the meaning of... ")
-Karma groans.
-Karma groans.
-Karma groans.
-Karma groans.
+"Lath Rian Oune Vi." ("Weave the threads of... ") "Lath Rian Oune Vi." ("Weave the threads of... ") "Gaen Na Kyri Vi." ("Reap the winds of... ") "Gaen Na Kyri Vi." ("Reap the winds of... ") "Sae Eleisa Tera Vi." ("Discover the meaning of... ") "Sae Eleisa Tera Vi." ("Discover the meaning of... ") Karma groans. Karma groans. Karma groans. Karma groans.

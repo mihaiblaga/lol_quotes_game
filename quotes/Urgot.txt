@@ -84,9 +84,7 @@
 "If you hide in the shadows, you are only drawing me home."
 "The weak are condemned."
 "Cast into a pit of despair, I climbed out on the corpses."
-"I answer to 
-no one
-. No matter how loudly they beg."
+"I answer to  no one . No matter how loudly they beg."
 "Where will they run when the whole city burns?"
 "Screams follow in my wake."
 "There is no coming back."
@@ -103,9 +101,7 @@ no one
 "We will rise from the rubble, stronger than before."
 "Only those who survive this city deserve it."
 "Think how much stronger they'll be... if they live."
-"Tear their weakness away, and 
-nothing
- is left!"
+"Tear their weakness away, and  nothing  is left!"
 "What is strength if you do not use it?"
 "Pain is the act of becoming."
 "It is not violence. It is... philosophy."
@@ -117,10 +113,7 @@ nothing
 "Do you think me so weak as to fall for your charms?"
 "My, my. What have they been up to in Piltover?"
 "I must admit, I have a thing for... legs."
-"The hand of Noxus can be cut off; ask your 
- 
-master
-."
+"The hand of Noxus can be cut off; ask your    master ."
 "A pale imitation."
 "My replacement? Really, now?"
 "The child is learning."
@@ -156,13 +149,8 @@ master
 "Hold on... there's something... ah, that's better."
 "Urgot, hm, I highly recommend death at this point."
 "But I still have so much to kill for."
-Urgot laughs
-Urgot laughs
-Urgot laughs
 "Break men to break their shackles."
-"What will you do to survive? 
-Tell me!
-"
+"What will you do to survive?  Tell me! "
 "This pain is a gift."
 "Zaun, bear witness."
 "The fortunate will be the first to fall."
@@ -175,26 +163,18 @@ Tell me!
 "The suffering is only beginning."
 "Existence is torment."
 "I am Zaun's reckoning!"
-"What didn't kill me, 
-will
- kill you!"
+"What didn't kill me,  will  kill you!"
 "Your cries will give voice to chaos."
-"A crucible of 
-pain
-!"
+"A crucible of  pain !"
 "Embrace your fear."
 "Pain will not betray you."
-"You listen to my words, while my 
-weapons
- speak!"
+"You listen to my words, while my  weapons  speak!"
 "I am not your enemy."
 "Another slave to pain."
 "Death will end your agony."
 "Do not fight it. Shh..."
 "You will thank me, between the screams."
-"Steel is 
-stronger
-."
+"Steel is  stronger ."
 "No more hope."
 "You will know fear."
 "Feel this. The pain will prove useful later."
@@ -202,9 +182,7 @@ stronger
 "You will fall so far."
 "All must be tested."
 "I offer redemption."
-"I 
-am
- the weapon."
+"I  am  the weapon."
 "You have already lost."
 "The end is near."
 "Accept what you have always known."
@@ -216,9 +194,7 @@ am
 "Let me introduce you to death."
 "Tranquility awaits."
 "
- 
-She'll
- never escape, and neither will you."
+"
 "Metal... meet metal."
 "Here, kitty, kitty..."
 "Your rage makes you... predictable."
@@ -228,9 +204,7 @@ She'll
 "Unworthy."
 "Freed by chains."
 "Get over here!"
-"The weak 
-deserve
- to die!"
+"The weak  deserve  to die!"
 "The world does not need gods."
 "You'd think a nation of pirates would never bow."
 "I am all the weapon I need."
@@ -240,9 +214,7 @@ deserve
 "Balance gives way, to chaos."
 "The stars are too far away to help you."
 "Every empire falls."
-"Without Zaun, you are 
-nothing
-!"
+"Without Zaun, you are  nothing !"
 "I'll finish what the Mist started."
 "The sands will bury you all."
 "In the depths, we are all animals."
@@ -251,9 +223,7 @@ nothing
 "No one will shed a tear. That is why you cry."
 "What kind of monster would kill a child? Oh... right."
 "Stars fall the hardest."
-"Say "Shurima" 
-one more time!
-"
+"Say "Shurima"  one more time! "
 "Those who stand behind you will share your fate."
 "I considered you my equal. I was wrong."
 "Noxus already had an executioner."
@@ -269,10 +239,7 @@ one more time!
 "You chose... the wrong weapon."
 "And Piltover rejoices."
 "I never saw the beauty in death... until now."
-"A father should be with his 
- 
-daughter.
-"
+"A father should be with his    daughter. "
 "The storm... breaks."
 "That thing spit in my eye."
 "Every one of you, as dead as the last."
@@ -281,9 +248,7 @@ daughter.
 "You finally live up to your name."
 "Power must be earned."
 "Friends to the end, how inspiring."
-"As the bones foretold: a quiet, 
-peaceful
- death!"
+"As the bones foretold: a quiet,  peaceful  death!"
 "You died the moment you let a god control you."
 "You were the hero. Now you're dead."
 "I'm sure Valor will swoop down any second..."
@@ -294,12 +259,8 @@ peaceful
 "Aw, Sion. You were already dead to me."
 "Not. Viable."
 "No music. Only silence."
-"You knew this day would 
-come
-!"
-"You've betrayed me 
-for the last time
-!"
+"You knew this day would  come !"
+"You've betrayed me  for the last time !"
 "You were never in control."
 "Obedient to the end."
 "You bargained away your freedom... for a frozen stick."
@@ -339,10 +300,6 @@ for the last time
 "Zaun calls for its headsman."
 "Echoing from the depths."
 "Our rise cannot be stopped."
-Frank Herbert's
 "I must not fear; fear is the mindkiller ..."
 "If you can't beat them, join them"
-[Let's] 
-Make America Great Again
-Yup, that tasted purple.
 "You merely adopted the dark. I was born in it, molded by it."

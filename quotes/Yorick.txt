@@ -43,9 +43,7 @@
 "Our souls are a small price to pay to cleanse this land."
 "I am the first and last of my order."
 "My curse is our only hope."
-"I remember when I put them 
-in
- the ground."
+"I remember when I put them  in  the ground."
 "So many souls, so few bodies."
 "To most, life is fleeting; to me, it is quagmire."
 "Death is not always a release."
@@ -95,14 +93,8 @@ in
 "Ah, missed it. There it goes! Where is it at? - ah! Yes!"
 "Ah, would you like some friends? Nope, can't have 'em."
 "I suppose I have eternity to think about that one."
-Yorick laughs.
-Yorick laughs.
-Yorick laughs.
 "Ah yes, I remember what laughter sounds like."
-Yorick plays a bass tune.
-Yorick plays a bass tune.
-“The hole I dig, it is for you.”
-“So many souls to liberate."
+"
 "To death."
 "The beyond awaits you."
 "To dirt, you return."
@@ -168,9 +160,7 @@ Yorick plays a bass tune.
 "It claims you."
 "Behold the horrors of the isles!"
 "Go, take what you will."
-"See the Maiden? She comes for 
-you
-."
+"See the Maiden? She comes for  you ."
 "Submit. Surrender."
 "Do not resist."
 "All will join."
@@ -181,12 +171,8 @@ you
 "One more step toward domination!"
 "One more step toward the end."
 "We are stronger. We shall take all!"
-"Do you feel it? I am 
-more
-!"
+"Do you feel it? I am  more !"
 "We feed, we grow!"
-Yorick's theme starts playing.
-A tune plays.
 "Another voice in the cacophony of wails."
 "Flesh torn asunder, flesh reborn."
 "We all end the same."
@@ -252,8 +238,7 @@ A tune plays.
 "Do not grieve."
 "I grow cold."
 "At last."
-"I see the 
- wolf."
+"I see the   wolf."
 "The shock of resurrection quickly passes."
 "I've come too far to stay dead."
 "We do not die, and so we fight on."

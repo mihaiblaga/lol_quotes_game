@@ -24,14 +24,6 @@
 "No, I will not fetch the ball."
 "Who let the dogs out? Woof. Woof. Woof."
 "My bite is worse than my bark."
-Nasus laughs.
-Nasus laughs.
-Nasus laughs.
-Nasus laughs.
-Nasus grunts.
-Nasus grunts.
-Nasus grunts.
-Nasus grunts.
 "Soon, there will be nothing."
 "Your spirit is hollow."
 "Death is a harsh mistress."
@@ -45,42 +37,10 @@ Nasus grunts.
 "Return to the dust."
 "We approach a time of reckoning."
 "Your soul will be measured."
-Nasus grunts.
-Nasus grunts.
-Nasus grunts.
-Nasus grunts.
 "Become dust."
 "Perish."
 "Wither."
 "Waste away."
-Nasus grunts.
-Nasus grunts.
-Nasus grunts.
-Nasus grunts.
-Nasus dies.
-Nasus dies.
-Nasus dies.
-Nasus dies.
-The following play alongside Nasus' attack, movement, joke, taunt, taunt Renekton, taunt Xerath audio as well as 
- 
-Wither's
-  audio.
-Dog sound effect
-Device sound effect
-Device sound effect
-Dog sound effect
-Dog sound effect
-Dog sound effect
-Dog sound effect
-Dog sound effect
-Dog sound effect
-Dog sound effect
-Dog sound effect
-Dog sound effect
-Dog sound effect
-Dog sound effect
-Dog sound effect
-Dog sound effect
 "Each fork in your path leads to fire."
 "They toil to live in a fool's paradise."
 "Mortality is guilt. All will be judged."
@@ -98,17 +58,9 @@ Dog sound effect
 "I will bury you alive."
 "I will show you the meaning of butchery, brother."
 "You have wasted your power, Renekton. Now bleed for it."
-Nasus throws a bone-shaped biscuit into the air and eats it.
 "Who's a good boy? I'm a good boy."
 "Now that I've Ascended, I can have treats, any time."
 "Once you Ascend, your old clothes won't fit anymore."
-Nasus laughs.
-Nasus laughs.
-Nasus laughs.
-Nasus laughs.
-Nasus plays a beatbox.
-Nasus plays a beatbox.
-Nasus plays a beatbox.
 "Nasus grunts."
 "Nasus grunts."
 "Nasus grunts."
@@ -130,9 +82,7 @@ Nasus plays a beatbox.
 "Fuel my inferno."
 "Every death feeds my fury."
 "Doomed and devoured."
-"I 
-am
- death."
+"I  am  death."
 "Writhe."
 "Shrivel."
 "Squirm."
@@ -145,8 +95,6 @@ am
 "By fire, be purged!"
 "Run, cowards!"
 "Scurry!"
-Nasus yells.
-Nasus yells.
 "Nasus dies."
 "Nasus dies."
 "Nasus dies."

@@ -82,10 +82,6 @@
 "I... am... ancient! You are nothing more than an insect to me!"
 "Eeaugh! Bugs are gross! Ugh!"
 "Oh no! I seem to have stepped on one of my cousins!"
-Skarner laughs.
-Skarner laughs.
-Skarner laughs.
-Skarner laughs.
 "Time to fight!"
 "Limb from limb!"
 "I will tear them apart."
@@ -95,12 +91,9 @@ Skarner laughs.
 "Now I've got you!"
 "Feel my sting!"
 "You'll never escape!"
-Skarner laughs.
 "Abduction protocol in effect. Isolate high potential subjects."
 "
- 
-The Creator
- requires additional organic templates."
+"
 "Biological samples detected. Dispose of all unusable materials."
 "The will of the Creator must be enacted."
 "Useful components will be preserved."
@@ -127,10 +120,6 @@ The Creator
 "You have taught us many methods through which you can die."
 "My stinger consists of metal matrix composites, thermoplastic polymers, and... ugly death."
 "Squish. Plod. I'm a human."
-Skarner laughs.
-Skarner laughs.
-Skarner laughs.
-Skarner laughs.
 "Boogie protocol engaged."
 "The Creator awaits."
 "Contemptible biological unit."
@@ -156,9 +145,6 @@ Skarner laughs.
 "Cease your movement."
 "You have been chosen."
 "Prepare for disassembly."
-Skarner laughs.
-Skarner laughs.
-Skarner laughs.
 "Employing thermal suppression."
 "Shape unsuited to forelimbs - adjusting."
 "Effective against biologicals and their bacterial contaminants."

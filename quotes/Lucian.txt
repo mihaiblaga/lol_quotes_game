@@ -1,7 +1,6 @@
 "Everybody dies. Some just need a little help."
 "You don't have the heart for this."
-A synthwave remix of "Demacia Rising" plays.
-"The mist awaits us all. Say good bye to whatever you care about."
+"Demacia Rising" plays. "The mist awaits us all. Say good bye to whatever you care about."
 "I got two guns. One's for what's in front of me and one's for what's chasin'."
 "Ain't enough bullets in the world for all the killin' I'm about to do."
 "Look at 'em all. Not even knowin' they're following me to hell."
@@ -51,13 +50,11 @@ A synthwave remix of "Demacia Rising" plays.
 "Don't need triggers, just need a target."
 "If you can't run from it, you might as well shoot it."
 "Some call it magic, I call it good aim."
-"I can save her... 
-I can save her.
-"
+"I can save her...  I can save her. "
 "People never really change... I need to believe that."
 "Sentinel. Fancy word for someone with nothing to lose."
 "You stare into the mist, and the mist stares back."
-Lucian sighs. "I've missed the smell of life."
+"I've missed the smell of life."
 "It ain't the grave I fear... it's what crawls out of it."
 "I've always fought the black mist... never thought I'd be married to it."
 "Bravest thing I ever did, was getting up this morning."
@@ -114,15 +111,10 @@ Lucian sighs. "I've missed the smell of life."
 "I'll have no trouble killing you... and less trouble killing you again."
 "We'll see how smart that mouth is when the Harrowing comes."
 "Tough talk for worm food."
-Lucian shoots a smiley face into the ground.
-Lucian chuckles. "And they say I have a grim sense of humor."
+"And they say I have a grim sense of humor."
 "This is my happy face... see?"
 "Smile? ...Alright."
 "No, really... I am smiling."
-Lucian chuckles.
-Lucian chuckles.
-Lucian chuckles.
-Lucian chuckles.
 "I've faced worse."
 "Don't duck on my account."
 "Sorry I gotta do this."
@@ -153,20 +145,10 @@ Lucian chuckles.
 "Eat light."
 "This is mercy."
 "Unclean."
-Lucian grunts.
-Lucian grunts.
-Lucian grunts.
-Lucian grunts.
-Lucian grunts.
-Lucian grunts.
-Lucian grunts.
-Lucian grunts.
 "For Senna!"
-Lucian yells.
 "Cleanse in fury!"
 "It ends here!"
 "Ashes and dust!"
-Lucian yells.
 "Trust me, you're better off."
 "Rise again, I dare you."
 "Bullseyes."
@@ -181,7 +163,7 @@ Lucian yells.
 "Yep. Reckon that's pure enough."
 "Life from death."
 "Getting used to it."
-Thanks."
+"
 "I was aiming at them."
 "I need you alive to kiss me."
 "Can see how that would be preferable."
@@ -192,14 +174,10 @@ Thanks."
 "Right about now I could use some purifyin' of my own."
 "It ain't ever a sin to be careful."
 "Can't run from trouble... sure can delay it for a spell though."
-A saxophone plays.
-Lucian poses while synthwave music plays.
-Lucian cries.
-Lucian screams. "I failed..."
+"I failed..."
 "I'll... wait for her..."
-Lucian cries out. "Senna..."
+"Senna..."
 "Purity... and... peace..."
-Lucian screams.
 "Cleanse... me..."
 "The shot that doesn't kill ya, sure makes you mad as hell."
 "The mist won't take me yet."
@@ -297,10 +275,6 @@ Lucian screams.
 "Not to beat a dead horse but...where is my horse?"
 "Now to ride into the sunset...Aw, hell!"
 "Yeah, I hope you keep that humor up...in hell."
-Lucian Laughs
-Lucian Laughs
-Lucian Laughs
-Lucian dances to a beat.
 "Draw!"
 "Draw steel!"
 "Don't make me gun you down!"
@@ -348,11 +322,8 @@ Lucian dances to a beat.
 "Can't run forever!"
 "Dead as dinner."
 "Frontier justice!"
-Lucian grunts
 "Head 'em up."
 "Cut 'em out."
-Lucian grunts
-Lucian grunts
 "Vamoose!"
 "Light 'em up!"
 "Try this on!"
@@ -360,17 +331,12 @@ Lucian grunts
 "Open wide."
 "Duck."
 "Eat lead!"
-Lucian grunts
 "Devil take 'ye."
 "Chew on this!"
 "Got 'em."
-Lucian grunts
-Lucian grunts
-Lucian grunts
 "Uh-ha."
 "Eheheheh."
 *Incomprehensible demonic whisper*
-Lucian grunts
 "Hahahaha."
 "Eternal damnation!"
 "You are forsaken!"
@@ -418,9 +384,6 @@ Lucian grunts
 "Give me a minute, partner. I've got company."
 "I'll be... waiting..."
 "Ugh, Senna..."
-Death Sound
-Death Sound
-Death Sound
 "The last ride ain't ever your last."
 "Can't kill a man more shadow than blood."
 "Seems like hell ain't ready for me yet."

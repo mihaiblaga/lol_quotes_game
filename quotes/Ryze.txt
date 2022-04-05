@@ -1,7 +1,6 @@
 "A step ahead of cataclysm."
 "Fine."
-"I find the runes so they won't be found by someone else - or some 
-."
+"I find the runes so they won't be found by someone else - or some  ."
 "The things I've seen in the dark corners of Runeterra are better left unseen."
 "Things to do today: find food, build shelter, fix the world."
 "I sense another rune, but where?"
@@ -82,9 +81,6 @@
 "You should read more, expand your vocabulary."
 "What? You want to see a magic trick? Fine... tada."
 "Okay, fine, here's a magic trick. Tada."
-Ryze laughs.
-Ryze laughs.
-Ryze laughs.
 "Keep your distance."
 "I read the runes. You lose."
 "Blood will spill."
@@ -207,7 +203,6 @@ Ryze laughs.
 "Hang on, archmage business."
 "Time to reflect on what we have learned."
 "A moment to gather our runes."
-A crowd cheers.
 "The scroll... burn it... "
 "Hide... them... "
 "They will not... take them... "
@@ -216,7 +211,6 @@ A crowd cheers.
 "I still live, but for how much longer?"
 "Let's try again, and this time do it right."
 "Ugh, being dead wastes precious time!"
-An eagle screech is heard.
 "I will show you arcane magic."
 "You show promise!"
 "GG!"

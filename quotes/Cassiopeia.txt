@@ -35,10 +35,6 @@
 "If you wanna' be on top, you have to reach for it."
 "No legs but I still have a little spring in my step."
 "Nothing escapes my coil."
-Cassiopeia laughs.
-Cassiopeia laughs.
-Cassiopeia laughs.
-Cassiopeia laughs.
 "Come, look me in the eyes."
 "Do not turn your back on me."
 "Just a taste."
@@ -58,26 +54,6 @@ Cassiopeia laughs.
 "My affection runs deep."
 "You won't feel a thing."
 "It seems I must handle things personally."
-Cassiopeia snarls.
-Cassiopeia hisses.
-Cassiopeia snarls.
-Cassiopeia snarls.
-Cassiopeia hisses.
-Cassiopeia hisses.
-Cassiopeia hisses.
-Cassiopeia hisses.
-Cassiopeia hisses and snarls.
-Cassiopeia hisses and snarls.
-Cassiopeia hisses and snarls.
-Cassiopeia hisses and snarls.
-Cassiopeia inhales.
-Cassiopeia inhales.
-Cassiopeia inhales.
-Cassiopeia inhales. Cassiopeia screeches.
-Cassiopeia hisses.
-Cassiopeia screeches.
-Cassiopeia screeches.
-Cassiopeia screeches.
 "A Noxian always rises to the top."
 "Failure is an elegant poison. Let it seep in."
 "I do love getting up close and personal."
@@ -89,10 +65,6 @@ Cassiopeia screeches.
 "I may leave, but I'm never gone."
 "I'll be back soon. Miss me."
 "My attentions are needed elsewhere."
-Cassiopeia hisses.
-Cassiopeia screams.
-Cassiopeia screams.
-Cassiopeia screams.
 "I just can't wait to face you."
 "Show me your skills, Katarina!"
 "I'll keep an eye out for you next time."

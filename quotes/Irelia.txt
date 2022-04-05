@@ -1,48 +1,30 @@
 "Fight for the First Lands!"
 "Tyrant!"
 "Let them come! This land will be their graveyard!"
-"We 
-will
- live on... Either in victory, or in the scars we leave on them!"
+"We  will  live on... Either in victory, or in the scars we leave on them!"
 "They await my words... what should I tell them?"
 "We stand on the bones of the ones who came before us. For them, we fight!"
-"I have but one life to give for Ionia. I 
-must
- make it count."
+"I have but one life to give for Ionia. I  must  make it count."
 "Ready for takeoff!"
 "Yup, they're ice blades. Don't stick your tongue to them."
 "I have walked the silver plains and fished the rivers of grass. The land knows me."
 "Remember what's been lost. Fight for what hasn't been."
 "(Laughs) They thought they could tame our land."
-"To live under a boot is 
-not
- to live."
+"To live under a boot is  not  to live."
 "My dance has 42 forms. They'll only see one."
-"I carry a 
-lot
- more than these blades."
-"We are the children of the First Lands, and we will 
-not
- be slaves!"
+"I carry a  lot  more than these blades."
+"We are the children of the First Lands, and we will  not  be slaves!"
 "I remember when I danced for fun."
 "Live today like you're going to die tomorrow."
 "What strange power works through me, I do not know."
 "I move to unsung melodies and unbeaten rhythms."
 "Zelos told the worst jokes... How I miss them."
 "Never stop learning. There's always a form you don't know."
-"If they capture me they'll kill me... (Laughs) 
-If
-."
-"We do this for those who came before us, 
-and
- those who come next."
-"Ours is the land of magic, and 
-that
- is worth dying for."
+"If they capture me they'll kill me... (Laughs)  If ."
+"We do this for those who came before us,  and  those who come next."
+"Ours is the land of magic, and  that  is worth dying for."
 "Their weapons are great, but our will is greater."
-"We are the 
-only
- masters of our fate!"
+"We are the  only  masters of our fate!"
 "Do we want to be safe? Or free? The choice is ours."
 "Better times there were, and will be again."
 "Dance with what brought you: in this case, blades."
@@ -54,9 +36,7 @@ only
 "They'll know me as the last to lay down her weapons."
 "They didn't kill us all!"
 "The voices of my brothers still carry on the wind."
-"I am both the tranquil sea 
-and
- the tempest."
+"I am both the tranquil sea  and  the tempest."
 "A mastered weapon needs no haft."
 "Stay ready, and there is no need to get ready."
 "Each form has a name known only to the wind. At least that's what O-ma said."
@@ -64,15 +44,11 @@ and
 "Be the leader they need."
 "I am not unfriendly! I am a warm and caring person."
 "Freedom has a demanding rhythm."
-"I 
-really
- should've stretched first... Oh well."
+"I  really  should've stretched first... Oh well."
 "They came for our magics. They'll pay with their lives."
 "Harm no one... Unless they come for your home."
 "None can do what I do... So I will do it."
-"A single pebble may sink a warship. And a 
-thousand
- pebbles... (laughs)"
+"A single pebble may sink a warship. And a  thousand  pebbles... (laughs)"
 "Peace must sometimes be bought with blood."
 "There's a saying: 'Never fight Ionians on their home soil.'"
 "Even if they kill me, they'll still have to fight the land."
@@ -116,9 +92,7 @@ thousand
 "Where did you go wrong? Is there anything redeemable in you? It's time to find out."
 "Keep your 'balance', ours is the only side that matters."
 "Humans? Vastayans? We are all Ionians, facing a common threat!"
-"Soon they will grieve in 
-your
- village."
+"Soon they will grieve in  your  village."
 "Stop your flirting nine-tails, it's time to take up arms."
 "I admire your spirit. Your attitude, not so much."
 "In Ionia we have over 200 species of talking dragon. Sorry, not impressed."
@@ -131,15 +105,11 @@ your
 "I'm about to cut your wind!.. Wait, n-not like that, I meant my blades are going to...  Never mind."
 "Your 'peace' leads to nothing but extermination!"
 "You claim to speak for the spirit, as if it doesn't move my blades."
-"Your dances are good, but they lack a 
-certain
-... soul."
+"Your dances are good, but they lack a  certain ... soul."
 "You want redemption? Join me, and kill your masters!"
 "You know what it's like to lose everything. So you know why I must fight."
 "Lobbing poison from your ship doesn't make you a genius. It makes you a coward!"
-"Really? Flying blades? Get your 
-own
- thing, sister!"
+"Really? Flying blades? Get your  own  thing, sister!"
 "Make yourself useful! Return your crystals to the earth."
 "Were you the one who brought the ravens? Because I think they just got caught in my blades!"
 "Did you wanna lose the other one too?"
@@ -151,23 +121,10 @@ own
 "Wait, wait, wait, wait."
 "(Grunt of anger) Hang on."
 "Contrary to what you've heard, I have a great sense of humor."
-Irelia laughs.
-Irelia laughs.
-Irelia laughs.
-Irelia laughs.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
 "Cut them down!"
 "There is no retreat!"
 "It's all in the footwork!"
-"We 
-must
- prevail!"
+"We  must  prevail!"
 "Mind your form!"
 "Always attack at an angle!"
 "No room for error!"
@@ -178,17 +135,14 @@ must
 "And... breathe."
 "Oho... you've got lead feet."
 "
-Never
- surrender!"
+"
 "We are sharpest where we break!"
 "Push them back!"
 "We stand or perish!"
 "Our time is now!"
 "Shall we?"
 "The blades fly in sync!"
-"Show them 
-no
- weakness!"
+"Show them  no  weakness!"
 "Balance be damned... Wipe them out!"
 "The dance begins."
 "No appeasement!"
@@ -196,13 +150,9 @@ no
 "It's us or them!"
 "Care to dance?"
 "Careful - I hit back!"
-"Give them 
-no
- foothold!"
+"Give them  no  foothold!"
 "Eyes up!"
-"We 
-will
- resist!"
+"We  will  resist!"
 "Look, a dance partner!"
 "Strike fast, and without misstep!"
 "For the fallen!"
@@ -243,24 +193,12 @@ will
 "Shall we fight back?"
 "For the bones of our fathers, and the temples of our gods!"
 "Let me take the lead!"
-"Stand strong! 
-Nothing
- can break us!"
-"You 
-will
- be avenged, brave ones."
+"Stand strong!  Nothing  can break us!"
+"You  will  be avenged, brave ones."
 "Your sacrifice will not be in vain!"
 "I survive. And now I must earn it."
 "I will light their lanterns. They will see victory."
 "And now... I dance alone."
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
 "Step."
 "Two."
 "Whirl!"
@@ -273,24 +211,6 @@ Sound effect.
 "Si!"
 "Kii!"
 "Jun!"
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
 "Leave none alive!"
 "Now!"
 "Remember the Placidium!"
@@ -336,9 +256,7 @@ Sound effect.
 "Land, name and nation. Long may they live!"
 "Stay watchful, stay prepared."
 "Look sharp!"
-"My guard is 
-never
- down!"
+"My guard is  never  down!"
 "Never again."
 "The eyes are the first line of defence."
 "This time, we'll be waiting for them."
@@ -358,18 +276,13 @@ never
 "Requesting permission to land."
 "Time to bail out!"
 "Coming in to refuel."
-Sound effect.
 "(gasp) O-ma?..."
 "Fight... on...."
 "(gasp) Zelos..."
 "(gasp) Spirit... why..."
-Sound effect.
-Sound effect.
 "Mayday..."
 "I'm hit!..."
-"The spirit revives me. I will 
-not
- disappoint."
+"The spirit revives me. I will  not  disappoint."
 "This is far from over. We have not yet begun to fight."
 "Ugh! Need to get my rhythm back!"
 "It appears my dance continues."

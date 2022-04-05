@@ -20,58 +20,18 @@
 "You should have done a better job locking me away, Nasus!"
 "You are not my brother, traitor!"
 "What? Do I have someone in my teeth?"
-Renekton laughs.
-Renekton laughs.
-Renekton laughs.
-Renekton laughs.
-Renekton growls.
-Renekton growls.
-Renekton growls.
-Renekton growls.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
 "I will spare no one!"
 "I will gut you all!"
 "I will tear the world asunder!"
 "Now you will know agony!"
-Renekton roars.
-Renekton roars.
-Renekton roars.
-Renekton roars.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
 "Cut them down!"
 "Embrace the jaws of death."
 "I'll leave them in pieces!"
 "Carnage."
 "Bask in their blood!"
 "Light meat, dark meat, it's all the same."
-Renekton laughs frantically.
-Renekton roars.
 "No suffering is too great!"
 "Oceans of blood!"
-A crowd cheers.
-Renekton roars and growls.
 "What I've seen. What I could have been! All gone."
 "I'm PROJECT's experiment. And it's nightmare."
 "And what do the PROJECT overlords have in store for me today?"
@@ -111,13 +71,10 @@ Renekton roars and growls.
 "I glimpsed a better future. Glorious! Transcendent! But not for me."
 "I volunteered, thought I'd become a god...Stupid."
 "My arm, my suit, my blade! What's the difference? All built for butchery."
-"I went instead, so 
- 
-Nasus
- wouldn't become...this. Should have let him go."
+"I went instead, so    Nasus  wouldn't become...this. Should have let him go."
 "When corporate needs someone liquidated, they send me!"
 "Not much left of who I was."
-Not much left of anyone I faced either."
+"
 "The Program's even more dangerous than me! I take that personally."
 "We're temporary allies, Ashe, I'll kill you the second I can."
 "PROJECT's come a long way since you, Master Yi."
@@ -131,15 +88,9 @@ Not much left of anyone I faced either."
 "Corrupted code detected."
 "You think I'm on your side? I'm on no one's side!"
 "I'm the future of humanity! Try to keep up."
-Renekton scoffs. "Mute your mic."
-Renekton rides his cleaver like a skateboard.
+"Mute your mic."
 "How many assassins does it take to slaughter a boardroom? Just me."
 "That's a joke? You're the joke!"
-Renekton Laughs.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
 "Blade engaged!"
 "Leathality amplified!"
 "Offline."
@@ -155,77 +106,13 @@ Renekton grunts.
 "Pah. Pathetic."
 "Terminate."
 "PROJECT's orders."
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
-Renekton grunts.
 "Rebooting subroutines. Upgrade initiated."
 "I was floating through infinity, and now I'm back here!"
 "New modifications available."
 "Free for a moment..."
-Renekton yells.
-Renekton grunts.
 "For a moment, but no...back to the metal cage."
 "I was floating through infinity, and now I'm back here!"
 "Out of cyberspace, into the suit, again."
-Renekton_PROJECT_AttackNonChampion_0.ogg
-Renekton_PROJECT_AttackNonChampion_1.ogg
-Renekton_PROJECT_AttackNonChampion_2.ogg
-Renekton_PROJECT_AttackNonChampion_3.ogg
-Renekton_PROJECT_AttackNonChampion_4.ogg
-Renekton_PROJECT_AttackNonChampion_5.ogg
-Renekton_PROJECT_AttackNonChampion_6.ogg
-Renekton_PROJECT_AttackNonChampion_7.ogg
-Renekton_PROJECT_AttackNonChampion_8.ogg
-Renekton_PROJECT_AttackNonChampion_9.ogg
-Renekton_PROJECT_AttackNonChampion_10.ogg
-Renekton_PROJECT_AttackNonChampion_11.ogg
-Renekton_PROJECT_AttackNonChampion_12.ogg
-Renekton_PROJECT_AttackNonChampion_13.ogg
-Renekton_PROJECT_AttackNonChampion_14.ogg
-Renekton_PROJECT_Cleave_0.ogg
-Renekton_PROJECT_Cleave_1.ogg
-Renekton_PROJECT_Cleave_2.ogg
-Renekton_PROJECT_Cleave_3.ogg
-Renekton_PROJECT_Execute_0.ogg
-Renekton_PROJECT_Execute_1.ogg
-Renekton_PROJECT_Execute_2.ogg
-Renekton_PROJECT_Execute_3.ogg
-Renekton_PROJECT_FirstEncounterNasusBase.ogg
-Renekton_PROJECT_KillAsheSkin08.ogg
-Renekton_PROJECT_KillMasterYiSkin09.ogg
-Renekton_PROJECT_KillMordekaiserSkin13.ogg
-Renekton_PROJECT_KillNasusBase.ogg
-Renekton_PROJECT_KillPenta.ogg
-Renekton_PROJECT_KillProgram.ogg
-Renekton_PROJECT_KillProject.ogg
-Renekton_PROJECT_KillPykeSkin16.ogg
-Renekton_PROJECT_KillSejuaniSkin16.ogg
-Renekton_PROJECT_KillSennaSkin16.ogg
-Renekton_PROJECT_KillSylasSkin13.ogg
-Renekton_PROJECT_KillVarusSkin16.ogg
-Renekton_PROJECT_KillWarwickSkin16.ogg
-Renekton_PROJECT_Kill_0.ogg
-Renekton_PROJECT_Kill_1.ogg
-Renekton_PROJECT_Kill_2.ogg
-Renekton_PROJECT_Kill_3.ogg
-Renekton_PROJECT_Kill_4.ogg
-Renekton_PROJECT_Kill_5.ogg
-Renekton_PROJECT_Kill_6.ogg
-Renekton_PROJECT_ReignOfTheTyrant_0.ogg
-Renekton_PROJECT_ReignOfTheTyrant_1.ogg
-Renekton_PROJECT_ReignOfTheTyrant_2.ogg
-Renekton_PROJECT_SuperExecute_0.ogg
-Renekton_PROJECT_SuperExecute_1.ogg
-Renekton_PROJECT_SuperExecute_2.ogg
-Renekton_PROJECT_SuperExecute_3.ogg
-Renekton_PROJECT_SuperExecute_4.ogg
-Renekton_PROJECT_SuperExecute_5.ogg
-Renekton_PROJECT_SuperExecute_6.ogg
 "I'll leave you all in pieces!"
 "You will not escape me, Nasus!"
 "GG!"

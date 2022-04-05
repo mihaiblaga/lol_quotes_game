@@ -34,8 +34,7 @@
 "Ekko, you don't have to fight alone. Us Zaun kids, we stick together."
 "Ezreal, you're the type of guy that's not worth my time."
 "Professor, don't make me blow up your inventions again."
-"Janna, you do exist! Your wind, my lightning. Let's make a storm.
-"Hoy, Jinx! How many rockets you making me dodge this time, huh?"
+"Janna, you do exist! Your wind, my lightning. Let's make a storm. "Hoy, Jinx! How many rockets you making me dodge this time, huh?"
 "Pretty songs don't fix problems, Seraphine. Actions do."
 "A real rat with a crossbow? Can't believe I owe my Dad money."
 "Vi, you could've fought for Zaun. But you chose not to."
@@ -45,7 +44,6 @@
 "That's a lotta talk. Let's see if you back it up."
 "If I can just, uh, get this to work. Ah!"
 "Nope. Not funny."
-Zeri laughs.
 "A gift from Zaun."
 "Ha! Surprise!"
 "Electrocute!"

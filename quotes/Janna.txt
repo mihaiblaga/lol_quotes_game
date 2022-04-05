@@ -1,7 +1,6 @@
 "The tempest is at your command."
 "As you wish."
-A stripped-down version of "Burning Bright" plays.
-"As you wish."
+"Burning Bright" plays. "As you wish."
 "With ease."
 "Swiftly!"
 "Breathlessly."
@@ -10,18 +9,13 @@ A stripped-down version of "Burning Bright" plays.
 "And you thought it was just a harmless breeze!"
 "Yes, it's true. For only $2.95 a minute, I will leave you breathless."
 "Say hello to the winds of--- (double cough, clears throat) I don't know what came over me."
-Janna laughs.
-Janna laughs.
-Janna laughs.
-Janna laughs.
 "The tempest is upon them."
 "The storm approaches."
 "Gale winds unleashed."
 "For tranquility."
 "By your command."
 "At once."
-A shortened version of "Burning Bright" plays.
-"This is Janna, live at Summoner's Rift! Hopefully I stay that way."
+"Burning Bright" plays. "This is Janna, live at Summoner's Rift! Hopefully I stay that way."
 "It's going to be another beautiful day in Summoner's Rift! Again."
 "This is Janna, live at the - brr - Howling Abyss! Hopefully I stay that way."
 "I'm live at the scene and it's just... cats and dogs here."
@@ -37,24 +31,16 @@ A shortened version of "Burning Bright" plays.
 "Trust me, I'm a weatherwoman."
 "Wait, are we rolling?"
 "What a scoop!"
-"Expect a spawn of 
- 
-Dragons
- every 6 minutes today."
+"Expect a spawn of    Dragons  every 6 minutes today."
 "Let my winds - and the teleprompter - guide you!"
 "Stock up wards for low visibility locations."
 "Five day forecast: sunshine, rainbows and bloodshed!"
 "And this harass is gonna continue on into the evening!"
 "It looks like there's a low chance any skillshots are gonna hit us!"
 "Surrender is likely with high pressure systems all over the map."
-A stormcloud forms above Janna and she opens her umbrella but is then shocked by lightning.
 "We may see a couple of clouds but nothing to worry abou- ahhh!"
 "A little bit of precipitation is nothing to have a bad hair- urgh!"
 "So long as Janna's on stormwatch, you've got nothing to fe- agh!"
-Janna laughs.
-Janna laughs.
-Janna laughs.
-Janna laughs.
 "Pressure is building!"
 "You're in tornado alley!"
 "Heavy winds approaching!"
@@ -82,8 +68,5 @@ Janna laughs.
 "Janna signing off... !"
 "Back to you... !"
 "We're going to edit that out, right?"
-"Yes, it's true. For only $2.
-95
- a minute, I will leave you breathless."
-"Say hello to the winds of---
-I don't know what came over me."
+"Yes, it's true. For only $2. 95  a minute, I will leave you breathless."
+"Say hello to the winds of--- I don't know what came over me."

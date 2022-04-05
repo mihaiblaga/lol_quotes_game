@@ -16,8 +16,7 @@
 "The void has breached this place."
 "The first wave is upon us."
 "These creatures seek the living, even here."
-"That smell... unmistakable... the void.
-"I came for the hunt, but I'll stay for the fruit."
+"That smell... unmistakable... the void. "I came for the hunt, but I'll stay for the fruit."
 "I like it here, I just might stay."
 "This skin lives on me, and hunts with me."
 "Feed the beast, or be its meal."
@@ -130,19 +129,10 @@
 "Time to pit steel against steel."
 "I've seen things you people wouldn't believe, attack ships on fire on the shoulders of Or... Are those peaches?"
 "Let's see what you're made of!"
-(Snarls)
-(Snarls)
-(Snarls)
-Kai'Sa kneels while a frog gets sucked into her shoulder pod, then gets ejected as a corrupted frog.
-Sound effect.
-Kai'Sa laughs.
 "My suit hungers."
 "Foolish quarry!"
 "Kai'Sa, remember the name!"
 "This is my purpose, learn from me."
-(Yells)
-(Yells)
-(Yells)
 "A lamp's not gonna do it, Jax."
 "I guess I'm next, Jax."
 "Settle down, sister!"
@@ -162,9 +152,7 @@ Kai'Sa laughs.
 "You call those guns?"
 "You're outgunned."
 "Step back, red!"
-"This is 
-my
- home, void-spawn!"
+"This is  my  home, void-spawn!"
 "You must be lost, creature..."
 "Not here, friend."
 "Die, trespasser."
@@ -175,20 +163,8 @@ my
 "You will die here, creature."
 "Come on, come on!"
 "You don't belong here!"
-(Grunts)
-(Grunts)
-(Grunts)
-(Grunts)
 "They're in trouble now."
-(Gasps)
-(Gasps)
-(Groans)
-(Groans)
 "They have nowhere to hide now."
-(Gasps)
-(Gasps)
-(Groans)
-(Groans)
 "Ahh..."
 "Ahh, clumsy girl."
 "Close doesn't count."
@@ -231,19 +207,7 @@ my
 "I'll take that."
 "They were so close."
 "Almost made it!."
-(Hyperventilates)
-(Hyperventilates)
-(Hyperventilates)
-(Hyperventilates)
 "Yes! Quickness kills."
-(Groans)
-(Groans)
-(Groans)
-(Groans)
-(Yells)
-(Yells)
-(Yells)
-Kai'Sa says each of these quotes based on the number of kills she has.
 "That's one."
 "Two down."
 "That's three."
@@ -316,29 +280,11 @@ Kai'Sa says each of these quotes based on the number of kills she has.
 "It's a trap, be ready!"
 "I need to gather my strength."
 "That's enough for the moment, the hunt will resume."
-Kai'Sa dances to an instrumental version of "POP/STARS".
-Kai'Sa plays a "beat 'em up" game and dances after winning.
-(Screams)
-"In the void I had no one. I was a doomed outsider. Here, people are everywhere, and they are all mine."
+"POP/STARS". Kai'Sa plays a "beat 'em up" game and dances after winning. (Screams) "In the void I had no one. I was a doomed outsider. Here, people are everywhere, and they are all mine."
 "Some call me 'Monster', they have no idea what lurks just below us all."
-"The void is not so much a place ‒ it is a power, reaching out to consume all life.
-"The void-spawn offer a thousand ways to die, and one way to live: Become like them."
+"The void is not so much a place ‒ it is a power, reaching out to consume all life. "The void-spawn offer a thousand ways to die, and one way to live: Become like them."
 "The things we carry should lift us up, not weigh us down. Memories, love, and hope are the lightest necessities."
 "The yoke of fear is a heavy burden. Hunters must be nimble, and walk lightly."
-"I grew up deep inside a vast emptiness, I do not wish to grow old in one. 
-That
- is why we must fight."
+"I grew up deep inside a vast emptiness, I do not wish to grow old in one.  That  is why we must fight."
 "Down there I was surrounded by nothingness, but I was never alone. Memories comfort like the closest companion."
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
+.

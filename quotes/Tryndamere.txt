@@ -8,9 +8,6 @@
 "Follow my blade!"
 "You never stood a chance."
 "My right arm is a lot stronger than my left arm!"
-Tryndamere laughs.
-Tryndamere laughs.
-Tryndamere laughs.
 "Must... go."
 "Find fresh souls. Quickly."
 "No salvation."
@@ -25,10 +22,6 @@ Tryndamere laughs.
 "My blade calls, you will answer!"
 "You really don't want to get on my bad side."
 "This new look... is really growing on me."
-Tryndamere laughs.
-Tryndamere laughs.
-Tryndamere laughs.
-Tryndamere laughs.
 "The thirst consumes me!"
 "Slaughter! Massacre..."
 "Claim them all."

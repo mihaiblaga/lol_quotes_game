@@ -438,15 +438,12 @@
 "Ivern_Elderwood_W_3.ogg"
 "Ivern_Elderwood_W_4.ogg"
 "Ivern_Elderwood_W_5.ogg"
-Music plays.
 "The sunshine tastes so good today."
 "Feels good to stretch the old beanstalks."
 "What a wonderful day. Gooseberries would love it."
 "Live each day as if it's your first."
-Ivern Sings.
-Ivern Sings.
 "Hmm, it's getting cloudy. I hope it drizzles chocolate soon!"
-Ivern yawns. "Time to take the old candy canes out for a stroll."
+"Time to take the old candy canes out for a stroll."
 "I can't wait to spread a little sweetness."
 "Animals have more to offer than warm pelts and meat."
 "Sprint like a snail, and you will never twist your ankle."
@@ -480,8 +477,7 @@ Ivern yawns. "Time to take the old candy canes out for a stroll."
 "Oh, the sun's making me awfully melty."
 "In butterscotch we trust."
 "Cake makes any meeting a party."
-"Pastries and pies hate waiting for people to finish supper.
-"Never trust a jelly roll to do a donut job."
+"Pastries and pies hate waiting for people to finish supper. "Never trust a jelly roll to do a donut job."
 "Pudding is meant to be stirred."
 "I have never met a jelly bean I didn't love."
 "I am never lost in the wilderness... hehe, only in conversations."
@@ -494,9 +490,7 @@ Ivern yawns. "Time to take the old candy canes out for a stroll."
 "No-one who wanders is every truly lost."
 "It's reassuring how alone we aren't."
 "I get the feeling dragons don't like me too much. Oh well."
-"That creature is not of 
-this
- world."
+"That creature is not of  this  world."
 "Why aren't dragons and void beasts friendlier?"
 "Dragons and void beasts are beyond my aid."
 "Brambleback always has the best jokes!"
@@ -524,11 +518,6 @@ this
 "Hmm."
 "Oh."
 "Oh?"
-Ivern hums.
-Ivern hums.
-Ivern hums.
-Ivern hums.
-Ivern hums.
 "I'm a treehugger! You should know that about me."
 "Have an unusual day."
 "You magnificent beast..."
@@ -541,7 +530,7 @@ Ivern hums.
 "Finally, someone who understands nature like I do!"
 "Mountain man, it's me! The tree guy!"
 "This could have passed."
-Ivern: "Are you going to Treemoot this year? I'm going to dress up as a sassafras!"
+"Are you going to Treemoot this year? I'm going to dress up as a sassafras!"
 "Potatoes are always watching."
 "No."
 "Obviously, you're not a gopher."
@@ -557,18 +546,10 @@ Ivern: "Are you going to Treemoot this year? I'm going to dress up as a sassafra
 "That's the funniest thing I've ever heard!"
 "That gets funnier every time I hear it."
 "...than the mudloafers I've..."
-Ivern laughs.
-Ivern laughs.
-Ivern laughs.
 "Dedoo!"
 "Woosh!"
 "Hah!"
 "Hoo!"
-Ivern sings.
-Ivern sings.
-Ivern sings.
-Ivern sings.
-Ivern sings.
 "Haha!"
 "Hehe!"
 "Ooh!"
@@ -611,8 +592,7 @@ Ivern sings.
 "No one escapes the bonbon horde!"
 "Don't be so salty."
 "Sprinkles never say die!"
-"My fists are named Sweet and Sour.
-"My fists are named Cotton and Candy."
+"My fists are named Sweet and Sour. "My fists are named Cotton and Candy."
 "It's raining peppermints!"
 "You are far too tart!"
 "How very hornet of me."

@@ -86,22 +86,11 @@
 "Come out and play. Heheheh."
 "Not Draven; Draaaaven."
 "Draven does it all… with style!"
-Draven laughs.
-Draven laughs.
-Draven laughs.
 "Yeah, yeah! Yeah!"
 "Yeah! Woo!"
 "Woo! Yeah! Yeah!"
 "Yeah, yeah! Yeah!"
 "Yeah, yeah! Yeah!"
-Draven grunts.
-Draven grunts.
-Draven grunts.
-Draven grunts.
-Draven grunts
-Draven grunts
-Draven grunts
-Draven grunts
 "Stand back."
 "Let's do this."
 "Watch and learn."
@@ -111,46 +100,14 @@ Draven grunts
 "This is where Draven shines."
 "Hear that? Death's knocking."
 "Seems to be blood everywhere I go."
-Draven grunts.
-Draven grunts.
-Draven grunts.
-Draven grunts.
 "Too easy."
 "I'll take that."
 "Here we go."
 "Why, thank you!"
-Draven giggles.
-Draven giggles.
-Draven giggles.
-Draven giggles.
 "Yoink."
 "Nice axe, I'll take it."
-Draven grunts.
-Draven grunts.
-Draven grunts.
-Draven grunts.
-Draven grunts
-Draven grunts
-Draven grunts
-Draven grunts
-Draven grunts.
-Draven grunts.
-Draven grunts.
-Draven grunts.
 "Draven out!"
 "Draven's makin' an exit."
-Draven giggles.
-Draven giggles.
-Draven giggles.
-Draven giggles.
-Draven groans.
-Draven groans.
-Draven groans.
-Draven groans.
-Draven groans
-Draven groans
-Draven groans
-Draven groans
 "Welcome, ladies and gentlemen, to another exciting edition of the League of Draven Championship Series!"
 "Should've banned Draven!"
 "Draven's making some good map movements."
@@ -181,10 +138,6 @@ Draven groans
 "Yeah! Woo!"
 "Woo! Yeah! Yeah!"
 "Yeah, yeah! Yeah!"
-Draven grunts.
-Draven grunts.
-Draven grunts.
-Draven grunts.
 "Draven's giving a master class in how to play Draven."
 "Draven doing a little face-checking!"
 "Draven's improving those stats once again!"
@@ -195,25 +148,12 @@ Draven grunts.
 "Draven trying to keep the pressure on!"
 "Draven's looking to make plays."
 "Draven going full-on aggression!"
-Draven grunts.
-Draven grunts.
-Draven grunts.
-Draven grunts.
 "Too easy."
 "I'll take that."
 "Here we go."
 "Why, thank you!"
-Draven grunts.
-Draven grunts.
-Draven grunts.
-Draven grunts.
-Draven grunts.
-Draven grunts.
-Draven grunts.
-Draven grunts.
 "
-#DravenBigPlay
-!"
+"
 "An ult from Draven!"
 "Draven fires his ult!"
 "Look out, Draven's got his Infinity Edge!"

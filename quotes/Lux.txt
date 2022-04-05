@@ -1,7 +1,6 @@
 "Let's light it up!"
 "But all my light puns would've brightened your day."
-A stripped-down version of "Burning Bright" plays.
-"Demacia must lead by example."
+"Burning Bright" plays. "Demacia must lead by example."
 "The sun is shining - we should too."
 "Together! For Demacia!"
 "I've been hiding my light long enough."
@@ -23,10 +22,6 @@ A stripped-down version of "Burning Bright" plays.
 "Double rainbow... what does it mean?"
 "Well, a double rainbow is a phenomenon of optics that displays a spectrum of light due to the sun shining on droplets of moisture in the atmosphere. Does that explain it?"
 "Ahaha! I just got the joke!"
-Lux laughs.
-Lux laughs.
-Lux laughs.
-Lux laughs.
 "We should try being friends first, no?"
 "Hello, person-who-irrationally-wants-to-kill-me! It's so good to meet you!"
 "You don't like me? Well, I'd rather talk to a statue."
@@ -38,19 +33,14 @@ Lux laughs.
 "Hey, sleepyhead, you coming to the fight or what?"
 "I'm a Crownguard but you wear the crown. You're a Lightshield but I wield the light. But eh-uh-I mean, metaphorically, your highness."
 "I'm sure your wife forgives you for getting her soul taken by a remorseless creature of darkness!"
-"Hey, Valor." (Valor squawks)
-"Sona! I'm your biggest fan! I even know what an Etwahl is!"
+"Hey, Valor." (Valor squawks) "Sona! I'm your biggest fan! I even know what an Etwahl is!"
 "You brought the sun to a light fight?! That... was... probably a good choice, actually... "
 "I don't get runes. I mean, are spells really that hard to remember?"
 "Taliyah, don't be afraid."
 "Does this make me a lightweaver?"
 "Who do you want to be when you grow up?"
 "You look like you need a hug...but is it okay if I hold my nose?"
-"We're all so concerned about what Demacia 
-is
-, we forget to ask what it 
-can
- be."
+"We're all so concerned about what Demacia  is , we forget to ask what it  can  be."
 "I believe in you, not just Demacia."
 "You condemn what you don't understand."
 "Demacia and Noxus are just lines on a map."
@@ -84,7 +74,6 @@ can
 "By the light!"
 "Would it help if I apologized?"
 "The light will guide you - even now."
-A short theme plays.
 "Lights... out... "
 "The thing about light is... it never really dies."
 "We all shine on - like a diamond."
@@ -120,21 +109,9 @@ A short theme plays.
 "All these elements available and you choose to be salty!"
 "You've got a bad attitude!"
 "Think before you speak!"
-"Elements of change, heed my--- 
-(screams)
- oh ahh, I hope no one saw that... "
-"Elements, answer my--- 
-wooh ugh
-... oh, for the love of... we good? Ok, we're good!"
-"Strange alchemy fuels my--- 
-whoops dammit
-... Alright, everything still where it's supposed to be? Great."
-Lux laughs.
-Lux laughs.
-Lux laughs.
-Lux laughs.
-Lux laughs.
-Lux laughs.
+"Elements of change, heed my---  (screams)  oh ahh, I hope no one saw that... "
+"Elements, answer my---  wooh ugh ... oh, for the love of... we good? Ok, we're good!"
+"Strange alchemy fuels my---  whoops dammit ... Alright, everything still where it's supposed to be? Great."
 "Back to the shadows!"
 "The light will find you."
 "Shine on!"
@@ -213,12 +190,6 @@ Lux laughs.
 "Darkness isn't evil, it's honest."
 "Shade conceals our flaws."
 "Melt into the shadows."
-Lux laughs.
-Lux laughs.
-Lux laughs.
-Lux laughs.
-Lux laughs.
-Lux laughs.
 "Relinquish your spark!"
 "Wicked!"
 "Darkness reigns."
@@ -229,9 +200,7 @@ Lux laughs.
 "Say goodnight!"
 "Light's absence will be my weapon."
 "Bleed the colors from their sight!"
-"What you don't see 
-can
- hurt you."
+"What you don't see  can  hurt you."
 "Breathe deep the gathering gloom!"
 "Why do you resist?"
 "It will all be over soon."
@@ -269,8 +238,6 @@ can
 "Flighty and unpredictable? I'm just a free spirit."
 "Not a cloud in the sky."
 "I think you will find this is the most refreshing way to die."
-Lux laughs.
-Lux laughs.
 "This will be a breeze."
 "Gale force!"
 "Cyclone strike!"
@@ -330,10 +297,6 @@ Lux laughs.
 "There is no calm in the eye of my storm."
 "All beings are small beneath the skies' grand canvas."
 "Ride the lightning."
-Lux laughs.
-Lux laughs.
-Lux laughs.
-Lux laughs.
 "Seek shelter."
 "A bolt from the blue."
 "By the time you've heard the thunder, it's too late."
@@ -386,10 +349,6 @@ Lux laughs.
 "Be aggressive!"
 "If I seem standoffish, it's because I've been burned before."
 "Don't make me put down this staff and punch you in the face."
-Lux laughs.
-Lux laughs.
-Lux laughs.
-Lux laughs.
 "I'll torch my enemies."
 "Catch fire!"
 "Ready to get burned?"
@@ -455,9 +414,6 @@ Lux laughs.
 "Magma transforms dull stone into sleek obsidian."
 "Patience is not one of my virtues."
 "Magma is the earth's blood, I don't spill it lightly."
-Lux laughs.
-Lux laughs.
-Lux laughs.
 "Melt!"
 "None can withstand molten stone."
 "Scorch the earth."
@@ -511,10 +467,6 @@ Lux laughs.
 "Let's find where flowers bloom."
 "How can I help?"
 "Creation meanders, and so must I."
-Lux laughs.
-Lux laughs.
-Lux laughs.
-Lux laughs.
 "Nature is uncompromising."
 "There are weeds in the garden."
 "Welcome to natural selection."
@@ -569,9 +521,6 @@ Lux laughs.
 "Believe in the person you want to be."
 "Oneiromancy is underrated."
 "I love this story!"
-Lux laughs.
-Lux laughs.
-Lux laughs.
 "Give spark to our imagination."
 "Baffle, bewilder, bewitch!"
 "Free your mind!"
@@ -628,9 +577,6 @@ Lux laughs.
 "Why limit myself to a single element?"
 "There's still so much I don't know."
 "Time to go with the flow."
-Lux laughs
-Lux laughs
-Lux laughs
 "How well can you swim?"
 "Get drenched."
 "Crash against them."
@@ -664,7 +610,7 @@ Lux laughs
 "So easily washed away."
 "To be frozen is to be unyielding."
 "You're still made of water, you know?"
-(Laughs) "Wipeout!"
+"Wipeout!"
 "Wash it all away."
 "Danger, no lifeguard on duty"
 "Guess I'm the lifeguard."
@@ -683,13 +629,10 @@ Lux laughs
 "None can fall my resolve."
 "Snow is stillness."
 "Passion is a liability."
-"Cold calculation is the key to victory".
-"Rhyme and reason."
+"Cold calculation is the key to victory". "Rhyme and reason."
 "I have considered every eventuality."
 "Why does everyone always assume I have turkish delight?"
 "You tread on thin ice."
-Lux laughs.
-Lux laughs.
 "Nothing will keep the cold out."
 "Shiver!"
 "Your skin is turning the loveliest shade of blue."
@@ -740,8 +683,7 @@ Lux laughs.
 "The court still stands. That is all that matters."
 "The vastness of space leaves much room for reflection."
 "The whispers never go away."
-"Each new star ignited- helps bind the shadows within.
-"Mortals invent constellations, yet they refuse to acknowledge the darkness inbetween."
+"Each new star ignited- helps bind the shadows within. "Mortals invent constellations, yet they refuse to acknowledge the darkness inbetween."
 "Creation, destruction, in constant oppositions."
 "Nothingness still gnaws at the corners of my dreams."
 "Bound by duty, sworn to shine."
@@ -814,12 +756,6 @@ Lux laughs.
 "Queen Ashe... I've failed you..."
 "Hallowed is my vessel, filled with hope, sintered by star fire."
 "Spark, reignited."
-Sound effects.
-Sound effects.
-Sound effects.
-Sound effects.
-Sound effects.
-Sound effects.
 "The self-righteous fools of the Celestial Court remain blinded by their own light. Here in the darkness... I can finally see."
 "The Dark Star tumbles through space and time unbound, all consuming. I... will reign as its master."
 "Born with darkness in my heart. Forced to wear a mask of light. Hungry hands peel away a false face to reveal... nothing."
@@ -865,14 +801,12 @@ Sound effects.
 "Optimism and rainbows? Get that out of here!"
 "I've obliterated galaxies with a thought. You... who are you again?"
 "The buzzing boast of an insect before a dark queen."
-Lux laughs.
 "Devoured by emptiness."
 "Desolation knows your name."
 "Chaos is the only order."
 "Power beyond your comprehension."
 "Confront the inevitable."
-"Darkness binds the universe." 
-"Revelation in destruction."
+"Darkness binds the universe."  "Revelation in destruction."
 "No one can hear you scream."
 "Bow to your queen."
 "You dare defy the cosmos?"
@@ -885,15 +819,9 @@ Lux laughs.
 "You are mine."
 "Bound by darkness!"
 "Caught in the abyss."
-Lux exhales.
-Lux exhales.
 "Hidden by shadows!"
-Lux exhales.
-Lux exhales.
 "Our fates are entangled!"
 "Darkness obscures!"
-Lux exhales.
-Lux grunts.
 "Gravity well!"
 "Implode!"
 "Witness the singularity!"
@@ -916,36 +844,19 @@ Lux grunts.
 "At last... all is quiet..."
 "Recoalesced!"
 "One can not destroy destruction given form."
-Sound effects.
-Sound effects.
-Sound effects.
-Sound effects.
-Sound effects.
-Sound effects.
-Sound effects.
-Sound effects.
-Sound effects.
-Sound effects.
 "Let's have a brilliant battle!"
 "GG!"
 "There is always light in the darkness."
 "Home is where the heart is."
 "Isn't that just like a wop? Brings a knife to a gun fight"
 "
- 
-Xerath
-- such a dark fate for one who once shined so bright. I will set you free."
+"
 "I will be free."
-"The cosmic court left you for dead, 
- 
-Mordekaiser
-. Return, and remind them why they fear."
+"The cosmic court left you for dead,    Mordekaiser . Return, and remind them why they fear."
 "The world has tried to forget my existence, time to remind them why they fear."
 "Darkness devours!"
 "The dark devours all."
 "Gaze into the abyss, and rejoice."
 "Into the abyss."
 "In the darkness, away from the false glamour of light, the truth stands unmasked and free."
-"'
-In darkness one's true nature stands revealed'
-."
+"' In darkness one's true nature stands revealed' ."

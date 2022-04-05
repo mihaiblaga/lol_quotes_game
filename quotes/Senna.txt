@@ -1,16 +1,12 @@
 "No one fights alone in the Mist."
 "Fine. I don't need more enemies."
-A stripped-down version of "GIANTS" plays.
-"The mist knows my name. It howled it for years, but it was only asking for help."
+"GIANTS" plays. "The mist knows my name. It howled it for years, but it was only asking for help."
 "Where I'm going, you don't want to go. Seriously, you don't."
 "I'm not running from them anymore. They're running from me."
 "When there's no more light I'll carry their darkness."
 "If I can handle this gun, I can handle myself. Trust me, I can handle this gun."
 "Any volunteers to charge blindly into a storm of souls?"
 "Come back to life... save the world... all with weapons locked. The sentinels trained me right."
-“They've heard my story. Now, they're gonna hear my song.”
-“It's the dream that makes us giants. Just gotta dream big enough.”
-“Music brings us to life. That's worth fighting for.”
 "So, what was it like? All that time in the lantern?"
 "A nightmare. Lotta darkness. Food was great though."
 "Really?"
@@ -111,12 +107,6 @@ A stripped-down version of "GIANTS" plays.
 "Second rule of being a sentinel. Any questions?"
 "Am I supposed to say something clever? Some of us have work to do."
 "So this is the terror that waddles in the night. Huh."
-Senna laughs.
-Senna laughs.
-Senna laughs.
-Senna laughs.
-Senna hums.
-A muffled beat plays.
 "Kill 'em twice just to be sure."
 "Death is always in range."
 "I don't miss. It's not an option."
@@ -151,31 +141,17 @@ A muffled beat plays.
 "Pain doesn't own you."
 "It's not your fault."
 "I can bear it."
-Senna grunts.
-Senna grunts.
-Senna grunts.
 "Life from death."
 "Getting used to it."
-Thanks."
+"
 "I was aiming at them."
 "I need you alive to kiss me."
 "Could see how that would be preferable."
-Senna grunts.
-Senna grunts.
-Senna grunts.
-Senna grunts.
-Senna grunts.
-Senna grunts.
-Senna grunts.
-Senna grunts.
-Senna grunts.
 "Death remembers."
 "One last breath."
 "Shadows catch the fallen."
 "My enemies. Myself."
 "Together."
-Senna sighs.
-Senna sighs.
 "Hearts beat together."
 "The song between us."
 "Hear the music."
@@ -192,8 +168,7 @@ Senna sighs.
 "Every death is a sacrifice…"
 "If you're only dead, count yourself lucky."
 "I've seen too much of this, but I won't close my eyes."
-"In death, we fight the same fight." 
-"For the light."
+"In death, we fight the same fight."  "For the light."
 "And all lost in darkness."
 "Look at us making new memories."
 "Same as the old memories."
@@ -214,11 +189,7 @@ Senna sighs.
 "Next time I sign a contract, I'm checking it for chains."
 "Thresh Records only had soul when it had mine."
 "I'm breaking free, so the fans can follow."
-A beat plays.
 "Lucian!"
-Senna groans and cries.
-Senna groans and cries.
-Senna groans.
 "Died again? Must be getting good at it."
 "Life won't let me go."
 "To be reborn… am I still me?"
@@ -278,8 +249,6 @@ Senna groans.
 "My heart just ain't in this fight. Oh wait...yeah it is."
 "Let's hope you're a better shot than a comedian, friend."
 "Well, I have a horse. Seems like everybody has a horse... 'cept you."
-Senna dances to a beat.
-Senna laughs.
 "Have a little heart."
 "Whoa, now."
 "Your sins weigh you down."
@@ -320,9 +289,6 @@ Senna laughs.
 "Heaven won't be empty for long."
 "The west is full up."
 "I ain't doin' this for fun, you know."
-Effort sounds.
-Effort sounds.
-Effort sounds.
 "Hold that thought."
 "You ain't goin' nowhere."
 "Stick around."
@@ -330,9 +296,6 @@ Effort sounds.
 "Sit a spell."
 "Whoa, partner!"
 "Hold up now."
-Senna laughs.
-Effort sounds.
-Effort sounds.
 "Heaven and earth."
 "Hear the angels."
 "Hark."
@@ -340,8 +303,6 @@ Effort sounds.
 "Deliverance."
 "Shrouded in glory."
 "Resplendent."
-Exhale sound.
-Exhale sound.
 "JUDGEMENT DAY!"
 "YEEEE-HAW!"
 "YIPPEE KI-YAY!"
@@ -372,199 +333,7 @@ Exhale sound.
 "Aw... not again..."
 "Lucian..."
 "Aw, shucks..."
-Death sounds.
-Death sounds.
 "I'll keep coming back 'til the good work is done."
 "Wonders never cease, and neither do I."
 "Can't keep a good angel down."
-Senna_PROJECT_Attack_0.ogg
-Senna_PROJECT_Attack_1.ogg
-Senna_PROJECT_Attack_2.ogg
-Senna_PROJECT_Attack_3.ogg
-Senna_PROJECT_Attack_4.ogg
-Senna_PROJECT_Attack_5.ogg
-Senna_PROJECT_Attack_6.ogg
-Senna_PROJECT_Attack_7.ogg
-Senna_PROJECT_Attack_8.ogg
-Senna_PROJECT_Attack_9.ogg
-Senna_PROJECT_Attack_10.ogg
-Senna_PROJECT_Attack_11.ogg
-Senna_PROJECT_Attack_12.ogg
-Senna_PROJECT_Attack_13.ogg
-Senna_PROJECT_Attack_14.ogg
-Senna_PROJECT_Attack_15.ogg
-Senna_PROJECT_Attack_16.ogg
-Senna_PROJECT_Attack_17.ogg
-Senna_PROJECT_Attack_18.ogg
-Senna_PROJECT_Attack_19.ogg
-Senna_PROJECT_Attack_20.ogg
-Senna_PROJECT_Attack_21.ogg
-Senna_PROJECT_Attack_22.ogg
-Senna_PROJECT_Attack_23.ogg
-Senna_PROJECT_Attack_24.ogg
-Senna_PROJECT_BasicAttackSouls_0.ogg
-Senna_PROJECT_BasicAttackSouls_1.ogg
-Senna_PROJECT_BasicAttackSouls_2.ogg
-Senna_PROJECT_BasicAttackSouls_3.ogg
-Senna_PROJECT_BasicAttackSouls_4.ogg
-Senna_PROJECT_BasicAttackSouls_5.ogg
-Senna_PROJECT_BasicAttackSouls_6.ogg
-Senna_PROJECT_BasicAttackSouls_7.ogg
-Senna_PROJECT_BasicAttackSouls_8.ogg
-Senna_PROJECT_Dance.ogg
-Senna_PROJECT_Death_0.ogg
-Senna_PROJECT_Death_1.ogg
-Senna_PROJECT_Death_2.ogg
-Senna_PROJECT_Death_3.ogg
-Senna_PROJECT_E_0.ogg
-Senna_PROJECT_E_1.ogg
-Senna_PROJECT_E_2.ogg
-Senna_PROJECT_E_3.ogg
-Senna_PROJECT_E_4.ogg
-Senna_PROJECT_E_5.ogg
-Senna_PROJECT_E_6.ogg
-Senna_PROJECT_E_7.ogg
-Senna_PROJECT_FirstEncounterDemacia.ogg
-Senna_PROJECT_FirstEncounterElise.ogg
-Senna_PROJECT_FirstEncounterFiddlesticks.ogg
-Senna_PROJECT_FirstEncounterHecarim.ogg
-Senna_PROJECT_FirstEncounterKaisa.ogg
-Senna_PROJECT_FirstEncounterLucian_0.ogg
-Senna_PROJECT_FirstEncounterLucian_1.ogg
-Senna_PROJECT_FirstEncounterLucian_2.ogg
-Senna_PROJECT_FirstEncounterLunari.ogg
-Senna_PROJECT_FirstEncounterLux.ogg
-Senna_PROJECT_FirstEncounterMaokai.ogg
-Senna_PROJECT_FirstEncounterMorgana.ogg
-Senna_PROJECT_FirstEncounterNocturne.ogg
-Senna_PROJECT_FirstEncounterShadowIsles_0.ogg
-Senna_PROJECT_FirstEncounterShadowIsles_1.ogg
-Senna_PROJECT_FirstEncounterShadowIsles_2.ogg
-Senna_PROJECT_FirstEncounterShadowIsles_3.ogg
-Senna_PROJECT_FirstEncounterShadowIsles_4.ogg
-Senna_PROJECT_FirstEncounterSylas.ogg
-Senna_PROJECT_FirstEncounterThresh_0.ogg
-Senna_PROJECT_FirstEncounterThresh_1.ogg
-Senna_PROJECT_FirstEncounterThresh_2.ogg
-Senna_PROJECT_FirstEncounterThresh_3.ogg
-Senna_PROJECT_FirstEncounterVayne.ogg
-Senna_PROJECT_FirstEncounterYorick.ogg
-Senna_PROJECT_FirstEncounterYuumi.ogg
-Senna_PROJECT_FirstEncounter_0.ogg
-Senna_PROJECT_FirstEncounter_1.ogg
-Senna_PROJECT_FirstEncounter_2.ogg
-Senna_PROJECT_FirstMoveWithLucianNear_0.ogg
-Senna_PROJECT_FirstMoveWithLucianNear_1.ogg
-Senna_PROJECT_FirstMoveWithLucianNear_2.ogg
-Senna_PROJECT_FirstMoveWithLucianNear_3.ogg
-Senna_PROJECT_JokeFeatherknight.ogg
-Senna_PROJECT_KillLucian_0.ogg
-Senna_PROJECT_KillLucian_1.ogg
-Senna_PROJECT_KillLucian_2.ogg
-Senna_PROJECT_KillShadowIsles_0.ogg
-Senna_PROJECT_KillShadowIsles_1.ogg
-Senna_PROJECT_KillShadowIsles_2.ogg
-Senna_PROJECT_KillShadowIsles_3.ogg
-Senna_PROJECT_KillThresh.ogg
-Senna_PROJECT_Kill_0.ogg
-Senna_PROJECT_Kill_1.ogg
-Senna_PROJECT_Kill_2.ogg
-Senna_PROJECT_Kill_3.ogg
-Senna_PROJECT_Kill_4.ogg
-Senna_PROJECT_Kill_5.ogg
-Senna_PROJECT_Laugh_0.ogg
-Senna_PROJECT_Laugh_1.ogg
-Senna_PROJECT_Laugh_2.ogg
-Senna_PROJECT_Laugh_3.ogg
-Senna_PROJECT_MoveFirst_0.ogg
-Senna_PROJECT_MoveFirst_1.ogg
-Senna_PROJECT_MoveFirst_2.ogg
-Senna_PROJECT_MoveFirst_3.ogg
-Senna_PROJECT_MoveFirst_4.ogg
-Senna_PROJECT_MoveFirst_5.ogg
-Senna_PROJECT_MoveFirst_6.ogg
-Senna_PROJECT_MoveLong_0.ogg
-Senna_PROJECT_MoveLong_1.ogg
-Senna_PROJECT_MoveLong_2.ogg
-Senna_PROJECT_MoveLong_3.ogg
-Senna_PROJECT_MoveLong_4.ogg
-Senna_PROJECT_MoveLong_5.ogg
-Senna_PROJECT_MoveLong_6.ogg
-Senna_PROJECT_MoveLong_7.ogg
-Senna_PROJECT_MoveLong_8.ogg
-Senna_PROJECT_MoveLong_9.ogg
-Senna_PROJECT_MoveLong_10.ogg
-Senna_PROJECT_MoveLong_11.ogg
-Senna_PROJECT_MoveLong_12.ogg
-Senna_PROJECT_Move_0.ogg
-Senna_PROJECT_Move_1.ogg
-Senna_PROJECT_Move_2.ogg
-Senna_PROJECT_Move_3.ogg
-Senna_PROJECT_Move_4.ogg
-Senna_PROJECT_Move_5.ogg
-Senna_PROJECT_Move_6.ogg
-Senna_PROJECT_Move_7.ogg
-Senna_PROJECT_Move_8.ogg
-Senna_PROJECT_Move_9.ogg
-Senna_PROJECT_Move_10.ogg
-Senna_PROJECT_Move_11.ogg
-Senna_PROJECT_Move_12.ogg
-Senna_PROJECT_Move_13.ogg
-Senna_PROJECT_Move_14.ogg
-Senna_PROJECT_Move_15.ogg
-Senna_PROJECT_Move_16.ogg
-Senna_PROJECT_Move_17.ogg
-Senna_PROJECT_Move_18.ogg
-Senna_PROJECT_Move_19.ogg
-Senna_PROJECT_Move_20.ogg
-Senna_PROJECT_Move_21.ogg
-Senna_PROJECT_Move_22.ogg
-Senna_PROJECT_Move_23.ogg
-Senna_PROJECT_Move_24.ogg
-Senna_PROJECT_Move_25.ogg
-Senna_PROJECT_Move_26.ogg
-Senna_PROJECT_Move_27.ogg
-Senna_PROJECT_QLucian_0.ogg
-Senna_PROJECT_QLucian_1.ogg
-Senna_PROJECT_Q_0.ogg
-Senna_PROJECT_Q_1.ogg
-Senna_PROJECT_Q_2.ogg
-Senna_PROJECT_Recall_0.ogg
-Senna_PROJECT_Recall_1.ogg
-Senna_PROJECT_Recall_2.ogg
-Senna_PROJECT_Recall_3.ogg
-Senna_PROJECT_Respawn_0.ogg
-Senna_PROJECT_Respawn_1.ogg
-Senna_PROJECT_Respawn_2.ogg
-Senna_PROJECT_Respawn_3.ogg
-Senna_PROJECT_Respawn_4.ogg
-Senna_PROJECT_Respawn_5.ogg
-Senna_PROJECT_R_0.ogg
-Senna_PROJECT_R_1.ogg
-Senna_PROJECT_R_2.ogg
-Senna_PROJECT_TauntResponse.ogg
-Senna_PROJECT_Taunt_0.ogg
-Senna_PROJECT_Taunt_1.ogg
-Senna_PROJECT_WithLucianNear_FirstEncounter01Thresh_Chat02.ogg
-Senna_PROJECT_WithLucianNear_FirstMove01_Chat02.ogg
-Senna_PROJECT_WithLucianNear_FirstMove01_Chat04.ogg
-Senna_PROJECT_WithLucianNear_FirstMove02_Chat03.ogg
-Senna_PROJECT_WithLucianNear_FirstMove03_Chat03.ogg
-Senna_PROJECT_WithLucianNear_FirstMove04_Chat02.ogg
-Senna_PROJECT_WithLucianNear_FirstMove05_Chat02.ogg
-Senna_PROJECT_WithLucianNear_FirstMove07_Chat03.ogg
-Senna_PROJECT_WithLucianNear_FirstMove08_Chat02.ogg
-Senna_PROJECT_WithLucianNear_Heal.ogg
-Senna_PROJECT_WithLucianNear_Heal02_Chat02.ogg
-Senna_PROJECT_WithLucianNear_Kill01_Chat02.ogg
-Senna_PROJECT_WithLucianNear_Kill02_Chat02.ogg
-Senna_PROJECT_WithLucianNear_Kill03_Chat02.ogg
-Senna_PROJECT_W_0.ogg
-Senna_PROJECT_W_1.ogg
-Senna_PROJECT_W_2.ogg
-Senna_PROJECT_W_3.ogg
-Senna_PROJECT_W_4.ogg
-Senna_PROJECT_W_5.ogg
-Senna_PROJECT_W_6.ogg
-Senna_PROJECT_W_7.ogg
-Senna_PROJECT_W_8.ogg
+g

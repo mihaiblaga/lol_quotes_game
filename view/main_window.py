@@ -27,7 +27,7 @@ class MainWindow(QWidget):
         cp = QDesktopWidget().availableGeometry().center()
         qr.moveCenter(cp)
         self.move(qr.topLeft())
-        
+
     def update_ui(self, quote: Quote, answers: List[Answer]):
         self.quote_widget.set_quote(quote)
         self.answers_widget.set_answers(answers)

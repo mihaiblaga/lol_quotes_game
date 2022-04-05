@@ -277,36 +277,29 @@
 "Skaarl_Original_Growl_8.ogg"
 "Skaarl_Original_Growl_9.ogg"
 "Them's humans!"
-Skaarl growls
 "Naw, they're good eatin'."
 "What was that? Oh, I should go for the decakill? Uh, if you say so."
 "It's my property! All sixty gazillion acres of it!"
 "Holy sh**, where are we?"
-Skaarl growls
 "Guess we'll have to kill our way out!"
 "This land was made for me - and me alone."
 "I hate to advocate violence and insanity, but it's worked for me."
 "Were you just talking, or was it the voices again?"
 "I do not want my lands tamed. I want them unruly and free."
-"I'm from all over. It's next to nowhere and 
-shut the hell up!
-"
+"I'm from all over. It's next to nowhere and  shut the hell up! "
 "I play with guns. I work with an axe."
 "Mushrooms are healthy! Once you get used to the madness and paranoia."
 "A man without a weapon ain't worth listening to."
 "Yeah, I like it out here. Freedom, communing with nature, killing hikers."
 "They ain't ready for us."
 "I keep hallucinating that you can talk."
-Skaarl growls
 "Nah, I'm sure it'll pass."
 "Skaarl! This ain't no time for philosophying!"
 "Killing a few things might loosen this up."
 "No more of that! You're upsetting the invisible badgers!"
 "My land begins where I walk. It ends where the sun don't shine!"
 "Damn cowards, making me ride over to kill 'em."
-"Well, maybe I 
-am
- looking to start a fight!"
+"Well, maybe I  am  looking to start a fight!"
 "I do prefer to ride into battle."
 "Yeah, but... then how we gonna' invade both bases at once?"
 "No, I'm positive, I ain't delusional! ...More than usual..."
@@ -324,14 +317,11 @@ am
 "I don't have trouble communicating. Words is just treacherous bastards."
 "You ready, Skaarl? This day's gonna' require some mindblowing weirdness."
 "Are you ready for anything?"
-Skaarl growls
 "Of course you are!"
 "Hey, it's Forward Admiral Major Kled! I ain't been a Mister since ever!"
 "Shh! Them brain weasels probably listening for us."
 "Let's get to killing them interloping intruders!"
-"Was the battle of Fallgren when I first took the rank of Sergeant General Colonel. Least, I think that's what rank they was. Gotta' remember to ask 
-before
- killing them."
+"Was the battle of Fallgren when I first took the rank of Sergeant General Colonel. Least, I think that's what rank they was. Gotta' remember to ask  before  killing them."
 "Ain't nothing like having the wind on your back and blood on your face."
 "It's your birthday, Skaarl! Let's bake a murder cake!"
 "Well, my foot wanted to meet your ass, and I'm about to give them a shotgun wedding!"
@@ -345,7 +335,6 @@ before
 "Just 'cause they're our team don't mean we can trust 'em."
 "They're all trespassers, we're just killing them five first."
 "Yeah, yeah, invade Ionia you said, it'll be fine you said!"
-Skaarl growls
 "Fine, you said!"
 "Yeah, reminds me of the siege of Ruug. Lot of men died on its high walls. It was fun."
 "At the gates of Qualthala, they tried using that boiling oil on us, but you can't deep-fry courage!"
@@ -402,8 +391,7 @@ Skaarl growls
 "Skaarl! Come back, buddy! Skaarl?"
 "Damnit, Skaarl! I hate walking!"
 "I didn't not earn the rank of Sergeant double Admiral by not running!"
-"Folks say I got violent tendencies." Kled laughs.
-"Oh, she'll see, she'll see! She'll come strolling back when I turn them interlopers into a purée."
+"Folks say I got violent tendencies." Kled laughs. "Oh, she'll see, she'll see! She'll come strolling back when I turn them interlopers into a purée."
 "Ain't nobody tough as Kled! I've got gravel in my guts and a fire in my head!"
 "I came here to... well, I don't know what I came here for, but I'm gonna' defend it!"
 "Lord Colonel Major Centurion Kled don't run, no he don't!"
@@ -426,26 +414,13 @@ Skaarl growls
 "Say that again! I dare you."
 "Thems fighting words! See, Skaarl? That's why I don't like people."
 "Shut your mouth hole! Them badgers are listening."
-"I'm just a Yordle standing in front of you, asking you to 
-shut the hell up!
-"
+"I'm just a Yordle standing in front of you, asking you to  shut the hell up! "
 "Of course you realize, this means war."
 "So, that's what considered funny in the city, huh?"
 "I got a joke too! It's called me kicking your teeth in!"
 "That it? That was your joke, huh?"
 "Was you making fun of my Skaarl?"
 "Real funny! Knew a funny guy in the Drekan Campaign - took a javelin in the spine, couldn't walk after that. Used him as a coat rack."
-Kled laughs.
-Kled laughs.
-Kled laughs.
-Kled yells.
-Kled yells.
-Kled yells.
-Kled yells.
-Kled yells.
-Kled yells.
-Kled yells.
-Kled grunts.
 "Slow down so I can kill something!"
 "Get off my lawn!"
 "They's about to be dead!"
@@ -484,8 +459,7 @@ Kled grunts.
 "You just justified a preemptive retaliatory strike!"
 "They came looking for a fight? Let's oblige 'em."
 "I am justified, and I am armed!"
-"Howdy!" Kled laughs.
-"I'm through running!"
+"Howdy!" Kled laughs. "I'm through running!"
 "Die!"
 "I'll kill you!"
 "Now you done it!"
@@ -518,12 +492,10 @@ Kled grunts.
 "I don't like sharing!"
 "Oh, you prancing bastard!"
 "My blood is piss and vinegar!"
-Kled laughs.
 "I'm gonna reach down your throat, and turn your lungs into mittens!"
 "I'm gonna make you wish you were a hallucination!"
 "You think I don't hear you laughing?"
-"There's fixing to be two sounds: me hitting you, and---" Kled curses.
-"Vicious!"
+"There's fixing to be two sounds: me hitting you, and---" Kled curses. "Vicious!"
 "Vicious!"
 "Vicious!"
 "Vicious!"
@@ -537,8 +509,7 @@ Kled laughs.
 "Axe!"
 "Don't get weird on me!"
 "Dang nabbit, you're gonna' get us killed!"
-"Calm down, you damn-!" Kled curses.
-"Whoa! Whoa! Don't get excited, now!"
+"Calm down, you damn-!" Kled curses. "Whoa! Whoa! Don't get excited, now!"
 "Don't get your britches all rumpled!"
 "Calm down, girl!"
 "Whoa, Skaarl, whoa!"
@@ -548,29 +519,20 @@ Kled laughs.
 "Quit your worryin'!"
 "No Skaarl, no! Bad Skaarl!"
 "Hey! We ain't done!"
-"Get back here you-!" Kled curses.
-"Darn nabbit! You lily-livered flea bucket!"
-Kled curses. "What are you doing?"
+"Get back here you-!" Kled curses. "Darn nabbit! You lily-livered flea bucket!"
+"What are you doing?"
 "I knew you was a coward!"
-"I ain't never forgiving you, you flea-bitten-!" Kled curses.
-"Go home, get! I never needed you no how!"
+"I ain't never forgiving you, you flea-bitten-!" Kled curses. "Go home, get! I never needed you no how!"
 "Not again!"
 "No, no! The other way! Get back here!"
 "The fighting's this way!"
-Kled curses. "You stupid, dumb animal!"
-Kled curses.
-Kled curses.
-Kled curses.
-Kled curses.
-Kled curses.
-Kled curses.
-Kled curses. "Get back here, you---" Kled curses.
-Kled curses. "I will--- I ain't backing down! I don't back down! Never!"
-Kled curses. "Where you going? We got 'em right where we want 'em!"
-Kled curses. "Now I gotta' walk!"
+"You stupid, dumb animal!"
+"Get back here, you---" Kled curses. Kled curses. "I will--- I ain't backing down! I don't back down! Never!"
+"Where you going? We got 'em right where we want 'em!"
+"Now I gotta' walk!"
 "Traitor!"
-Kled curses. "Fine! I'll kill 'em!"
-Kled curses. "I'll take 'em alone!"
+"Fine! I'll kill 'em!"
+"I'll take 'em alone!"
 "Yeah!"
 "Yahoo!"
 "Wahoo!"
@@ -582,25 +544,9 @@ Kled curses. "I'll take 'em alone!"
 "I knew you'd be back."
 "Dang nabbit, I love this lizard!"
 "Boy am I glad to see you!"
-Kled laughs.
-Kled laughs.
 "The badgers command it!"
 "For the brain weasels!"
 "Yeehaw! I knew you couldn't quit me, Skaarl!"
-Kled gaining courage theme
-Kled gaining courage theme
-Kled gaining courage theme
-Kled gaining courage theme
-Kled mounting
-Kled mounting
-Kled mounting
-Kled mounting
-Kled dismounting
-Kled dismounting
-Kled dismounting
-Kled dismounted theme
-Kled dismounted theme
-Kled dismounted theme
 "Gotcha now!"
 "How you like that leash?"
 "Gotcha!"
@@ -638,10 +584,6 @@ Kled dismounted theme
 "Yeaaaaaaah!"
 "Follow meeeee!"
 "No prisoneeeers!"
-Kled charging theme
-Kled charging theme
-Kled charging theme
-Kled charging theme
 "This is Noxus, son! Winner takes all!"
 "That'll learn 'em!"
 "Thought you could take my land, huh? How'd that work out for you?"
@@ -678,19 +620,15 @@ Kled charging theme
 "And he ain't even had the indignity to call himself a demon."
 "Never had much to say, but I'm sure glad we shut him up."
 "Girl was all messed up."
-Skaarl growls
 "I mean, before we killed her. Snake for legs? Crazy!"
 "I guess it's snake dinner tonight!"
 "Was that lady half-snake, or that snake half-human? She is... confusing. Dead, but confusing."
 "Hey, lizard food! What exactly was you general of?"
 "Nice axe! Learn to use it!"
-"Death by 
-my
- hand!"
+"Death by  my  hand!"
 "He wanted to unify Noxus. Guess that makes me a secessionist."
 "
-KLEEEEEED
-... naw, it's just Kled."
+"
 "Who wants some Kled?"
 "This is where Kled shines!"
 "Skaarl? You eatin' good tonight! That girl's got some meat on her!"
@@ -702,11 +640,9 @@ KLEEEEEED
 "I can respect crazy, but what kind of fool reloads in the middle of a fight?"
 "A sinister blade? Heck, girl, Skaarl's got farts more sinister than you was."
 "I like a girl with moxie."
-Skaarl growls
 "No, obviously she didn't have any! That's the darn point!"
 "Humans is such easy prey."
 "She had one crazy getup! Them city-folk clothes is getting ridiculous."
-Skaarl growls
 "Yeah, I'll try it on later."
 "Go back to Noxus Prime!"
 "All your little city-girl dreams just got stomped."
@@ -717,18 +653,15 @@ Skaarl growls
 "Seems to have lost your bounce, girl."
 "All that hippy hop! Getting on my nerves!"
 "How many times do I gotta' kill him?"
-Skaarl growls
 "I know!"
 "Too stupid to live, too dumb to die."
 "I don't think you can eat that one."
-Skaarl growls
 "He looks a little overripe."
 "Huh. I liked him better when he was alive."
 "Tactician? More like bird brain."
 "Master Tactician? He can keep that title."
 "He gonna' taste good deep-fried."
 "I figure he gonna' taste like chicken."
-Skaarl growls
 "Sure!"
 "Well, that shut him up!"
 "Finally, some silence."
@@ -743,14 +676,9 @@ Skaarl growls
 "Them sneaky-sneaks ain't gonna' sneak on us, no sir!"
 "It's mine, and I got my eye on it!"
 "Yeah, any of them varmints sneak up on us, we'll know."
-"It ain't paranoia if everyone 
-is
- out to get you."
+"It ain't paranoia if everyone  is  out to get you."
 "Paranoia... means having all the facts."
 "There's no such thing as paranoia; your worst fears can come true at any moment."
 "Paranoia is just another word for ignorance."
 "Total paranoia is just total awareness!"
-"Skaarl! Skaarl!" (curses)
-Kled groans.
-Kled groans.
-Kled groans.
+"Skaarl! Skaarl!" (curses) Kled groans. Kled groans. Kled groans.

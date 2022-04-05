@@ -39,14 +39,9 @@
 "Nice suit, Rumble! What d'you call it?"
 "Eyes on the enemy, Rumble."
 "Um, Teemo, are these mushrooms your rations or your ammo?"
-Tristana laughs.
-Tristana laughs.
-Tristana laughs.
-Tristana laughs.
 "Let 'em come by land, by sea or air! Send 'em running home when the Bandle Gunners blare!"
 "One stump high and ten stumps tall! Bandle Gunners show 'em all!"
 "Bandle Gunners, what'd you see? Sir, just smoke and victory!"
-Tristana hums.
 "I'm going in!"
 "Engaging!"
 "Let's get in range!"
@@ -172,9 +167,7 @@ Tristana hums.
 "Ouch! Watch the horns... and the teeth... and the tail!"
 "He's just going through a phase. I think."
 "I've got a dragon and I'm not afraid to use him."
-"Be good and I'll let you burn down a building or two." (Riggle growls)
-"Who's a good Riggle?" (Riggle moans) "That's right, you are." (Riggle sniffs)
-"When do dragons start flying?"
+"Be good and I'll let you burn down a building or two." (Riggle growls) "Who's a good Riggle?" (Riggle moans) "That's right, you are." (Riggle sniffs) "When do dragons start flying?"
 "Hey, no chewing on me."
 "We're in this together, Riggle."
 "Why are you slimy?"
@@ -186,27 +179,8 @@ Tristana hums.
 "Tell me you don't have fleas."
 "When you get bigger, you're carrying me."
 "I broke you out of that egg and I can stuff you back in!"
-(Riggle growls) "I know, I'm going."
-"Where to next?" (Riggle growls)
-"You really are a handful." (Riggle moans)
-"We are so starting obedience training." (Riggle moans)
-"You need a bath." (Riggle moans)
-"Someone's on their best behaviour." (Riggle growls)
-(Riggle moans) "We'll eat later, stop pouting." (Riggle grunts)
-"You're stuck with me now." (Riggle grunts)
-"Are all dragons this heavy?" (Riggle growls)
-"Aw, look at your little arms! (Riggle growls)
-(Riggle growls) "Keep dreaming, buddy." (Riggle growls)
-(Riggle growls) "Did you get into the sugar again?" (Riggle growls)
-(Riggle growls) "I'll scratch your tummy later!" (Riggle grunts)
-(Riggle moans) "This is so not the time!" (Riggle grunts)
-(Riggle growls) "I really hope that was your stomach."
-(Riggle growls)
-(Riggle growls)
-(Riggle grumbles)
-(Riggle growls)
-(Riggle growls)
-Riggle shoots a jet of flame into the air.
+"I know, I'm going."
+"Where to next?" (Riggle growls) "You really are a handful." (Riggle moans) "We are so starting obedience training." (Riggle moans) "You need a bath." (Riggle moans) "Someone's on their best behaviour." (Riggle growls) (Riggle moans) "We'll eat later, stop pouting." (Riggle grunts) "You're stuck with me now." (Riggle grunts) "Are all dragons this heavy?" (Riggle growls) "Aw, look at your little arms! (Riggle growls) (Riggle growls) "Keep dreaming, buddy." (Riggle growls) (Riggle growls) "Did you get into the sugar again?" (Riggle growls) (Riggle growls) "I'll scratch your tummy later!" (Riggle grunts) (Riggle moans) "This is so not the time!" (Riggle grunts) (Riggle growls) "I really hope that was your stomach."
 "You're playing with fire now!"
 "My dragon will eat you!"
 "Not a great time to be you right now!"
@@ -217,8 +191,7 @@ Riggle shoots a jet of flame into the air.
 "How about a little fire, scarecrow?"
 "Cool eagle, what does it breathe? Air?"
 "Who's got the flamespitter now?"
-(Riggle growls) "Yep, her name's Shyvana. I think she's confused."
-Tristana attempts to perform tricks with Riggle but gets breathed in the face with fire.
+"Yep, her name's Shyvana. I think she's confused."
 "Ready? Play dead! ... good."
 "Trick? Roll over! ... every time."
 "Ready? Aim...! ... not at me."
@@ -227,12 +200,6 @@ Tristana attempts to perform tricks with Riggle but gets breathed in the face wi
 "Pretty cool bear. Have you seen my dragon?"
 "Uh... have you and Riggle already met?"
 "We make a pretty great pair, don't we, Rumble? Just me and this dragon."
-Tristana laughs.
-Tristana laughs.
-Tristana laughs.
-Tristana laughs.
-Tristana makes Riggle dance.
-Tristana hums.
 "Roast 'em!"
 "Beware of dragon."
 "Riggle says hi."
@@ -251,10 +218,7 @@ Tristana hums.
 "Dragons are just cheating."
 "Don't mind us."
 "I could stop him... but I won't."
-"Show him what you can do!" (Riggle growls)
-"Let's have some fun!" (Riggle growls)
-"He views flame-retardant as a challenge!" (Riggle growls)
-(Riggle growls) "Save it for the bad guys!"
+"Show him what you can do!" (Riggle growls) "Let's have some fun!" (Riggle growls) "He views flame-retardant as a challenge!" (Riggle growls) (Riggle growls) "Save it for the bad guys!"
 "Now we're cooking!"
 "Warmup time!"
 "Whoa, whoa!"
@@ -269,9 +233,7 @@ Tristana hums.
 "Yikes!"
 "Uh oh!"
 "Eek!"
-"You were totally scared." (Riggle moans)
-"Oh I was never worried." (Riggle scoffs)
-"Smoke 'em out!"
+"You were totally scared." (Riggle moans) "Oh I was never worried." (Riggle scoffs) "Smoke 'em out!"
 "Burn!"
 "Need some fire?"
 "Get that one!"
@@ -286,8 +248,8 @@ Tristana hums.
 "Fly 'n' fry!"
 "Raining fire!"
 "From the sky!"
-(Riggle moans) "Yep, I feel a bit safer too."
-(Riggle whines) "It's not that I think we're gonna die or anything..."
+"Yep, I feel a bit safer too."
+"It's not that I think we're gonna die or anything..."
 "This'll look out for both of us."
 "I think you're gonna like this."
 "Is it just me or did you get scarier?"
@@ -297,37 +259,30 @@ Tristana hums.
 "Last Whis-" (Riggle growls) "Yeah, good, good whisper."
 "Good luck controlling this dragon."
 "Like you weren't squirmy enough already."
-"Don't worry, I'll keep you out of trouble." (Riggle purrs)
-"I'll bet you like this cape, don't you?"
+"Don't worry, I'll keep you out of trouble." (Riggle purrs) "I'll bet you like this cape, don't you?"
 "Finally clothing that's supposed to burn!"
-(Riggle growls) "Riggle-approved!"
+"Riggle-approved!"
 "Uh... don't lick this."
 "We'll see if they can hurt us now."
-"Just what you need, a taste for blood..." (Riggle growls)
-"Nope, no, don't chew that-" (bzzt)
-"Careful with that, or you'll get zapped."
+"Just what you need, a taste for blood..." (Riggle growls) "Nope, no, don't chew that-" (bzzt) "Careful with that, or you'll get zapped."
 "Demolition dragon!"
 "Take it down, Riggle!"
 "He doesn't like towers."
-(Riggle snores) "Stay alert!"
+"Stay alert!"
 "I'll keep you safe."
 "Riggle territory."
 "Watch my back."
 "Here you go!"
 "Time for a little snack break!"
 "Alright, you deserve it!"
-"And what did we learn?" (Riggle growls)
-"Don't look at me like that, it seemed like a good idea at the time."
-"That... wasn't exactly how that was supposed to go." (Riggle scoffs)
-"Not a word."
+"And what did we learn?" (Riggle growls) "Don't look at me like that, it seemed like a good idea at the time."
+"That... wasn't exactly how that was supposed to go." (Riggle scoffs) "Not a word."
 "Here we are!"
 "Look out!"
-"Haha!" (Riggle growls)
-(Gasps) "What are you wearing?!"
+"Haha!" (Riggle growls) (Gasps) "What are you wearing?!"
 "You monster."
 "Ready for some fireworks?"
 "GG!"
 "Well, I had a blast!"
 "The code is more what you'd call 'guidelines' than actual rules."
-The Gunners
 "Once a gunner, always a gunner"

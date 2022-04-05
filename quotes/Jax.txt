@@ -8,13 +8,6 @@
 "Here's to you, kid."
 "Who wants a piece of the champ?!"
 "Imagine if I had a real weapon!"
-Jax laughs.
-Jax laughs.
-Jax laughs.
-Jax grunts.
-Jax grunts.
-Jax grunts.
-Jax grunts.
 "Who's next?!"
 "Now it's my turn!"
 "Bring it on!"
@@ -22,9 +15,6 @@ Jax grunts.
 "Surprise! I'm back."
 "Let me at 'em!"
 "Ready for battle!"
-Jax groans.
-Jax groans.
-Jax groans.
 "Would you look at that? I finally have a real weapon."
 "How glorious! I was looking for a chance to try out my new... metal... uh, suit-Avalon! That's what it's called!"
 "What have you all been up to? I just got back from killing monsters from another dimension."
@@ -41,8 +31,7 @@ Jax groans.
 "Ah! I feel like a new Jax!"
 "This Avalon better not slow me down."
 "What do they call these? 'Thrusters?' They're great!"
-"Make way, for me!" Jax laughs.
-"There's more to me than meets the eyes."
+"Make way, for me!" Jax laughs. "There's more to me than meets the eyes."
 "What can I say, I was never a fan of stealth."
 "Uh, is there a bathroom in here...? Uh... anywhere?"
 "I love how these... uh, 'engines' roar!"
@@ -89,14 +78,6 @@ Jax groans.
 "Little known fact, peeling eggs takes longer than saving kingdoms."
 "My happy place is peace, quiet, and a boiled egg."
 "Haha! Tell me another one."
-Jax laughs.
-Jax laughs.
-Jax laughs.
-Jax laughs.
-Jax grunts.
-Jax grunts.
-Jax grunts.
-Jax grunts.
 "Let's see how these weapons feel!"
 "Ha! An ant stands in my way!"
 "Fight me! My kingdom demands it!"
@@ -119,14 +100,6 @@ Jax grunts.
 "Don't worry, I'll hold back."
 "Impress me!"
 "You look small from up here!"
-Jax grunts.
-Jax grunts.
-Jax grunts.
-Jax grunts.
-Jax grunts.
-Jax grunts.
-Jax grunts.
-Jax grunts.
 "Spin to win I guess!"
 "Defense to offense!"
 "I'll dodge it all!"

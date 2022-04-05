@@ -147,10 +147,6 @@
 "Brace yourself - I hear winter is coming."
 "That was great!"
 "Huh. I guess that's funny where you come from."
-Taliyah laughs.
-Taliyah laughs.
-Taliyah laughs.
-Taliyah laughs.
 "Looks like you're stuck between me and a hard place."
 "Our paths have woven together for a reason."
 "Sometimes, learning hurts."
@@ -162,14 +158,10 @@ Taliyah laughs.
 "It will take more than you to break me."
 "Every lesson is a gift."
 "Control, control, control... "
-"Maybe I'm 
-your
- lesson."
+"Maybe I'm  your  lesson."
 "Experience is the best teacher."
 "My gift, my responsibility."
-"How's 
-this
- for throwing stones?"
+"How's  this  for throwing stones?"
 "I'm still here."
 "One stone at a time."
 "I meant to do that - mostly."
@@ -247,9 +239,7 @@ this
 "Did you see that?"
 "I guess they learned their lesson?"
 "A stone can't be polished without a little friction."
-"Great, 
-now
- who am I going to learn from?"
+"Great,  now  who am I going to learn from?"
 "Five birds, one stone."
 "That... was... amazing! Let us see if I can do it again!"
 "Some walls were meant to come down."

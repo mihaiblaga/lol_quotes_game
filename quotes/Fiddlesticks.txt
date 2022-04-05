@@ -1,8 +1,6 @@
 "Fear..."
 "Afraid..."
 "It's hunting us. It knows what we're afraid of."
-Fiddlesticks whistles breathlessly.
-Fiddlesticks breathes raggedly.
 "Don't be scared. It can't hurt you."
 "To our end."
 "Come closer. Closer..."
@@ -20,12 +18,6 @@ Fiddlesticks breathes raggedly.
 "It's dark I can't find my way."
 "Who's out there? Show yourself."
 "Hungry."
-Fiddlesticks inhales and exhales twice.
-Fiddlesticks makes an unpleasant noise.
-Fiddlesticks makes a creaking noise.
-Fiddlesticks takes a ragged breath.
-Fiddlesticks gasps for breath.
-Fiddlesticks breathes inwardly.
 "I'm coming to help. Where are you? I can't see you. I. Can't. See you."
 "High above the rotten rows. Cloth and metal. Teeth and crows."
 "Through the field. Down the lane. Voices never heard again!"
@@ -33,8 +25,6 @@ Fiddlesticks breathes inwardly.
 "They haven't come back from the fields. It's been three days."
 "Fid-dle-sticks. End of men. Fid-dle-sticks. First of ten!"
 "Once upon a time... once... upon a time!"
-Fiddlesticks rapidly gasps for breath.
-Fiddlesticks laughs and breathes heavily.
 "Annie... help me... Annie..."
 "Evelynn..."
 "Garen... brother... please don't hate me..."
@@ -52,16 +42,7 @@ Fiddlesticks laughs and breathes heavily.
 "Vayne. Give... us... a smile..."
 "Brother... how could you... betray us?"
 "De... ma... ci... a."
-Fiddlesticks growls.
 "Afraid?"
-Fiddlesticks makes an amused noise.
-Fiddlesticks makes an amused noise.
-Fiddlesticks makes a confused noise.
-Fiddlesticks laughs.
-Fiddlesticks grunts.
-Fiddlesticks grunts.
-Fiddlesticks grunts.
-Fiddlesticks grunts.
 "Don't open your eyes!"
 "Are you afraid?"
 "Run!"
@@ -84,38 +65,19 @@ Fiddlesticks grunts.
 "No! No!"
 "It's in the house!"
 "Keep running!"
-Fiddlesticks makes a croaking sound.
-Fiddlesticks mimics panicked breathing.
-Fiddlesticks imitates the noise of an animal.
-Fiddlesticks cackles excitedly and raggedly.
-Fiddlesticks screeches like a crow.
-Fiddlesticks howls.
-Fiddlesticks mimics a whinny.
-Fiddlesticks repeatedly grunts intensely.
-Fiddlesticks imitates the noise of an animal.
-Fiddlesticks imitates the noise of an animal.
-Fiddlesticks laughs unpleasantly.
 "Cut!"
 "Cutting!"
 "Reap!"
 "Sow!"
 "Shear!"
-Fiddlesticks screeches.
-Fiddlesticks grunts.
-Fiddlesticks grunts.
-Fiddlesticks grunts.
-Fiddlesticks grunts.
 "Fear!"
 "Harvest!"
-Fiddlesticks imitates the noise of an animal.
-Fiddlesticks makes a squealing noise.
 "It's still out there."
 "Fiddle... stiiiicksss..."
 "Monsters..."
 "You're not... real..."
 "So... afraid..."
 "Just a story..."
-Fiddlesticks sighs with ragged breath.
 "Annie... don't let go..."
 "Agony."
 "For... Demacia..."
@@ -134,13 +96,7 @@ Fiddlesticks sighs with ragged breath.
 "Follow the wind..."
 "The scarecrow took them all. Nobody left. But me."
 "What is that? What is that?"
-Fiddlesticks makes an unpleasant noise.
-Fiddlesticks makes an unpleasant noise.
 "Horror..."
-Fiddlesticks laughs raggedly.
-Fiddlesticks shrieks.
-Fiddlesticks laughs dryly.
-Fiddlesticks shrieks.
 "Fear..."
 "It's not dead."
 "Reap and sow. Reap and sow."
@@ -172,10 +128,6 @@ Fiddlesticks shrieks.
 "Live for today, plan for tomorrow, and die tonight!"
 "Maybe the real surprise was the friends we killed along the way."
 "Yeah baby..."
-Fiddlesticks laughs.
-Fiddlesticks chuckles.
-Fiddlesticks lets out escalating, maniacal laughs.
-Fiddlesticks sings the tune of a clown circus.
 "You know it's the laughter that keeps me going. And the screams!"
 "Must've caught something. I've been feeling a little... funny, lately!"
 "Who's the special birthday kid, hm? Everybody?! Now that's what I like to hear!"
@@ -187,9 +139,7 @@ Fiddlesticks sings the tune of a clown circus.
 "I used to think life was a comedy. Now I know... it's a horror show!"
 "The worst part of clowning? No life insurance."
 "Hello, little boy. Are you afraid of clowns?"
-"Hello, little girl. Not afraid of 
-clowns
- are you?"
+"Hello, little girl. Not afraid of  clowns  are you?"
 "Kiss me, fat man!"
 "Nice key you got there, twilight. Didn't steal it from someone dangerous did you?"
 "What the hell are you supposed to be? Nobody ordered a cake! Get out!"
@@ -200,11 +150,6 @@ clowns
 "Wanna hear a joke? It's a riot!"
 "Sorry, I'm... really fallin' apart out here."
 "Unless you've got some deeply creative clown puns, I'm not interested."
-Fiddlesticks laughs.
-Fiddlesticks makes a noise.
-Fiddlesticks makes a noise.
-Fiddlesticks makes a noise.
-Fiddlesticks makes a noise.
 "Welcome to clown town!"
 "I'm not clownin' around!"
 "Time to cut the cake!"
@@ -233,8 +178,6 @@ Fiddlesticks makes a noise.
 "Hey-hey kids!"
 "Clowns are always happy."
 "You're in clown country."
-Fiddlesticks makes a pretending eating noise.
-Fiddlesticks laughs evilly.
 "Hey there. Wanna party?"
 "I could use a light snack."
 "Do the monster mash."
@@ -252,30 +195,16 @@ Fiddlesticks laughs evilly.
 "I've got fifty more in the clown car!"
 "Like lookin' in a mirror."
 "You're on thin ice, Mr. Giggles."
-Fiddlesticks laughs.
-Fiddlesticks chuckles.
 "Surprise!"
 "Surprise!"
-Fiddlesticks makes a noise.
-Fiddlesticks makes a noise.
-Fiddlesticks makes a noise.
 "Let me top myself off!"
 "Drink it aaall in!"
 "Party hard."
 "Oh, yeahhh."
 "Gimme the juuuice!"
 "Hey there, kids."
-Fiddlesticks laughs.
-Fiddlesticks laughs.
-Fiddlesticks makes a noise.
-Fiddlesticks makes a noise.
-Fiddlesticks chuckles.
-Fiddlesticks cackles.
-Fiddlesticks guffaws.
-Fiddlesticks makes a noise.
 "Surpriiiise!"
 "Happy Birthdaaay!"
-Fiddlesticks laughs.
 "Aw... all tuckered out."
 "Someone's had too much excitement."
 "Oh, lighten up. It's just a joke!"
@@ -291,61 +220,9 @@ Fiddlesticks laughs.
 "Don't worry, kids! Fiddlesticks will be right back."
 "Everyone, take your places! When I get back, we'll unveil a big surprise."
 "It's my party and everyone will die if I want them to!"
-Fiddlesticks laughs with his last breath.
-Fiddlesticks cackles.
-Fiddlesticks rattles and honks.
 "That wasn't funny."
 "I'm not laughing anymore."
 "This is the part where things get a little... dark."
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
-Fiddlesticks makes a mechanical noise.
 "The crows are circling... "
 "Why aren't you afraid?!"
 "GG!"
@@ -361,4 +238,4 @@ Fiddlesticks makes a mechanical noise.
 "Share... and... share... alike..."
 "Jinx! All your fault! All your fault!"
 "It's the most fun in the park... when you're laughing in the dark."
-Are You Afraid of the Dark
+k

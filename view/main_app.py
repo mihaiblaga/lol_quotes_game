@@ -1,7 +1,7 @@
-from PyQt5.QtWidgets import QApplication, QWidget, QLabel
+from PyQt5.QtWidgets import QApplication
 
 from models.main_model import MainModel
-from .main_window import MainWindow
+from view.main_window import MainWindow
 
 import typing
 

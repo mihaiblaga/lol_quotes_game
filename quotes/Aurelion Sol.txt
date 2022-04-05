@@ -52,9 +52,7 @@
 "Whenever I think my work is complete, I end up back here, under this sun."
 "May I enter? Just joking - star dragons don't need permission."
 "Your demise will be sung about for ages to come - only thanks to its proximity to me, of course."
-"Your survival is not impossible, only very... 
-very
-... very unlikely."
+"Your survival is not impossible, only very...  very ... very unlikely."
 "I shall be the last thing you see. Lucky you."
 "Make a wish. See if the stars answer. I'll wait."
 "What is the definition of underwhelming? Oh, right! You."
@@ -82,9 +80,7 @@ very
 "You do not understand your god, Illaoi."
 "Imagine what you could do with a larger canvas."
 "Life is short, go crazy once in a while, I get it."
-"The sun? 
-This
- sun? Oh, darling."
+"The sun?  This  sun? Oh, darling."
 "You and Diana embody the same light. Typical Targon redundancy."
 "All dazzle, no brilliance."
 "There is a saying on this planet - "Dumb as a rock". It's not a compliment."
@@ -108,9 +104,7 @@ This
 "Hm. Punching?"
 "You are going to punch a star dragon. Good luck with that."
 "Blood magic? How tragically primitive."
-"I empathize with your life as a weapon, but have a 
-little
- backbone."
+"I empathize with your life as a weapon, but have a  little  backbone."
 "You bend time the way a child folds origami - cute, but nothing special."
 "Runeterra. Am I right?"
 "You're out of your league."
@@ -128,16 +122,10 @@ little
 "A sun is unimaginable celestial power - and thrilled mortals use theirs to coordinate this 'lunch time'."
 "I make entropy look good."
 "Of course I love Runeterra! You have buildings and... more buildings."
-Aurelion Sol laughs.
-Aurelion Sol laughs.
-Aurelion Sol laughs.
-Aurelion Sol laughs.
 "Hello, Runeterra! Are you ready to rock?"
 "Let's dance!"
 "Join me in the dance cosmic!"
-"You 
-will
- know your place."
+"You  will  know your place."
 "Impending doom - exciting, isn't it?"
 "Congratulations, you have earned my contempt."
 "Lighten up, destruction needn't be a maudlin affair."
@@ -214,9 +202,7 @@ will
 "Time to give them a show."
 "It's beyond too late to seek cover."
 "All towers fall - it's just what they do when I'm around."
-"Nothing 
-they
- build can endure like the celestial firmament."
+"Nothing  they  build can endure like the celestial firmament."
 "Towers tend to crumble when I am in the vicinity."
 "Topple, like all things crafted by mortals."
 "The architects of these towers misunderstand object permanence."

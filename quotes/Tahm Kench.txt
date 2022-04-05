@@ -5,9 +5,7 @@
 "Let us peruse this establishment's fare."
 "It is the heart from which the darkest water flows."
 "This buffet exceeds repugnance!"
-"Does your establishment 
-have
- any tables?"
+"Does your establishment  have  any tables?"
 "My diet is expensively unique."
 "From suffering, my banquet is born."
 "Gluttony is impossible."
@@ -140,11 +138,6 @@ have
 "So, shiny attire seem like the thing to wear? You are the most intelligent ninja in the world."
 "I presume you are the waiter at this establishment."
 "Are you the waiter of this establishment?"
-Tahm Kench laughs.
-Tahm Kench laughs.
-Tahm Kench laughs.
-Tahm Kench laughs.
-Tahm Kench plays a tune on his tongue.
 "How delectable."
 "Another meal."
 "Delicious."
@@ -165,7 +158,6 @@ Tahm Kench plays a tune on his tongue.
 "Meat!"
 "Dinner!"
 "Fresh souls!"
-Tahm Kench snarls.
 "Mine!"
 "This is my river, you scoundrel!"
 "You dare invade my table?"
@@ -209,9 +201,7 @@ Tahm Kench snarls.
 "Fire warms the spirit, and charges the appetite."
 "War is an appetite like any other."
 "A hearty appetite pairs best with a robust constitution."
-"Say what you will - a large man can 
-not
- be ignored."
+"Say what you will - a large man can  not  be ignored."
 "Finally, my enormity matches my appetite."
 "I prefer to know when my next meal approaches."
 "Even when you have no bait, you can still cast a line and hope."

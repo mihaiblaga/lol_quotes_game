@@ -55,15 +55,6 @@
 "Xerath, the time of your judgment has come."
 "So, a pigeon walks into a bar..."
 "For emperors, it's all about how you carry yourself."
-Azir chirps.
-Azir laughs.
-Azir laughs.
-Azir laughs.
-Azir laughs.
-Effort sounds.
-Effort sounds.
-Effort sounds.
-Effort sounds.
 "I will open their eyes."
 "The unworthy have no place in history."
 "See what I see."
@@ -108,24 +99,15 @@ Effort sounds.
 "Arise!"
 "Kill."
 "Conquer."
-Effort sounds.
-Effort sounds.
 "Soldiers, onward."
 "The order is given."
 "Bury them."
-Effort sounds.
-Effort sounds.
 "My decree is made."
 "Trust in me."
-Effort sounds.
-Effort sounds.
 "Shurima is eternal."
 "Glory to Shurima."
 "My soldiers march on."
 "I am Ascended."
-Effort sounds.
-Effort sounds.
-Effort sounds.
 "Destiny halts for no one."
 "Your sacrifice is part of a greater plan."
 "This is but one step on a long and glorious path."
@@ -143,10 +125,6 @@ Effort sounds.
 "The light of Shurima."
 "Trust in my vision."
 "Your emperor shall return."
-An instrument plays.
-A crowd cheers.
-Death sounds.
-Death sounds.
 "Shurima..."
 "How...?"
 "May the odds be ever in your favour."

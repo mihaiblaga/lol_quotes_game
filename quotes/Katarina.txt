@@ -13,14 +13,6 @@
 "Better dead than dull."
 "Come on, live a little... while you can!"
 "If you run, you won't see me stab you!"
-Katarina laughs.
-Katarina laughs.
-Katarina laughs.
-Katarina laughs.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
 "My pleasure."
 "Let the bloodshed begin!"
 "Let's dance!"
@@ -29,43 +21,10 @@ Katarina grunts.
 "Is that fear I smell?"
 "I can't wait."
 "Only fools hesitate."
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
 "Next time... run."
 "Unmatched."
 "The dance of blades."
 "Too easy."
-Katarina groans.
-Katarina groans.
-Katarina groans.
-Katarina groans.
-Death Sworn Accompanying SFX
-Death Sworn Accompanying SFX
-Death Sworn Accompanying SFX
-Death Sworn Accompanying SFX
-Death Sworn Accompanying SFX
-Death Sworn Accompanying SFX
-Death Sworn Accompanying SFX
-Death Sworn Accompanying SFX
-Death Sworn Accompanying SFX
-Death Sworn Accompanying SFX
-Death Sworn Accompanying SFX
-Death Sworn Accompanying SFX
-Death Sworn Accompanying SFX
-Death Sworn Accompanying SFX
-Death Sworn Accompanying SFX
-Death Sworn Accompanying SFX
-Death Sworn Accompanying SFX
 "They fear the power of my crest and the majesty of my blades."
 "Let the coronation bloodbath begin!"
 "I fight alongside my fellow queens. So long as they honor me."
@@ -110,12 +69,6 @@ Death Sworn Accompanying SFX
 "The magic of the world flows through my daggers. What have you got?"
 "You wouldn't dare repeat that with my knife at your throat."
 "The queen is not amused."
-Katarina laughs.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
 "The queen of carnage!"
 "Bow to my blades!"
 "Run not from a queen!"
@@ -155,20 +108,6 @@ Katarina grunts.
 "Die, knave!"
 "For my throne!"
 "Die by decree!"
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
-Katarina grunts.
 "A crown of daggers!"
 "Your execution is at hand!"
 "The queen's blades command you!"
@@ -193,9 +132,6 @@ Katarina grunts.
 "This fight's beneath my station. I'll wait for a better one."
 "Schema... must triumph..."
 "This must not be... the end..."
-Katarina groans.
-Katarina groans.
-Katarina groans.
 "The coronation's not finished, and neither am I!"
 "A great queen needs tenacity!"
 "It doesn't matter who strikes the first blow. Just the last."

@@ -69,11 +69,6 @@
 "Hide behind your faith, Solari, and the robes of your priests."
 "Beneath Aspect and armor, you are more resilient than you know."
 "While you bow to the sun, my spear finds your neck."
-If only your kind could see what you see, Soraka, they would weep for you as you weep for us.
-If it isn't the Aspect everyone used to like.
-I earned my spear with my brother's dying breath. How did you earn yours, Demacian?
-I have faced many self proclaimed gods. The worst wears the face of a child.
-You sought to become a god, and you were made their pet.
 "Parasite!"
 "The blows of gods cannot shatter the world if they strike me instead!"
 "Darkin or Aspect, it does not matter."
@@ -83,9 +78,7 @@ You sought to become a god, and you were made their pet.
 "I am no more than a soldier, and no less."
 "I call upon the stars... to bake my bountiful breads!"
 *Exclaims* "Fresh from my bakery... my secret dream."
-Pantheon laughs.
-Pantheon laughs.
-*Grunt*
+
 *Grunt*
 *Grunt*
 *Grunt*
@@ -133,9 +126,6 @@ Pantheon laughs.
 "I sought power on Targon's peak, only to find it within."
 "The best climbers know how to fall."
 "Retreat too far on Mount Targon, and you will fall off a cliff."
-Pantheon groans.
-Pantheon groans.
-Pantheon groans.
 "The god died. The man lives."
 "I will not surrender."
 *Chuckle* "How many times must I die before I learn to live?"

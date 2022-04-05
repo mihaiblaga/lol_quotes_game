@@ -1,6 +1,5 @@
 "Neeko is best decision!"
 "They cannot handle Neeko."
-A slightly more stripped-down version of the Star Guardian 2019 login theme plays.
 "Co-'om se-henna. Oh, it means like, um... 'we smile forever.' Friends! That is the word! Friends!"
 "I want to become everybody! Who says I cannot? I will prove them wrong! Then, I will become them. Last laugh? Neeko!"
 "This place tastes like many emotions. Excitement, anger, joy and... salty? Is salty a feeling?"
@@ -22,8 +21,7 @@ A slightly more stripped-down version of the Star Guardian 2019 login theme play
 "Neeko does not want to be here when... the others arrive."
 "This is very exciting! Everything is falling down!"
 "Do not be bound to a single body. There are so many more."
-"No, tail! We must be angry now.
-"People with no tails! Are they lonely? Yes."
+"No, tail! We must be angry now. "People with no tails! Are they lonely? Yes."
 "After fight ends, everyone invited to picnic! Even enemies."
 "If Neeko knows your sho'ma, Neeko knows you."
 "What to do now? Find cheesebreads? Ooh! Have picnic!"
@@ -36,9 +34,8 @@ A slightly more stripped-down version of the Star Guardian 2019 login theme play
 "Where is Neeko? I saw Neeko by the river. Everyone knows Neeko likes rivers!"
 "Is Neeko far? Is Neeko near? No one knows..."
 "If Neeko can be everyone, how can Neeko be sure she's anyone?"
-Neeko whistles. "I am definitely not Neeko. Nope. Not Neeko."
-"It's fun to walk around in different skins." Neeko laughs.
-"I am normal! Everything's normal. Nothing is suspicious."
+"I am definitely not Neeko. Nope. Not Neeko."
+"It's fun to walk around in different skins." Neeko laughs. "I am normal! Everything's normal. Nothing is suspicious."
 "Dee dee dee... Just minding my own business, not being Neeko."
 "I am being me and doing... me things. Not suspicious."
 "No one suspects Neeko to not be Neeko and to be not Neeko instead."
@@ -46,10 +43,7 @@ Neeko whistles. "I am definitely not Neeko. Nope. Not Neeko."
 "Be cool. No one suspects you are Neeko."
 "Everyone fears Neeko now! Hahaha!"
 "Neeko strong! Can take on world!"
-"Woo! Powerful! Like jungle cat 
- 
-Nidalee
-! Ah... I miss her."
+"Woo! Powerful! Like jungle cat    Nidalee ! Ah... I miss her."
 "Stand back! Big strong Neeko coming though!"
 "Who stands in Neeko's way? Dummies with small sho'ma, that's who!"
 "What does Neeko do with power? Make people behave."
@@ -67,15 +61,6 @@ Nidalee
 "Hello, nature! Nature here looks funny."
 "Wow! We do not have that where I come from."
 "You are Vastaya! Neeko is Oovi-Kat. We are... cousins? Distant cousins!"
-Neeko gives lizard sounds.
-Neeko imitates a helicopter as she spins her tail to hover in the air.
-Neeko laughs.
-Neeko laughs awkwardly.
-Neeko laughs awkwardly.
-Neeko laughs awkwardly.
-Neeko whoops.
-Neeko whoops.
-Neeko whoops.
 "YOU are in TROUBLE!"
 "Battle time! Whoop whoop!"
 "Too late to play nice."
@@ -83,8 +68,7 @@ Neeko whoops.
 "Neeko teach you a lesson."
 "Rey'amash!"
 "Like a wildcat! ROAR!"
-"Bright means danger!
-"No more mister nice Neeko."
+"Bright means danger! "No more mister nice Neeko."
 "Chitali!"
 "Bagaduhng!"
 "Kehkehta!"
@@ -118,7 +102,7 @@ Neeko whoops.
 "I like this very much! Knife-bird woman! KA-KOOO!"
 "Ouch! Zyra always too prickly."
 "Neeko is joyful to become you!"
-Neeko sighs. "Wish I could stay like this forever."
+"Wish I could stay like this forever."
 "Neeko will try you on for size. Oooh! I love it!"
 "Do I smell as bad as I look? (Sniffs) Yes."
 "Male Sho'ma feels... strange."
@@ -131,9 +115,8 @@ Neeko sighs. "Wish I could stay like this forever."
 "Neeko feels wrong. Not good. Void is full of never."
 "Just yordling around. Is that what yordles say?"
 "Tricky tricky! You got the wrong Neeko!"
-"Not Neeko!" Neeko laughs.
-"Same luck next try."
-Neeko laughs. "You fell for it!"
+"Not Neeko!" Neeko laughs. "Same luck next try."
+"You fell for it!"
 "So easy to trick."
 "Nice try. But no Neeko."
 "That worked! I fooled them all!"
@@ -143,14 +126,6 @@ Neeko laughs. "You fell for it!"
 "Ayey!"
 "Isso!"
 "Oba!"
-Neeko grunts.
-Neeko grunts.
-Neeko grunts.
-Neeko grunts.
-Neeko grunts.
-Neeko grunts.
-Neeko grunts.
-Neeko grunts.
 "Get ready!"
 "Get ready!"
 "Get ready!"
@@ -159,14 +134,10 @@ Neeko grunts.
 "Can our spirits be friends still...?"
 "Told you to not get close. Why did you not listen?"
 "Neeko will keep your sho'ma alive."
-Neeko grunts.
 "Oovi-Kat vacation over. Back to work!"
 "Neeko was out, but never down."
 "Ugh. Neeko's sho'ma went everywhere. Huge mess. Had to find it all."
 "Poof! Neeko back in her Neeko skin."
 "To know her was to love her."
-"Hmm... Neeko not the only 
- 
-one
- who changes."
-Jacqueline
+"Hmm... Neeko not the only    one  who changes."
+e

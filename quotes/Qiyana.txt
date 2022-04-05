@@ -1,7 +1,6 @@
 "You may now appreciate me."
 "You are right to fear my greatness."
-A stripped-down version of "GIANTS" plays.
-"Congratulations, you have Qiyana. The other side, they have no Qiyana."
+"GIANTS" plays. "Congratulations, you have Qiyana. The other side, they have no Qiyana."
 "I would say 'watch and learn,' but unfortunately you cannot learn this."
 "Oh, good, servants. Carry my panoply to the battle, would you?"
 "I don't mean to sound arrogant, but I'm extremely good, at everything."
@@ -22,7 +21,7 @@ A stripped-down version of "GIANTS" plays.
 "Some wait their turn, and some take what they deserve."
 "In Ixtal we call them cao-mul: soon to be mud."
 "If talent were an element, perhaps I could throw some at them."
-Qiyana sighs. "I wish there was someone else as perfect as me."
+"I wish there was someone else as perfect as me."
 "'Empress Qiyana...' I do like the sound of that."
 "Line them up. I will bend their knees."
 "I do not lack empathy. Other people just need to be better."
@@ -76,8 +75,6 @@ Qiyana sighs. "I wish there was someone else as perfect as me."
 "I have humiliated my own sisters. What do you think I'll do to you?"
 "I see you have mastered the element of wind."
 "I claim-" Qiyana hiccups. "Claim this land for Ixao-" Qiyana hiccups again. "I will claim this land for Ixaocan!"
-Qiyana laughs.
-Qiyana laughs.
 "Avert your eyes!"
 "Saal yun esqu'uña!"
 "Give me praise!."
@@ -109,15 +106,12 @@ Qiyana laughs.
 "Go on, amuse me."
 "Why do you not grovel?"
 "This is beneath me."
-Qiyana grunts.
-Qiyana grunts.
-Qiyana grunts.
 "Hope you brought a cheat code."
 "For crushing."
 "Oh rock, smash these idiots, won't you?"
 "Rock is so common. Just like them."
 "So many rocks, so many enemies."
-Qiyana giggles. "Let us throw rocks at them and laugh."
+"Let us throw rocks at them and laugh."
 "See? The land knows it is mine."
 "Stone, the foundation of empires."
 "Brings out my eyes."
@@ -132,16 +126,6 @@ Qiyana giggles. "Let us throw rocks at them and laugh."
 "The best thing about water? My reflection."
 "Wet, like the tears of my enemies."
 "They always said I was cold."
-Qiyana grunts.
-Qiyana grunts.
-Qiyana grunts.
-Qiyana grunts.
-Qiyana grunts.
-Qiyana grunts.
-Qiyana grunts.
-Qiyana grunts.
-Qiyana grunts.
-Qiyana grunts.
 "If you bleed on me, I'll kill you again!"
 "Rejoice! You are now part of the legend of Qiyana!"
 "Prime Qiyana."
@@ -155,21 +139,17 @@ Qiyana grunts.
 "It is exhausting to crush you so much."
 "Could someone dispose of these corpses?"
 "Grass? Oh grass? Take me away from this tiresome battle. And can you also fan me?"
-Qiyana clears her throat. "Everyone, your future empress is leaving the fight. ...Okay, carry on."
+"Everyone, your future empress is leaving the fight. ...Okay, carry on."
 "Excuse me! ...Uh, excuse me?! Ugh. When I return, this place better have a statue of me."
 "Servants, my palanquin. Servants? Ugh, must I do everything myself?"
 "Hello? Qiyanalings? Carry my digital palanquin, would you? Thanks."
 "Oh, mini bosses? The real boss needs to be carried. Yes, thank you."
 "Oh tiny pixelated people? Yes, whatever you are, get me out of here please."
-A beat plays.
 "Nobody... touch my stuff..."
 "Put a monument... here..."
 "Impossible..."
 "How... dare you!"
 "But I'm too amazing to die..."
-Qiyana grunts.
-Qiyana grunts.
-Qiyana groans.
 "See? Even death is no match for Qiyana."
 "I suppose they will make me do this the hard way."
 "I say give them a win. They're so cute when they think they have a chance."
@@ -177,15 +157,8 @@ Qiyana groans.
 "That was no crushing; that was merely a squeeze."
 "Can't keep me in the ground. The ground obeys me."
 "It's not dying, it's restarting from the last checkpoint."
-"In Ixtal we call them 
-cao-mul
-: soon to be mud."
+"In Ixtal we call them  cao-mul : soon to be mud."
 "Saal yun esqu'uña!"
-"You dare raise a hand against your rightful ruler? 
-Estem qa'eve!"
-"It's not a ring blade, it's an 
-ohmlatl
-! Idiots."
-"Say '
-ring blade'
- one more time!"
+"You dare raise a hand against your rightful ruler?  Estem qa'eve!"
+"It's not a ring blade, it's an  ohmlatl ! Idiots."
+"Say ' ring blade'  one more time!"

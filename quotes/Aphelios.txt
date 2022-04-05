@@ -1,9 +1,5 @@
 "So many weapons, Aphelios. The deadliest is your faith."
 "Condemned to darkness, where our power grows."
-Most of Aphelios' quotes are spoken by his sister, 
- 
-Alune
-.
 "Aphelios… I hear you. I know what you sacrifice."
 "Even from across the celestial veil… I will be with you, brother."
 "It always starts with pain. We can only do this together, Aphelios."
@@ -45,7 +41,6 @@ Alune
 "Each of us, an offering."
 "All we ask is for a witness to our sorrow."
 "We walk through violence. Born of shadow. Born of light."
-Aphelios hyperventilates.
 "Even when the moon is new, it is there. A whisper to the shadows of your soul… I am with you."
 "It is as the moon revealed, Aphelios. As beautiful. As terrifying."
 "Our path is set between the last breaths taken by our enemies."
@@ -77,9 +72,6 @@ Aphelios hyperventilates.
 "To become a vessel for the heavens, one only needs faith."
 "The moon is with us in darkness, but it is not there for us."
 "The Solari do not see: we shine brightest with another's light."
-Aphelios showcases his main and off-hand weapons to the side, and pretends to shoot a flower with his finger.
-Aphelios takes a sip out of a bowl, then drops it on the ground, begins coughing, trips over, and falls while the bowl lands on his head.
-He then sighs.
 "Hah."
 "Hah."
 "The power of your belief."
@@ -102,7 +94,6 @@ He then sighs.
 "Your fight echoes even here."
 "I send you… light."
 "In your hand. From my heart."
-Generic quotes have a chance to play on any weapon.
 "Reach out, Aphelios."
 "Stone and spirit return to you."
 "Blessings of the moon."
@@ -131,12 +122,6 @@ Generic quotes have a chance to play on any weapon.
 "An orbit of blades."
 "Death, arcing from your hand."
 "The half moon, perfectly balanced."
-Aphelios grunts.
-Aphelios grunts.
-Aphelios grunts.
-Aphelios yells.
-Aphelios yells.
-Aphelios yells.
 "I am with you."
 "I am with you!"
 "When you shine, the moon can worship. You did well, Aphelios."
@@ -152,16 +137,9 @@ Aphelios yells.
 "Blood upon still lips."
 "Only one of us is safe."
 "We bleed when we cannot cry."
-Aphelios hyperventilates.
-Aphelios hyperventilates.
-Aphelios hyperventilates.
-Aphelios hyperventilates.
-Aphelios hyperventilates.
-Aphelios hyperventilates.
-Aphelios groans and expires. "No, I was supposed to help you! I knew…"
-Aphelios groans and expires. "Phel… I'm sorry."
-Aphelios groans and expires. "I'll find you. I promise."
-Aphelios groans and expires.
+"No, I was supposed to help you! I knew…"
+"Phel… I'm sorry."
+"I'll find you. I promise."
 "As darkness falls, the moon rises."
 "Out of darkness, the moon is born anew."
 "I will not let you die."

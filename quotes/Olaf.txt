@@ -7,10 +7,6 @@
 "Urge to kill, rising!"
 "C'mon, I won't hurt you. I promise!"
 "The worth of a man can be measured by the length of his beard, and the girth of his belt buckle."
-Olaf laughs.
-Olaf laughs.
-Olaf laughs.
-Olaf laughs.
 "Faster to battle!"
 "Chop chop!"
 "My axe is thirsty."
@@ -29,12 +25,8 @@ Olaf laughs.
 "What up?"
 "You can't arrest me, my dad owns a dealership!"
 "I came here to kick butt and drink Graggy! Looks like I'm all out of Graggy."
-"I'm OP? Your 
-mom
- is OP."
-"Yo, summoner, summon me like two... no, 
-six
- hot chicks, stat!"
+"I'm OP? Your  mom  is OP."
+"Yo, summoner, summon me like two... no,  six  hot chicks, stat!"
 "Brohoho."
 "Brohooo!"
 "Bro!"
@@ -46,8 +38,7 @@ six
 "I am Broseidon, lord of the Brocean."
 "Do you got that bro?"
 "
-Hey!
- Don't touch my Graggy Ice!"
+"
 "Chug!"
 "Chug!"
 "Chug!"
@@ -69,6 +60,4 @@ Hey!
 "Oh, bogus!"
 "Dude, not cool... "
 "I have come here to chew bubblegum and kick ass... and I'm all out of bubblegum"
-"Welcome to loser land. Population: 
-you
-!"
+"Welcome to loser land. Population:  you !"

@@ -11,39 +11,14 @@
 "The day is upon us."
 "Pen or sword - the shield is mightiest."
 "Next time, try to leave a dent."
-Leona grunts as she plants her sword and shield beside her and massages her hands.
 "Don't stare directly at me for too long."
 "I think I broke a nail, good thing it wasn't mine."
-Leona laughs.
-Leona laughs.
-Leona laughs.
-Leona laughs.
-Leona grunts.
-Leona grunts.
-Leona grunts.
-Leona grunts.
 "Stand and fight."
 "Feel the sun's glory."
 "They will be sundered."
 "Twilight fades."
 "I will break their line."
 "They'll have to get through me."
-Leona grunts.
-Leona grunts.
-Leona grunts.
-Leona grunts.
-Leona grunts.
-Leona grunts.
-Leona grunts.
-Leona grunts.
-Leona exhales.
-Leona exhales.
-Leona exhales.
-Leona exhales.
-Dying sounds.
-Dying sounds.
-Dying sounds.
-Dying sounds.
 "I will protect thee from the ever darkness."
 "The sun has gone. But I am here."
 "Stand firm in thy faith. This day, we fight as one."
@@ -86,7 +61,6 @@ Dying sounds.
 "Fair Diana, cast away thy blade. I do not wish to end thee so."
 "Foul pretender, thy delicate beauty belies a darker hunger!"
 "Guardian of the Elderwood, do not bar my path. I will cut thee down if I must."
-I have heard of thy kind, Death Blossom. Pray, hast thou heard of mine?
 "Sylvan conjurer, what brings thee before me? I claim no quarrel with the Elderwood."
 "Lissandra! Has thy craven gods warned thee of my presence?"
 "Night man! I must fight thee!"
@@ -100,15 +74,6 @@ I have heard of thy kind, Death Blossom. Pray, hast thou heard of mine?
 "An eclipse? Where? I don't see anything."
 "'Tis fine."
 "A jest? Of course. For luck smiles on the foolish."
-Leona grunts twice and laughs.
-Leona grunts twice and laughs.
-Leona grunts twice and laughs.
-Leona grunts twice and laughs.
-Music plays.
-Leona grunts.
-Leona grunts.
-Leona grunts.
-Leona grunts.
 "An ill tiding."
 "Rouse thyself for combat!"
 "Thy wickedness is undone."
@@ -159,14 +124,10 @@ Leona grunts.
 "Theia!"
 "Umbra!"
 "Halt, fiend!"
-Leona grunts.
-Leone grunts.
 "Hold fast!"
 "My blade be true!"
-Leona grunts.
 "We fall together!"
 "Brace thyself!"
-Leona grunts.
 "Face me!"
 "Into the fray!"
 "Luminous rage!"
@@ -177,14 +138,11 @@ Leona grunts.
 "Into the darklight!"
 "Celestial fire!"
 "Drown in moonlight!"
-Leona yells
-Leona yells
 "The sky opens!"
 "Gaze upon the moon!"
 "Season unending!"
 "Argent fury!"
 "Night crashes upon thee!"
-Leona yells
 "Cruel hearted midnight!"
 "A loathsome foe unfit even for the pyre."
 "The Old Gods have left this place."
@@ -209,9 +167,6 @@ Leona yells
 "Oh baleful heavens. Oh vermilion darkness. Spirit me to thy embrace."
 "How cruel."
 "Cant'st thou not see?"
-Dying sound.
-Dying sound.
-Dying sound.
 "The ever darkness will not claim me yet."
 "I will not end. This cleansing must be completed."
 "I have sworn an oath, and intend not to break it."

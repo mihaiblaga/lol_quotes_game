@@ -249,18 +249,13 @@
 "Eww, whale breath."
 "Great. More dry land."
 "The softest water wears down the hardest rock."
-Nami splashes her foe with water.
 "Afraid to get your feet wet?"
 "Swim at your own risk."
 "You're in over your head."
-Nami summons three small sharks which swim around her, and makes them jump.
 "Sometimes you're the catch. Sometimes you're the bait."
 "The sea holds fearsome creatures... and them."
 "I moonlight as a shark caller."
-Nami laughs.
-Nami laughs.
 "Yeah!"
-Nami laughs.
 "They're puddle monsters at best."
 "Do not force my hand."
 "The seas are rising."
@@ -282,23 +277,16 @@ Nami laughs.
 "A flute plays."
 "A flute plays."
 "Nami sings a segment of her login music."
- 
 "Da nascente, até a sua morte"
 "From the fountain to your death"
- 
 "Enxurrada!"
 "Flood!"
-"Isso é brincadeira de 
-lambari
-"
+"Isso é brincadeira de  lambari "
 "This is lambari's play"
-"Eles não passam de 
-traíras
-"
+"Eles não passam de  traíras "
 "They are nothing but trairas"
 "Não desafie a natureza"
 "Do not force nature"
-Jacarés
 "Ugh, bafo de piranha"
 "Eww, piranha breath"
 "Sua chama será apagada"

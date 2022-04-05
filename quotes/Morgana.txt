@@ -1,7 +1,5 @@
 "I am bound, but I will not break."
-"Your worst decisions
- 
-will haunt you."
+"Your worst decisions   will haunt you."
 "The trials I endured were seared into my soul, they drive me forward even after my wounds have healed."
 "With each step I forge my fate in the fires of pain."
 "True grace is beautiful in its imperfection, honest in its emotion, freed by its own frailty."
@@ -93,11 +91,7 @@ will haunt you."
 "I saw you in your cell, Sylas. Heard your cries. Felt your anguish."
 "Darkness reveals our truth, Zed."
 "Sister, here to break my heart anew?"
-"Better a broken heart than a 
- 
-shackled soul
-."
-Still playing with your little human pets, sister?
+"Better a broken heart than a    shackled soul ."
 "At least I haven't smited all my friends."
 "Your sword is with me. Do you want it back?"
 "I need no blade."
@@ -124,16 +118,8 @@ Still playing with your little human pets, sister?
 "Kayle. Still the same hair after what, a few hundred years?"
 "You hide behind your laws in arrogance, Kayle."
 "My laws have more merit than your whims ever will."
-loves me not
 "Loves me, loves me not. Loves me, loves me... not. Ughh."
 "Loves me, loves me not. Loves me, loves me not. Loves me!"
-Morgana laughs.
-Morgana laughs.
-Morgana laughs.
-Morgana grunts.
-Morgana grunts.
-Morgana grunts.
-Morgana grunts.
 "Darkness is a gift!"
 "Embrace your mistakes!"
 "Own your frailty!"
@@ -175,22 +161,11 @@ Morgana grunts.
 "No mercy!"
 "Not even for your twin?"
 "What's new?"
-Morgana grunts.
-Morgana grunts.
-Morgana grunts.
 "Be Still!"
 "Feel this!"
 "Remain."
-Morgana grunts.
-Morgana grunts.
-Morgana grunts.
-Morgana grunts.
 "Circled by your sins!"
 "The earth reflects your torment!"
-Morgana grunts.
-Morgana grunts.
-Morgana grunts.
-Morgana grunts.
 "You thought my magic evil."
 "Shielded from yourself."
 "You're welcome."
@@ -199,10 +174,6 @@ Morgana grunts.
 "Shielded from yourself."
 "I'll ignore that."
 "How "gracious" of you."
-Morgana yells vigorously.
-Morgana yells vigorously.
-Morgana yells vigorously.
-Morgana yells vigorously.
 "Look what you made me do!"
 "I told you to remain!"
 "My pain unbound!"
@@ -227,8 +198,6 @@ Morgana yells vigorously.
 "Vision does not require light."
 "Darkness is everywhere."
 "We shall see through their lies."
-Morgana groans.
-Morgana whimpers.
 "So this... Is how it feels..."
 "Ahh... Something new..."
 "These mortal cycles begin anew."
@@ -236,10 +205,8 @@ Morgana whimpers.
 "I have endured worse."
 "Every man's story ends in death. But we are not men and we will not die."
 "Gods of the old world, speak thy will."
-Unintelligible.
 "My sovereign. I hear thy voice."
 "Awaken."
-Unintelligible.
 "'Tis I, my sovereign. Queen of the Coven. Despoiler of the new world!"
 "Come, my dark sisters. May the old magics guide us to the end."
 "The Eclipse knights of old, come to wage one final war. Let their graves mark our return."
@@ -264,13 +231,10 @@ Unintelligible.
 "I am the witch queen. I am the truth."
 "Darkness tears and sighs."
 "Tell me of thy pain."
-Unintelligible.
 "I feel it too."
 "Wouldst thou condemn the world?"
-Unintelligible.
 "As would I."
 "Watch and listen."
-Unintelligible.
 "The gods awaken."
 "The old magic will reshape us, bend us, into new and beautiful forms."
 "Mankind is a weak and wounded creature. It claws at life as all hope fades."
@@ -280,10 +244,8 @@ Unintelligible.
 "This land is steeped in forgotten magics. The Coven will make all remember."
 "Blind faith is the tool of monsters and fools. Our eyes are open."
 "Look, elder one. It is the world."
-Unintelligible.
 "It hurts. I know."
 "Our lord comes in the shape of a horned owl."
-Unintelligible.
 "I know well its voice."
 "Dark child. Wouldst thou like to live deliciously?"
 "Thy love will perish, Diana. And thou shalt remain. Alone. Forever."
@@ -301,11 +263,6 @@ Unintelligible.
 "The hour of resurrection draws near. Stand not in our way."
 "A boaster's tongue might make for a fine reagent."
 "They say fortune smiles on the foolish. They lie."
-Morgana laughs.
-Morgana grunts.
-Morgana grunts.
-Morgana grunts.
-Morgana grunts.
 "Vicious little creature."
 "Take up thy weapon!"
 "A sad weakness of faith."
@@ -335,32 +292,20 @@ Morgana grunts.
 "The new world must fall!"
 "Shall I witch thee?"
 "Die, betrayer. Die, sister!"
-Return to dust, LeBlanc!"
+"
 "Meet thy end o gallant knight!"
 "Reveal thy power, Zyra!"
-Morgana yells.
-Morgana yells.
-Morgana yells.
-Morgana makes an eerie noise.
 "I see you."
 "A black ram..."
-Unintelligible.
 "A white stag..."
-Unintelligible.
 "A black crane..."
-Unintelligible.
 "A night dove..."
-Unintelligible.
 "A horned owl..."
-Unintelligible.
 "Dark blessings."
 "Tis a taste of power."
 "Thou must suffer more."
 "I am with thee."
 "They smile upon thee."
-Morgana yells with might.
-Morgana yells with might.
-Morgana yells with might.
 "Who awakens?!"
 "I am thy queen!"
 "Let the gods in!"
@@ -372,16 +317,11 @@ Morgana yells with might.
 "Better to die than live in ignorance."
 "Thy sins repaid in full."
 "A gift, my sovereign."
-Unintelligible.
 "Accept my offering."
-Unintelligible.
 "I will not allow thee peace in death. I curse thee!"
 "To slay the sun, to eat her flesh. Kayle... how couldst thee?"
 "What doth the ebony ram plot I wonder?"
-"Prithee. Send a stronger 
- 
-LeBlanc
- next time."
+"Prithee. Send a stronger    LeBlanc  next time."
 "Thou shalt rise again, ser knight. Cursed by thine empty sun."
 "Thy visions will only intensify in death, Lissandra."
 "This base magic cannot win out, Zyra."
@@ -394,23 +334,15 @@ LeBlanc
 "Magic takes many forms."
 "The gift of sight."
 "My radiant lord."
-Unintelligible.
 "Grant me thy power!"
 "My sovereign."
-Unintelligible.
 "Show me the path!"
 "O great horned owl."
-Unintelligible.
 "Thy day has come!"
 "Is this... thy will?"
 "Ugh... so be it."
-Morgana groans.
-Morgana groans.
-Morgana groans.
 "Death is not the end for a true believer."
-Unintelligible.
 "Of course. The faithful shall ever be spared."
-Unintelligible.
 "Blessings to you, my sovereign."
 "I will bring you all pain!"
 "Let's settle this, Kayle!"

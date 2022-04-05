@@ -31,22 +31,12 @@
 "I could use a pair of croc skin boots."
 "Cut purse? No. Cut throat? Yes."
 "They say the desert is a cruel mistress. I like the sound of that."
-Sivir laughs.
-Sivir laughs.
-Sivir laughs.
 "Catch!"
 "Take this!"
 "Better duck!"
 "Heads up!"
-Sivir grunts.
-Sivir grunts.
-Sivir grunts.
 "Back off."
 "Nice try."
-Sivir grunts.
-Sivir grunts.
-Sivir grunts.
-Sivir grunts.
 "This one's on me."
 "You die for free."
 "Life's cheap. Death pays."
@@ -70,10 +60,6 @@ Sivir grunts.
 "Come to my desert, pay my price."
 "Send more goons, I think it's working."
 "Yeah. I am that good."
-Sivir groans.
-Sivir groans.
-Sivir groans.
-Sivir groans.
 "Think you can dodge my blade?"
 "GG!"
 "A great battle!"

@@ -47,9 +47,7 @@
 "I bargained my soul for the progress of Piltover."
 "My skills eliminate the chaos of Piltover."
 "Piltover will achieve its destiny."
-"For the problems of Piltover, 
-I
- am the solution."
+"For the problems of Piltover,  I  am the solution."
 "Their mission will be terminated."
 "I embrace my mission."
 "Search input received."
@@ -96,13 +94,8 @@ I
 "In your case, intelligence seems like an unhappy accident."
 "I hope you still think that's funny when I slit your throat."
 "I suppose wit varies with intelligence."
-"Aw... thinking for yourself must be difficult.
-"Ha. Ha. Ha."
+"Aw... thinking for yourself must be difficult. "Ha. Ha. Ha."
 "Rudeness is a sure way to an ugly death."
-Camille laughs.
-Camille laughs.
-Camille laughs.
-Camille laughs.
 "Know your place!"
 "Seek my attention at your peril."
 "Your limitations will be your downfall."
@@ -121,8 +114,7 @@ Camille laughs.
 "Hmph. You may thank me when this is over."
 "You are utterly unemployable."
 "
-This
- is your best?"
+"
 "You do not want your name on my list."
 "Your behaviour is unacceptable."
 "I will make you an irrelevant detail."
@@ -160,8 +152,7 @@ This
 "Pay attention!"
 "Watch where you're going!"
 "Mind your surroundings."
-"Oh, I'm not playing with you.
-"The yoke of mankind looks good on you."
+"Oh, I'm not playing with you. "The yoke of mankind looks good on you."
 "Oh my... can someone put a sheet over this hat rack?"
 "The law protects when it is protected."
 "Less hat, more pants."
@@ -175,9 +166,7 @@ This
 "You might be decent practice."
 "It would have been better for you to stay dead."
 "Do you have a formula for being better?"
-"I suppose I must teach 
-you
- a lesson."
+"I suppose I must teach  you  a lesson."
 "My blades are sharper."
 "I've seen bigger tempests in my teacup."
 "Heroes make such nice targets."
@@ -210,8 +199,7 @@ you
 "Calculated."
 "Winning means being better."
 "You won't avoid the consequences of your actions."
-"The difference between success and failure is adaptation!
-"If life hasn't changed you, then you have failed."
+"The difference between success and failure is adaptation! "If life hasn't changed you, then you have failed."
 "Reckless."
 "Complacency breeds death."
 "Adapt or perish."
@@ -223,16 +211,10 @@ you
 "How rude!"
 "Are you fighting back? Ts-ch, how selfish!"
 "That was mediocre at best."
-"The trick is to be clever 
-and
- quick."
+"The trick is to be clever  and  quick."
 "The test of good manners is patience."
 "Waiting yields the most reward!"
-"Patience isn't 
-a
- virtue, it is 
-the
- virtue."
+"Patience isn't  a  virtue, it is  the  virtue."
 "Patience is what separates good hunters from dead ones."
 "Looks like I missed a spot."
 "A professional is marked by precision."
@@ -240,9 +222,7 @@ the
 "Precision is the only standard that matters."
 "A sharp blade quickens the work."
 "The future favors the versatile."
-"There are two sides to every issue, 
-my
- side and the wrong side."
+"There are two sides to every issue,  my  side and the wrong side."
 "I am out of patience!"
 "I'm coming to get you."
 "You will be where I want you to be."
@@ -366,9 +346,7 @@ my
 "Professionals never second guess."
 "They do not pay me to make mistakes."
 "Remove the strong and watch the weak crumble."
-"Don't walk away — 
-run
-."
+"Don't walk away —  run ."
 "This is what problem solving looks like."
 "I don't leave witnesses."
 "Wait long enough and the cracks always show."
@@ -382,8 +360,7 @@ run
 "Mission protocol upgraded."
 "Bottoms up!"
 "Cheers!"
-"You are strong, but I am stronger.
-"I am no one's puppet."
+"You are strong, but I am stronger. "I am no one's puppet."
 "Meekness was never a virtue of mine."
 "You are in my way."
 "I am the only weapon necessary!"
@@ -393,13 +370,11 @@ run
 "You try my patience!"
 "Inattention to detail produces shoddy work."
 "
-I
- am the trap."
+"
 "I have yet to be wrong."
 "Better to sip regret than swallow death."
 "There's always time for tea!"
-"Value yourself first, lest you be deemed worthless.
-"I only need time."
+"Value yourself first, lest you be deemed worthless. "I only need time."
 "Character is revealed by when one retreats."
 "I'll be back."
 "You never go full retard."

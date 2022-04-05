@@ -164,10 +164,6 @@
 "Let's get this party started!"
 "I'll drink you under the table, scrub!"
 "The only time I have a drinking problem is when I spill it!"
-Gragas laughs.
-Gragas laughs.
-Gragas laughs.
-Gragas laughs.
 "Last call!"
 "Have a drink!"
 "Yah!"
@@ -175,15 +171,4 @@ Gragas laughs.
 "Happy hour incoming!"
 "Fight time!"
 "Time to roll out the barrel!"
-Gragas dances to an accordion.
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
-Sound Effect
 "Gragas_Original_Move_0.ogg"

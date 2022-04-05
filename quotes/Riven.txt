@@ -18,10 +18,6 @@
 "You are beyond redemption!"
 "I knew I should have sprung for the blade warranty."
 "This is why I spend so much time sheath shopping."
-Riven laughs.
-Riven laughs.
-Riven laughs.
-Riven laughs.
 "So much death."
 "A necessary strike."
 "It must come to pass."
@@ -34,8 +30,7 @@ Riven laughs.
 "They cannot go unpunished!"
 "The time for talk is over."
 "Sacrifices must be made."
-An announcer yells "KO!".
-"I light the way out of darkness."
+"KO!". "I light the way out of darkness."
 "Righteousness binds us together."
 "I am the conquering light."
 "There is no grey; only light and dark."
@@ -133,14 +128,6 @@ An announcer yells "KO!".
 "Oh, ugh, not again... that's better."
 "Laughter raises us above the dark."
 "Dim humour is the sign of a dark soul."
-Riven laughs.
-Riven laughs.
-Riven laughs.
-Riven laughs.
-Riven laughs.
-Riven laughs.
-Riven laughs.
-Riven laughs.
 "Our blades rise as one."
 "Darkness falls by my blade."
 "Freedom is conquered."
@@ -304,5 +291,4 @@ Riven laughs.
 "I know what I am."
 "Darkness has led me astray... he will pay."
 "A dull blade is more than enough for the likes of you!"
-When We Two Parted
-So We'll Go No More A Roving
+g

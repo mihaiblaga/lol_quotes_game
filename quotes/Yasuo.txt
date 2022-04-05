@@ -1,7 +1,6 @@
 "Death is like the wind - always by my side."
 "No cure for fools."
-A stripped-down version of "GIANTS" plays.
-"Whispers in the wind speak of a masked swordsman with two blades."
+"GIANTS" plays. "Whispers in the wind speak of a masked swordsman with two blades."
 "My brother returned. Seems dying was the easy part."
 "A sword's poor company for a long road."
 "My honor left a long time ago."
@@ -26,7 +25,6 @@ A stripped-down version of "GIANTS" plays.
 "An unworthy blade meets a cursed mask."
 "Brother, what have you become?"
 "Yone, I learned your lessons too late."
-Yasuo drinks from his flask and spits on his sword's blade.
 "There is only death... mine, or yours!"
 "If you've come to kill me... I hope you brought friends."
 "Killing people is a bad habit... but I can't seem to quit."
@@ -40,22 +38,9 @@ Yasuo drinks from his flask and spits on his sword's blade.
 "Scurry back to your shadows, ninja."
 "Ninjas... I hate those guys."
 "Cute mask. Your, uh, mom sew that?"
-Yasuo tosses his flask into the air and catches it with his sword's blade tip.
 "The blade above all things... except a good drink."
 "Who says I can't handle my drink?"
 "There are three certainties in life: honor, death, and hangovers."
-Yasuo laughs.
-Yasuo laughs.
-Yasuo laughs.
-Yasuo laughs.
-Yasuo plays the flute.
-Yasuo plays the harmonica.
-Yasuo plays the harmonica.
-Yasuo plays the flute.
-Yasuo grunts.
-Yasuo grunts.
-Yasuo grunts.
-Yasuo grunts.
 "People keep running into my blade."
 "I'll give you the easy way out."
 "No cure for fools."
@@ -71,41 +56,21 @@ Yasuo grunts.
 "I alone decide my fate."
 "One blade, one purpose."
 "It is not yet time to die."
-Yasuo shouts.
-Yasuo shouts.
-Yasuo shouts.
-Yasuo shouts.
-Yasuo shouts in an Ancient Ionian dialect.
 "Ton!"
 "Hasag!"
-Yasuo shouts in an Ancient Ionian dialect.
 "Hasagi!"
 "Aseryo!"
 "Face the wind!"
-Yasuo shouts in an Ancient Ionian dialect.
 "Choryon!"
 "Son!"
-Yasuo grunts.
-Yasuo grunts.
-Yasuo grunts.
-Yasuo grunts.
-Yasuo shouts in an Ancient Ionian dialect.
 "Sorye!"
 "Igei ton!"
 "Sorye ge ton!"
-Yasuo grunts.
-Yasuo grunts.
-Yasuo grunts.
-Yasuo grunts.
 "It always ends in blood, brother."
 "Huh, three swift strikes... "
 "Wait, that technique... huh."
 "Another wind blade?"
 "Who taught you that?"
-Yasuo groans.
-Yasuo groans.
-Yasuo groans.
-Yasuo groans.
 "I light the way to your darkness."
 "And so darkness, I become."
 "Some choose their path. Others are condemned to it."
@@ -199,16 +164,6 @@ Yasuo groans.
 "Join the darkness. We have sugared confections."
 "Levity is overrated for a brooding soul."
 "Your ignorance does not amuse me."
-Yasuo laughs.
-Yasuo laughs.
-Yasuo laughs.
-Yasuo laughs.
-Yasuo laughs.
-Yasuo grunts.
-Yasuo grunts.
-Yasuo grunts.
-Yasuo grunts.
-Yasuo grunts.
 "Every blade, its own master."
 "Darkness falls with my blade."
 "Freedom is won."
@@ -271,30 +226,14 @@ Yasuo grunts.
 "It's not wings you offer, but shackles."
 "Chaos will clip your wings."
 "Admit it, my freedom terrifies you."
-Yasuo grunts.
-Yasuo grunts.
-Yasuo grunts.
 "Anger builds!"
 "Harness emotion!"
 "The universe craves chaos!"
-Yasuo grunts.
-Yasuo grunts.
-Yasuo grunts.
 "The wind of change!"
-Yasuo yells.
-Yasuo yells.
-Yasuo yells.
 "I am the storm!"
 "I am thunder. I am lightning!"
 "I will not be tamed!"
-Yasuo yells.
-Yasuo yells.
-Yasuo yells.
 "Flash fire!"
-Yasuo grunts.
-Yasuo grunts.
-Yasuo grunts.
-Yasuo grunts.
 "Sorye ge ton!"
 "My rage is as deadly as my blade."
 "The damaged are the most dangerous."
@@ -378,12 +317,6 @@ Yasuo grunts.
 "There is no shame in choosing chaos."
 "Never regret that which must be done."
 "Order is an illusion, nothing more."
-Yasuo groans.
-Yasuo groans.
-Yasuo groans.
-Yasuo groans.
-Yasuo groans.
-Yasuo groans.
 "Order's hold is only temporary."
 "We will meet again."
 "This is not over."
@@ -412,9 +345,7 @@ Yasuo groans.
 "Villains who defy the dragons cannot hide from my sword."
 "Live in the now.  Look to the future."
 "What is, what can be... they are not so distant."
-"Those who would break before they bend 
-will
- break."
+"Those who would break before they bend  will  break."
 "I wander alone, but I fight for others."
 "All that is began as a promise of what could be."
 "The gifts of two dragons are fused in me."
@@ -476,7 +407,6 @@ will
 "Tough talk for someone without two dragons."
 "While you studied the blade, I studied... more of the blade."
 "I see what is and what can be... but I don't see the joke here."
-Yasuo laughs.
 "An uneven fight."
 "A welcome challenge."
 "Yield to the dragons."
@@ -498,9 +428,7 @@ Yasuo laughs.
 "You are mistaken."
 "Submit, villain!"
 "It is your fate to fall."
-"Cross 
-my
- path."
+"Cross  my  path."
 "Match my level."
 "Mine is the dragons' might."
 "Bring your best!"
@@ -541,7 +469,6 @@ my
 "Sorye ge ton!"
 "Truth is my weapon!"
 "By the dragon!"
-Yasuo yells.
 "Sorye ge ton!"
 "Dare the impossible!"
 "Awake victorious!"
@@ -584,5 +511,4 @@ Yasuo yells.
 "Death is too tangible to still my blade."
 "The dragons will not let me falter."
 "The road goes ever on."
-When We Two Parted
-So We'll Go No More A Roving
+g

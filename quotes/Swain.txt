@@ -14,13 +14,8 @@
 "Men are too weak to rule, ha ha ha, but I am no man."
 "I fought the dragons once... Now I have become one."
 "To end the world with fire. To rule with flame."
-"At last, I may reveal myself to the 
-dragonslayers
-."
-"An assassin is due at any moment. It is how I know 
- 
-LeBlanc
- cares."
+"At last, I may reveal myself to the  dragonslayers ."
+"An assassin is due at any moment. It is how I know    LeBlanc  cares."
 "Tell me again all the crimes I've committed, and I'll tell you the price of victory."
 "We are at war. Do not forget it."
 "I have killed more men with words than by my own hand. Not for lack of trying."
@@ -72,24 +67,14 @@ LeBlanc
 "You will find this delicate morsel, quite capable of fighting back."
 "It is better to be feared than loved, Vastaya."
 "I don't know if you're the wisest being I've ever met, or a pile of mouldering blankets."
-"Ah yes, 
- 
-Cassiopeia
-. I admire your commitment to... metaphor."
-"It was only a matter of time, 
- 
-Darius
-. Do what you must."
-"Your trust maybe misplaced, old friend. But it is appreciated.
-"Fame has gone to your head, and found ample room within."
-"You stood by me when I was outcast, so I stood by you when you were drunk. In spite of the stench.
-"Am I to seek revenge for my poor departed arm? If anything girl, you did me a favor."
+"Ah yes,    Cassiopeia . I admire your commitment to... metaphor."
+"It was only a matter of time,    Darius . Do what you must."
+"Your trust maybe misplaced, old friend. But it is appreciated. "Fame has gone to your head, and found ample room within."
+"You stood by me when I was outcast, so I stood by you when you were drunk. In spite of the stench. "Am I to seek revenge for my poor departed arm? If anything girl, you did me a favor."
 "The mind is the weapon. You are unarmed."
-"Do they know who killed your father, or do they still blame me?
-"If you take me, you will leave Noxus with something far worse."
+"Do they know who killed your father, or do they still blame me? "If you take me, you will leave Noxus with something far worse."
 "We both move pawns in a grand game. And look at that - It seems I'm winning."
-"You see every flaw in me and you do not even blink. A bit unwise, wouldn't you say?
-"Life would be boring without surprises. You certainly keep things... interesting."
+"You see every flaw in me and you do not even blink. A bit unwise, wouldn't you say? "Life would be boring without surprises. You certainly keep things... interesting."
 "I suppose this makes us enemies with benefits."
 "People often ask for a hero, when a villain is what they truly need."
 "The Vastaya blood is not in my veins. It is on my hands."
@@ -104,39 +89,12 @@ Darius
 "You're the only man I know who believes his own words, even after he's said them."
 "If you plan on listing my crimes, mind you do not die of asphyxiation."
 "I have to know who has a crush on whom."
-"Which one of you is 
- 
-Beatrice
- again?"
+"Which one of you is    Beatrice  again?"
 "Caw caw caw caw caw. There, are you satisfied?"
 "My birds are hungry."
 "I'll eat your soul myself."
 "I am not smiling, I am threatening to smile. It is still a threat."
 "I own birds cleverer than you."
-Laugh
-Laugh
-Laugh
-Grunt
-Grunt
-Grunt
-Grunt
-Grunt
-Grunt
-Grunt
-Grunt
-Grunt
-Grunt
-Grunt
-Grunt
-Grunt
-Grunt
-Grunt
-Grunt
-Grunt
-Grunt
-Grunt
-Grunt
-Grunt
 "A petty squabble for pettier men."
 "Diplomacy is a subtle art."
 "Do not try my patience."
@@ -181,7 +139,6 @@ Grunt
 "The fire of conquest."
 "Souls, flame."
 "Their memories burn away."
-(The rest of the Soul Fragment lines trigger when the enemy is slain and their soul is collected)
 "They fight the mist above the seas, never looking beneath."
 "An empire, built atop centuries of murder."
 "Shaped by humanity, a reflection."
@@ -203,10 +160,7 @@ Grunt
 "His blood is the only useful thing about him."
 "Faces fading in the flames. It was all her fault."
 "The first oath. The one she made to him."
-"So he's heard the rumours. 
- 
-The girl
- who came back."
+"So he's heard the rumours.    The girl  who came back."
 "He asked her to do what she could not. To kill me."
 "A child who had known only hate, confuses it for love."
 "Which is the greater tragedy, that she fell in battle, or that she fell in line?"
@@ -217,21 +171,14 @@ The girl
 "I already knew that."
 "She feared what she could not understand: herself."
 "She was closer than he realized."
-These lines are also heard by enemies near the area.
-"Nefa..." (Incomprehensible demonic whisper)
-"Do..." (Incomprehensible demonic whisper)
-"Crah..." (Incomprehensible demonic whisper)
-"Nas..." (Incomprehensible demonic whisper)
-"Fala..." (Incomprehensible demonic whisper)
-"Death is its own prophecy."
+"Nefa..." (Incomprehensible demonic whisper) "Do..." (Incomprehensible demonic whisper) "Crah..." (Incomprehensible demonic whisper) "Nas..." (Incomprehensible demonic whisper) "Fala..." (Incomprehensible demonic whisper) "Death is its own prophecy."
 "Victory awaits."
 "Another piece cleared from the board."
 "That is one way to surrender."
 "Another disappointment."
 "The raven was a portent. Their time had come."
 "Obey."
-"A bit presumptuous to consider us... rivals.
-"Predictable, as always."
+"A bit presumptuous to consider us... rivals. "Predictable, as always."
 "One less enemy within."
 "You were no longer useful."
 "This is not even my final form."
@@ -292,11 +239,7 @@ These lines are also heard by enemies near the area.
 "More than what we do not understand, we fear being understood."
 "Some say the darkness stares back, because they cannot see me."
 "The more I see the more I realize how much remains hidden."
-"Secrets whispered in the shadow... have a way of reaching my ears.
-"I often kill in my visions. When I close my eyes, do not come near."
-Death grunt
-Death grunt
-Death grunt
+"Secrets whispered in the shadow... have a way of reaching my ears. "I often kill in my visions. When I close my eyes, do not come near."
 "Only this, and nothing more."
 "I have already walked the halls of death, in the immortal bastion."
 "They think they have won? Pathetic."
@@ -315,8 +258,5 @@ Death grunt
 "She claimed it was the Frost Queen's grave. They believed her."
 "The payment for her suffering in Shurima: a black rose."
 "His secrets died with his sculptor."
-"So he's heard the rumours. 
- 
-The girl
- who came back."
-The Prince
+"So he's heard the rumours.    The girl  who came back."
+e

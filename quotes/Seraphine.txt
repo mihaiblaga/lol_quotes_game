@@ -29,8 +29,7 @@
 "Gotta keep moving with the music!"
 "Nothing better than a good song!"
 "Maybe the world's not ready for me. I don't mind waiting!"
-"Making it up as I go!" Seraphine sings.
-"Hear the world in my voice!"
+"Making it up as I go!" Seraphine sings. "Hear the world in my voice!"
 "Don't mistake me for my lyrics."
 "Gotta find the rhythm in the chaos."
 "Some songs start with a rhyme, some with a rhythm... Mine starts with the crowd."
@@ -50,8 +49,7 @@
 "Aw, how can I say anything bad about a fan? Come on, make some noise!"
 "Can't wait to write a song about this moment!"
 "Hey! Wanna hear your song?"
-"Azir, lemme try. Shurima!" Seraphine giggles.
-"Camille! Sorry, but you're the only one marching to your drum."
+"Azir, lemme try. Shurima!" Seraphine giggles. "Camille! Sorry, but you're the only one marching to your drum."
 "No one keeps time like you, Ekko."
 "Such a perfect four-four! But also...so wrong!"
 "Whoa! I can't follow your song at all, and I...love it!"
@@ -59,15 +57,7 @@
 "Wow! You sing in such color, Neeko!"
 "Oh, Sona, your song is so...wow!"
 "Hey, Vi! Wrote you a fight song. Bet you'd love it."
-Seraphine hums.
-Seraphine laughs.
-Seraphine laughs.
-Seraphine hums.
 "Do you make carpets? Because you are cutting that rug!"
-Seraphine grunts.
-Seraphine grunts.
-Seraphine grunts.
-Seraphine grunts.
 "Kick it!"
 "How about a call and response?"
 "Oh, snap!"
@@ -83,8 +73,6 @@ Seraphine grunts.
 "Listen to yourself!"
 "Pop!"
 "Sing it with me!"
-Seraphine sings.
-Seraphine sings.
 "Kisses!"
 "Dazzle 'em!"
 "This one's for you!"
@@ -106,7 +94,7 @@ Seraphine sings.
 "Double time!"
 "Whole world hears me now!"
 "Your turn to shine!"
- *giggle* "Your song's gonna get stuck in my head!"
+"Your song's gonna get stuck in my head!"
 "Nobody can truly silence you. Not even me."
 "Thanks for listening!"
 "I expect an encore!"
@@ -131,40 +119,6 @@ Seraphine sings.
 "All right, Sera, no big deal. Pretend it's a rehearsal."
 "Hm... Think they wanna hear more? Of course they do!"
 "Gonna write a kicker out of that one."
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Echo Ready SFX
-Surround Sound SFX
-Surround Sound Echo SFX
-Surround Sound Heal Incoming SFX
-Surround Sound Heal Incoming SFX
-Surround Sound Heal SFX
-Encore SFX
-Accompanying Encore SFX
-Joke Start SFX
-Joke SFX
-Joke SFX
-Joke SFX
-Joke SFX
-Joke SFX
-Joke SFX
-Joke SFX
-Joke SFX
-Joke SFX
-Taunt SFX
-Taunt SFX
-Taunt SFX
-Taunt SFX
-Dance SFX
-Death SFX
-Recall SFX
-Respawn SFX
 "Remember. You've dreamed of performing live. You've got this!"
 "First test run of this stage. Hope it all goes well!"
 "The music here sounds so... magical! I'm sure I'll get lots of inspiration."
@@ -246,9 +200,8 @@ Respawn SFX
 "I learned this kickflip from my favorite video game!"
 "Bet you didn't know I could pull this off!"
 "I'm not just a singer. I'm also a stunt woman."
-Seraphine laughs. "Tell it again! You really oughta give comedy a go!"
+"Tell it again! You really oughta give comedy a go!"
 "Your moves are so rad! Can you teach me sometime?"
-Seraphine laughs.
 "Feel the rush!"
 "La-ta-boom!"
 "Oooh, I'm here to win!"
@@ -274,31 +227,20 @@ Seraphine laughs.
 "Seraphine! In your area!"
 "Fighting!"
 "Coming at you live!"
-Seraphine sings.
-Seraphine sings.
 "Next song please!"
 "A melody you can't deny!"
 "Sing loud!"
 "Givin' it my all!"
 "Soar!"
 "Be free!"
-Seraphine sings.
-Seraphine sings.
-Seraphine sings.
 "A soothing song!"
 "Music endures!"
-Seraphine sings.
-Seraphine sings.
 "All together now!"
 "Drop the beat!"
 "Hit the note!"
-Seraphine grunts.
-Seraphine grunts.
 "Speed it up!"
 "Sing proud!"
 "More!"
-Seraphine grunts.
-Seraphine grunts.
 "Ready for my big solo!"
 "Not a fan!"
 "Sorry, wrong note!"
@@ -344,195 +286,7 @@ Seraphine grunts.
 "So many sounds I've never heard before! Can't wait to tell all my fans!"
 "My voice... my music... please..."
 "Songs last... forever..."
-Seraphine groans.
-Seraphine groans.
 "Time for a comeback album!"
 "Giving up isn't in my lyrics!"
 "Good material for my next song. Let's run it back!"
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Dance Music SFX
-Dance SFX
-Death SFX
-Laugh SFX
-Passive Echo Ready SFX
-Recall Music SFX
-Recall SFX
-Respawn SFX
-Encore SFX
-Surround Sound Echo SFX
-Surround Sound Echo SFX
-Surround Sound Echo SFX
-Surround Sound SFX
-Surround Sound Heal Incoming SFX
-Surround Sound Heal Incoming SFX
-Surround Sound Heal SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Dance SFX
-Dance SFX
-Dance Music SFX
-Dance Music SFX
-Death SFX
-Joke SFX
-Joke SFX
-Joke SFX
-Joke SFX
-Laugh SFX
-Passive Echo Ready SFX
-Recall Music SFX
-Recall SFX
-Respawn SFX
-Encore SFX
-Encore SFX
-Encore SFX
-Encore SFX
-Encore SFX
-Taunt SFX
-Taunt SFX
-Taunt SFX
-Taunt SFX
-Taunt SFX
-Surround Sound Heal Incoming SFX
-Surround Sound Heal Incoming SFX
-Surround Sound Heal SFX
-Surround Sound Echo SFX
-Surround Sound Echo SFX
-Surround Sound Echo SFX
-Surround Sound Shield SFX
-Surround Sound Shield SFX
-Surround Sound Shield SFX
-Surround Sound SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Passive Music SFX
-Dance SFX
-Dance SFX
-Dance Music SFX
-Dance Music SFX
-Dance Music SFX
-Dance Music SFX
-Dance Music SFX
-Death SFX
-Homeguard SFX
-Homeguard SFX
-Joke SFX
-Joke SFX
-Joke SFX
-Joke SFX
-Laugh SFX
-Laugh SFX
-Laugh SFX
-Passive Echo Ready SFX
-Recall SFX
-Respawn SFX
-Encore SFX
-Encore SFX
-Encore SFX
-Encore SFX
-Encore SFX
-Surround Sound Heal Incoming SFX
-Surround Sound Heal Incoming SFX
-Surround Sound Heal SFX
-Surround Sound Echo SFX
-Surround Sound Echo SFX
-Surround Sound Echo SFX
-Surround Sound Shield SFX
-Surround Sound Shield SFX
-Surround Sound Shield SFX
-Surround Sound SFX
+X

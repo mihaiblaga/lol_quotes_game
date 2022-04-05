@@ -28,8 +28,7 @@
 "You are a doomed vessel."
 "Pain is the herald of your salvation."
 "
-Metal
- is the only heartbeat I need."
+"
 "Amp it up."
 "Tower diver! Gotta' get away, get away!"
 "We totally topped the charts in the Freljord!"
@@ -66,10 +65,6 @@ Metal
 "What is that sound? It's the pounding of creation's hammer on the anvil of time!"
 "Urgot, hm, I highly recommend death at this point."
 "But I still have so much to kill for."
-Karthus laughs.
-Karthus laughs.
-Karthus laughs.
-Karthus laughs.
 "Waaao!"
 "Yeah!"
 "Yeah!"
@@ -101,9 +96,7 @@ Karthus laughs.
 "The shell means nothing!"
 "You can't kill the metal!"
 "The sustain! Listen to it!"
-"This is 
-eleven
-!"
+"This is  eleven !"
 "Time for my encore!"
 "Waahaahaahaahaaao!"
 "Cross over."

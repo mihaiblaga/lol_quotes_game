@@ -64,10 +64,8 @@
 "You work with Viego, yes? Scoundrel by association!"
 "I taunt with my grappling hook. See how it taunts you? Taunt, taunt, taunt..."
 "That was very clever. I hope it was worth your life."
-Akshan fires his grapple upwards intending to fly to the sky, only for it to fall short.
 "Up, up and... maybe not."
 "That was very clever. I hope it was worth your life."
-Akshan laughs.
 "You don't deserve life."
 "Scoundrel!"
 "Too late to atone."

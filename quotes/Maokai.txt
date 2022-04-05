@@ -1,15 +1,11 @@
 "The Isles will bloom again!"
 "Your reckoning will come either way."
-"Beset by spirits, my home laid to waste... and they call 
-me
- twisted."
+"Beset by spirits, my home laid to waste... and they call  me  twisted."
 "Life can come back, once the earth is turned."
 "The water of life succumbed to death. The mortals will follow."
 "Hold tight, my sapling."
 "My heartwood is pure."
-"Flee into the forest? I 
-am
- the forest."
+"Flee into the forest? I  am  the forest."
 "I cannot find peace! Not even in the smallest branch!"
 "Reckless mortals!"
 "They trample life! I will trample them!"
@@ -77,21 +73,14 @@ am
 "An axe is no danger if I cut you down first!"
 "Magic came from nature, and will return to nature."
 "Yordle! Stay out of my trunk!"
-"I'd like you more if you 
-were
- a fox."
+"I'd like you more if you  were  a fox."
 "You create only destruction, Star Forger."
 "You make me glad I don't have ears."
 "Strength starts in the roots - and you have none."
 "You give sticks a bad name, and fiddles too!"
-"Stop carving words into my bark! Everyone knows 
-G <3 K
-!"
+"Stop carving words into my bark! Everyone knows  G <3 K !"
 "Demacia's walls will not stop the Black Mist."
-"Kill them with 
-kindness?
-" Maokai laughs.
-"The sapling of the God Willow."
+"Kill them with  kindness? " Maokai laughs. "The sapling of the God Willow."
 "Only men seek redemption."
 "Make like a tree and vacate the area."
 "A voice follows this one! A song, like those in the Mist!"
@@ -114,16 +103,6 @@ kindness?
 "The circle of life starts with death."
 "If only the humans were vegetarians."
 "I love all my saplings, especially how they taste."
-Maokai's 
- 
-Sapling
- and 
- 
-left arm
- begin to laugh before Maokai silences them.
-Maokai growls.
-Maokai growls.
-Maokai growls.
 "You defile the grove!"
 "There is rot within!"
 "Your life bloom fades!"

@@ -1,21 +1,6 @@
 "Pleased to meet you!"
 "I recommend skipping."
-Lulu CosmicEnchantress Death 0.ogg
-Lulu CosmicEnchantress Death 1.ogg
-Lulu CosmicEnchantress Death 2.ogg
-Lulu CosmicEnchantress Death 3.ogg
-Lulu CosmicEnchantress Laugh 0.ogg
-Lulu CosmicEnchantress Laugh 1.ogg
-Lulu CosmicEnchantress Laugh 2.ogg
-Lulu SpaceGroove Death 0.ogg
-Lulu SpaceGroove Death 1.ogg
-Lulu SpaceGroove Death 2.ogg
-Lulu SpaceGroove Death 3.ogg
-Lulu SpaceGroove Laugh 0.ogg
-Lulu SpaceGroove Laugh 1.ogg
-Lulu SpaceGroove Laugh 2.ogg
-A stripped-down version of "Burning Bright" plays.
-"I recommend skipping."
+"Burning Bright" plays. "I recommend skipping."
 "Just a pinch!"
 "Yup, that tasted purple."
 "You'll see more with your eyes closed."
@@ -27,15 +12,10 @@ A stripped-down version of "Burning Bright" plays.
 "Let's go around again! Ha!"
 "I could go for a twirl... Whoa, whoa whoa ah, wooh!"
 "Let's put on our thinking caps! Hmm... hmmhmm, hmmhmm... ah, I got it!"
-Lulu laughs.
-Lulu laughs.
-Lulu laughs.
 "They aren't gonna like this."
 "Dust em, Pix!"
 "A solid giggle should do the trick."
-"Let's use 
-all
- the colors!"
+"Let's use  all  the colors!"
 "Too tall... much too tall."
 "Fix!"
 "Zippy!"
@@ -51,14 +31,6 @@ all
 "Tremendo!"
 "Up we go!"
 "Enormibus!"
-A shortened version of "Burning Bright" plays.
-Lulu groans.
-Lulu groans.
-Lulu groans.
-Lulu groans.
-"Did everything just taste purple for a second?"
-"Po oczach ich, 
- 
-Pix
-, po oczach!"
+"Burning Bright" plays. Lulu groans. Lulu groans. Lulu groans. Lulu groans. "Did everything just taste purple for a second?"
+"Po oczach ich,    Pix , po oczach!"
 "Go for the eyes, Pix, for the eyes!"

@@ -1,7 +1,6 @@
 "I'm no hero - just a Yordle with a hammer."
 "Seems you left your brave pants at home. Want me to wait while you go get them?"
-A stripped-down version of "Burning Bright" plays.
-"The hammer isn't mine, just keeping it until the real guy shows up."
+"Burning Bright" plays. "The hammer isn't mine, just keeping it until the real guy shows up."
 "I've heard a lot about this hero with a hammer, can't wait to meet him."
 "Hmm... if I were a hero, where would I hide...?"
 "Not coming back 'til I find that hero."
@@ -14,9 +13,7 @@ A stripped-down version of "Burning Bright" plays.
 "Yep, it's even heavier than it looks."
 "Oh, you like to fight? So does my hammer!"
 "Guess I'm going this way now."
-"Do 
-not
- make my hammer mad."
+"Do  not  make my hammer mad."
 "Every step is one step closer."
 "Some things are too important to give up on."
 "Who knew there were so many heroes?"
@@ -42,9 +39,7 @@ not
 "Garen, I think you might be the one!"
 "A pleasure to fight for you, your majesty."
 "You sure you wanna do this? You don't even have a weapon."
-"That's not a hammer! 
-This
- is a hammer."
+"That's not a hammer!  This  is a hammer."
 "Look at all that shiny armor. Sorry I gotta mess it up."
 "I'm about to hammer you in the jewels."
 "I don't get Yordles. Too fluffy."
@@ -58,13 +53,7 @@ This
 "The bank guy says, 'I'll give you whatever you want.'"
 "The Noxian says, 'I'll take whatever gold you got back there.'"
 "The Targonian says, 'Gimme' all your gemstones!'"
-"And the Piltie says, 'Can I own this ba--- uh, I own this bank, so...' He doesn't want anything because he 
-owns
- the bank... "
-Poppy laughs.
-Poppy laughs.
-Poppy laughs.
-Poppy laughs.
+"And the Piltie says, 'Can I own this ba--- uh, I own this bank, so...' He doesn't want anything because he  owns  the bank... "
 "I can do this."
 "Here goes everything."
 "I hope this works."
@@ -94,7 +83,6 @@ Poppy laughs.
 "Hope it's not dented."
 "Got it."
 "Shieldy."
-Poppy giggles.
 "Hammer!"
 "Comin' down!"
 "Not so fast!"
@@ -146,8 +134,7 @@ Poppy giggles.
 "Fuel for the quest."
 "Alright, sneakies... I know you're out there."
 "Just in case they come creeping."
-A shortened version of "Burning Bright" plays.
-"Wait, what did I come back for?"
+"Burning Bright" plays. "Wait, what did I come back for?"
 "Now, back to finding that hero."
 "Anyone seen a hero around here?"
 "*groans* Right in the hammer... "

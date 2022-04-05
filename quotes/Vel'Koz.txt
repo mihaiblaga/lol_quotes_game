@@ -20,16 +20,9 @@
 "The pattern is clear."
 "Ah, the Void. I miss the darkness."
 "It seems your chances of survival are... less than zero."
-"Let's see... yes, 
-infinity
- more samples required!"
+"Let's see... yes,  infinity  more samples required!"
 "Replicating lifeform entertainment routine!"
-Vel'Koz hums.
 "Research requires good tentacle-eye coordination."
-Vel'Koz laughs.
-Vel'Koz laughs.
-Vel'Koz laughs.
-Vel'Koz laughs.
 "Bones are surprisingly inflexible."
 "Tears appear to serve no function."
 "You may experience mild... incineration."

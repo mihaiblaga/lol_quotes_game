@@ -10,19 +10,10 @@
 "Me, mad? Haha... quite likely."
 "Poor lost souls."
 "Flesh is a prison."
-Thresh raises his lantern and 'drinks' the souls coming out of it.
 "Ever seen your soul? Would you like to?"
 "You're falling apart. What to do with the pieces?"
 "Screaming won't do you any good, but it's music to my ears."
 "There is life. There is death. And then there is me."
-Thresh laughs.
-Thresh laughs.
-Thresh laughs.
-Thresh laughs.
-Effort sound
-Effort sound
-Effort sound
-Effort sound
 "Lock 'em up."
 "Death? No... nothing that simple."
 "Nobody escapes."
@@ -33,34 +24,15 @@ Effort sound
 "No one can save them."
 "Any last words?"
 "Oh, yes! It's about to get much worse."
-Effort sound
-Effort sound
-Effort sound
-Effort sound
 "Come back!"
 "Hook, line and sinker!"
 "Going somewhere?"
-Effort sound
-Effort sound
-Effort sound
-Effort sound
 "Round we go!"
 "This way!"
-Effort sound
-Effort sound
-Effort sound
-Effort sound
 "My house, my rules."
 "Nowhere to hide."
 "I own you."
 "Closing in..."
-Thresh laughs.
-Thresh laughs.
-Thresh laughs.
-Thresh laughs.
-Death sound
-Death sound
-Death sound
 "No weapon in any reality can harm us."
 "Stars cold of life. Silent in the darkness."
 "I will guide them beyond the brink of infinity."
@@ -112,14 +84,8 @@ Death sound
 "We will show you true darkness."
 "How do you intend to stop entropy incarnate?"
 "Time is but a cog in a dying machine."
-A frog pops up near Thresh but is sucked into his lantern by mistake.
 "Look at you. I think I'll keep you... or not."
 "Oh, I've always wanted one of these... oh man."
-Thresh laughs.
-Thresh grunts.
-Thresh grunts.
-Thresh grunts.
-Thresh grunts.
 "Stillness for all eternity."
 "They struggle. How meaningless."
 "Brave souls, destroyed and consumed."
@@ -148,19 +114,12 @@ Thresh grunts.
 "Soul or no, I will feed it to the nothingness."
 "I've destroyed realities. What threat is this beast?"
 "A baron, eh? Baron of a dead world."
-Thresh grunts.
-Thresh grunts.
-Thresh grunts.
-Thresh grunts.
 "Yes... "
 "Death is no escape."
 "Become one in death."
 "Oh, what a wonderful world."
 "A fine start."
 "A trillion souls to go."
-Thresh grunts.
-Thresh grunts.
-Thresh grunts.
 "My pull is inexorable."
 "Nothing escapes our hunger."
 "Join us in death."
@@ -169,21 +128,13 @@ Thresh grunts.
 "Nowhere left to run."
 "Distance is an illusion."
 "Your efforts are meaningless."
-Thresh grunts.
-Thresh grunts.
-Thresh grunts.
-Thresh grunts.
 "Embrace entropy."
 "Of your own accord."
 "Feel my power."
 "Take a trip to the end of the world."
 "Join me."
-Thresh grunts.
-Thresh grunts.
-Thresh grunts.
 "You are now in my orbit."
 "The downward spiral."
-Thresh grunts.
 "Become part of something greater - nothingness."
 "Death is but a dream."
 "Welcome to the event horizon."
@@ -228,11 +179,6 @@ Thresh grunts.
 "One day, this hunger will be sated."
 "Much more work to do."
 "Watch the stars blink out, one by one."
-Thresh grunts.
-Thresh grunts.
-Thresh grunts.
-Thresh grunts.
-Thresh grunts.
 "Finally... "
 "The embrace of nothingness... "
 "Oh, thank you... "
@@ -301,16 +247,6 @@ Thresh grunts.
 "Don't spoil your dinner now."
 "My little pet. Dinner."
 "Oh dear. Your wit faded long ago."
-Thresh laughs.
-Thresh laughs.
-Thresh laughs.
-Thresh plays a song from his lantern.
-Thresh grunts and laughs.
-Thresh grunts.
-Thresh grunts.
-Thresh grunts.
-Thresh grunts.
-Thresh grunts.
 "You belong to me!"
 "I've been waiting!"
 "Enjoy."
@@ -337,15 +273,11 @@ Thresh grunts.
 "Are you lost?!"
 "Wrong way!"
 "Where are you off to?"
-Thresh grunts.
-Thresh grunts.
 "Kindle their spirits!"
 "Go."
 "Light their path!"
 "It doesn't bite!"
 "Breathe my children."
-Thresh grunts.
-Thresh grunts.
 "No you don't!"
 "You know better!"
 "Uh-uh-uhh."
@@ -354,8 +286,6 @@ Thresh grunts.
 "Welcome home!"
 "You are mine!"
 "This, is freedom!"
-Thresh laughs.
-Thresh grunts.
 "Hush now. You are home."
 "Welcome to my family."
 "Rest. I will take good care, of you."
@@ -379,8 +309,6 @@ Thresh grunts.
 "Don't you know? Absence makes the heart grow fonder."
 "The sweet... embrace."
 "No light... only joy."
-Thresh groans.
-Thresh chuckles.
 "Ah, the beautiful bangs of resurrection."
 "Death, is inevitable."
 "I hope my children didn't miss me too much."
@@ -388,8 +316,6 @@ Thresh chuckles.
 "Glowing, upward."
 "A better look, for better times."
 "Ahhhh, that's better."
-Sound effect
-Sound effect
 "Welcome to Summoner's Rift."
 "Minions have spawned."
 "First Blood."
@@ -457,13 +383,10 @@ Sound effect
 "A summoner has disconnected."
 "A summoner has reconnected."
 "Welcome to the Cosmic Ruins."
-Thresh laughs.
 "Yes..."
 "Yes!"
-Thresh growls.
 "No!"
 "No."
-Thresh groans.
 "Your team has gathered half your souls."
 "Your team has nearly enough souls."
 "The enemy team has gathered half their souls. Hurry up."

@@ -7,13 +7,11 @@
 "So, who wants to be my best friend? ...Book, I know you're already my best friend!"
 "Keep an eye out for red dot, Book! It's gotta be here somewhere."
 "Where's my fishy fishy fish for my dishy dishy dish?"
-(Yuumi sings.) "Where's my fishy fish fish dish? Meow!"
+"Where's my fishy fish fish dish? Meow!"
 "I won't lose you, Book! Not after losing Master."
-"Today we are destroyers!" Yuumi giggles.
-"Don't tell anyone but... I love hugs."
+"Today we are destroyers!" Yuumi giggles. "Don't tell anyone but... I love hugs."
 "Book, float us that-a-way!"
-"Where to, Book?" Yuumi purrs.
-"The expert huntress stalks the battlefield."
+"Where to, Book?" Yuumi purrs. "The expert huntress stalks the battlefield."
 "A river? Uh-uh! Book hates water!"
 "Do not drop me! Do not drop me!"
 "This way! No THIS way! Woah-kay, that way it is."
@@ -22,25 +20,20 @@
 "You can pet me on my chin and back! Nowhere else. Mrow."
 "Do you have snacks in your pocket? How 'bout now? ...How 'bout now?!"
 "Faster! Faster!"
-Yuumi yawns. "Is it time to save our friends again?"
+"Is it time to save our friends again?"
 "Ooh, you smell good! Did you recently fish?"
 "Mush, mush! Wheeeeheehee!"
 "I could tell you wanted a brave and powerful warrior by your side."
 "Do you ever get so sleepy you fall asleep sitting up? Just me?"
 "Okay, it's time to prowl! You do know how to prowl, right?"
-"Rubbing my head on you means you're mine!" Yuumi purrs.
-"If we find a rat, I call dibs! Or a bug. Or a FISH!"
+"Rubbing my head on you means you're mine!" Yuumi purrs. "If we find a rat, I call dibs! Or a bug. Or a FISH!"
 "Wherever you go, I go! Just... don't go somewhere bad."
 "Naps make my magic stronger! It's true! Look!" Yuumi snores and pretends to sleeptalk. "I'm so strong, mmh, so strong!"
 "Hey Book, do you ever take a nap? ...You can't?! What do you do all day?!"
-"Book, sometimes I pretend you're just a nice comfy box! ...What? That's a compliment!" Yuumi purrs.
-"The Book-keeper is a great role for someone as responsible as me! ...What?"
+"Book, sometimes I pretend you're just a nice comfy box! ...What? That's a compliment!" Yuumi purrs. "The Book-keeper is a great role for someone as responsible as me! ...What?"
 "I save my friends? No one notices. I open a teensy portal to the spirit realm? Everyone is up in my fur!"
 "If I didn't have to protect Book, I'd just be a normal magical cat floating around Bandle City! Okay, napping around Bandle City."
-"I've read all of Book. Well, most of Book. I like the pictures of fish... of which there are 
-none
-, Book!" Yuumi meows disapprovingly.
-"Ah, I miss the way my yordle scratched between my ears. ...Being read from cover to cover sounds nice too."
+"I've read all of Book. Well, most of Book. I like the pictures of fish... of which there are  none , Book!" Yuumi meows disapprovingly. "Ah, I miss the way my yordle scratched between my ears. ...Being read from cover to cover sounds nice too."
 "Hmm, today should I follow my head? Or my nose, or.. OH! Sunbeam ahead! Let's chase that!"
 "Someone scratched out the page that led here! That's right, Book. Someone! We'll never know who."
 "If I ever lost you, Book, the fabric of the spirit realm would get all torn up! And I'd lose my best friend."
@@ -63,11 +56,7 @@ none
 "Here, fishy fishy fishy! Meow!"
 "Have you seen my master? She's about your size."
 "Wow, so you're in charge of the giant litter box, huh, bird guy?"
-"Hey, 
- 
-Kog'Maw
-! I like coughing things up too!" Yuumi splutters.
-"The expert huntress stalks the battlefield."
+"Hey,    Kog'Maw ! I like coughing things up too!" Yuumi splutters. "The expert huntress stalks the battlefield."
 "You can't have Book, large metal cat!"
 "Book, you've got it backward. You said Nasus was a god! But he's just a dog."
 "Oh wow, hook man! Someone who can actually fish!"
@@ -79,17 +68,14 @@ Kog'Maw
 "The red... dot... belongs to YOU?!"
 "RAWR! That's how bears talk."
 "My purr is louder than your growl, dog."
-Yuumi hisses and yowls. "You look like unscratched furniture!"
-Yuumi hisses and yowls. "Want a book thrown at your head?! Don't worry, Book. I would never do that."
+"You look like unscratched furniture!"
+"Want a book thrown at your head?! Don't worry, Book. I would never do that."
 "Fishy fishy fish! Mmph-" Yuumi dives into Book to grab the fish, but comes out with bread on her head. "Waagh!"
-Yuumi laughs and then coughs up a furball.
-Book grabs Yuumi by the scruff and starts swinging her around. "Well, this is embarrassing!"
+"Well, this is embarrassing!"
 "Book doesn't like you."
 "Claws out!"
 "You're in bite range!"
-"Get your 
-own
- book!"
+"Get your  own  book!"
 "Swat, swat!"
 "Bop!"
 "The ol' pounce and scratch!"
@@ -97,11 +83,6 @@ own
 "Scritchy scratch!"
 "Attack-pounce!"
 "Hiyah!"
-Yuumi hisses.
-Yuumi yowls.
-Yuumi grunts
-Yuumi grunts.
-Yuumi grunts.
 "Oh, I am SO knocking that over!"
 "Grr, stupid overgrown scratching post!"
 "I hiss at you, giant pile of stones! Hiss!"
@@ -125,7 +106,7 @@ Yuumi grunts.
 "I love keeping my friends alive."
 "I've got a good feeling about this one, Book!"
 "I'll protect you with my wild and furious... meow!"
-Yuumi sniffs. "You smell tasty!"
+"You smell tasty!"
 "You smell kinda like my Yordle!"
 "So does your gauntlet help you pet more cats?"
 "Ooh, you're warm! ...Anyone smell burning fur?"
@@ -153,10 +134,7 @@ Yuumi sniffs. "You smell tasty!"
 "THIS IS MY FAVORITE CHAPTER!!"
 "I am TOTALLY doing this!"
 "I AM THE MOST MAGIIIIC!"
-Final Chapter
-"Get your 
-own
- book!"
+"Get your  own  book!"
 "Oh! I thought we were playing! Are you DEAD?!"
 "I did it! I knocked it over!"
 "Squashed like a bug!"
@@ -179,10 +157,8 @@ own
 "No, no, no! We can fix this!"
 "Book, what's happening to you?"
 "Book, keep your light on!"
-Yuumi yelps.
-Yuumi yelps.
 "Ouch! See you in your next life!"
 "On to the next friend."
-Yuumi yawns. "Is it time to save the world again?"
+"Is it time to save the world again?"
 "It's okay, we've got 6 left... or was it 5?"
 "Heehee! They're never gonna see us coming!" 

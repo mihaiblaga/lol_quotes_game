@@ -57,10 +57,6 @@
 "Four Jarvans, and you're all still failures! That is funny."
 "Why don't I have coverage for prosthetics?"
 "So, uh, Urgot. We can't hang out any more. I'm cool now."
-Sion laughs.
-Sion laughs.
-Sion laughs.
-Sion laughs.
 "Killing, I know."
 "Another corpse for the pile."
 "Ally, enemy... I don't care."
@@ -132,8 +128,6 @@ Sion laughs.
 "Vermin!"
 "I! Am! War!"
 "Cowards!"
-Sion bellows.
-Sion bellows.
 "The hunger, it grows!"
 "You all die too quickly!"
 "Stack the bodies higher!"
@@ -187,7 +181,6 @@ Sion bellows.
 "I'll be back."
 "The enemy awaits."
 "There's death to deal."
-These voice lines are in the VO files, but are not played in-game
 "I... feel... alive!"
 "Blood... on my... hands! This I remember!"
 "I do not tire! I do not bleed!"
@@ -261,8 +254,6 @@ These voice lines are in the VO files, but are not played in-game
 "I'm less a cow-catcher than a cow-punch!"
 "Off the rails, you hobo!"
 "You are a technological dead-end, Blitzcrank, while I am the first of the greatest of my kind!"
-Sion laughs.
-Sion laughs.
 "Dunk this."
 "Hope you aren't here for a fair fight."
 "I don't require an engineer."
@@ -273,23 +264,13 @@ Sion laughs.
 "Mine's bigger than yours."
 "Heroes are overrated."
 "I represent the future, you throwback!"
-The metal is willing, but the flesh is weak!"
-"The only evolution... is 
-revolution!
 "
+"The only evolution... is  revolution! "
 "The pinnacle of your 'Glorious Evolution' stands before you, Viktor. Are you not pleased?"
 "Always close your mouth before you accelerate."
 "Change shapers mecha incognito."
 "I'm not falling apart! I just need a little duct tape, that's all."
 "I played train once - my passengers did not survive when I decided to walk."
-Sion laughs.
-Sion laughs.
-Sion laughs.
-Sion laughs.
-Sion laughs.
-Sion laughs.
-Sion laughs.
-Sion laughs.
 "I am not programmed for mercy!"
 "Brace for impact!"
 "You are defective!"
@@ -303,32 +284,20 @@ Sion laughs.
 "Crush, kill, destroy!"
 "Time to... let off some steam!"
 "With unmatched precision!"
-"Peace... in 
-my
- time!"
+"Peace... in  my  time!"
 "Take the pain train!"
 "Commence termination."
 "Lethal force authorized."
-"It is 
-you
- who are flawed!"
+"It is  you  who are flawed!"
 "Error... rerouting auxiliary power!"
 "Flesh is weak - metal endures!"
 "I cannot be stopped!"
 "Manual override!"
 "Default programming activated!"
-"Finesse is for the 
-weak!
-"
-"Feel my 
-steel!
-"
-"On track for 
-pain!
-"
-"You are less than 
-nothing!
-"
+"Finesse is for the  weak! "
+"Feel my  steel! "
+"On track for  pain! "
+"You are less than  nothing! "
 "Unstoppable!"
 "Who needs brakes?"
 "Maximum velocity!"
@@ -345,16 +314,13 @@ nothing!
 "Artificial intelligence is better than none."
 "People always create what they most fear."
 "
-You
- are obsolete."
+"
 "Who's the unstable prototype no-o-ow?"
 "Greetings - I would like to purchase items with human currency."
 "That's the ticket."
 "Patching. Installing."
 "Downloading schematics."
-"How can you improve on something... that is 
-flawless?
-"
+"How can you improve on something... that is  flawless? "
 "Time to gear up-p-p."
 "Yes, I have a license for this Trinity Force software!"
 "I require no further upgrades - but I just love these boots."
@@ -380,5 +346,4 @@ flawless?
 "We'll see you soon."
 "It's clobbering time!"
 "Peace in our time"
-robot
-robota
+a

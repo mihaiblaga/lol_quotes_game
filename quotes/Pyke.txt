@@ -42,8 +42,7 @@
 "Solid ground, feels too stable."
 "Sink like an anchor, float like rum."
 "
-No one
- swims in the same waters as me."
+"
 "My kill list never gets shorter."
 "There's no sunken cities, just the swimming one."
 "I am not the only one who wants revenge on everyone."
@@ -58,28 +57,21 @@ No one
 "I sank so deep, there was no up or down."
 "Captains told me to kill fish, fish told me to kill captains, makes sense."
 "Kill until it all sinks..."
-"The world saw me drowning... and did 
-nothing
-!"
+"The world saw me drowning... and did  nothing !"
 "Last thing I ever drank was priceless."
 "Bottom of the sea's the top of another world."
 "Went too deep, the deep came back with me."
 "The war's brewing, I chose my side."
-"Captains 
-always
- favor the ship over the crew."
+"Captains  always  favor the ship over the crew."
 "Used to call 'em monsters, but they changed my mind."
 "My new bosses don't care about gold."
 "Everyone sinks, till they don't no more."
 "The sea is everywhere I go."
 "Work hard, die fast! The other way is worse..."
 "Not sure whose revenge I'm getting... Don't care!"
-"I 
-know
- who I am... mostly..."
+"I  know  who I am... mostly..."
 "
-No one's
- been lower than me."
+"
 "The only good captain's a drowned captain."
 "The bottom of the ocean ain't no part of this world."
 "We'll all be underwater soon."
@@ -101,37 +93,23 @@ No one's
 "No one's honest, till they get a knife in their gut."
 "The rich man's a lyin' man, the lyin' man's... a dying man..."
 "Pretty face... Shame if someone stuck a harpoon in it."
-"Last vessel 
-you'll
- command is a coffin."
+"Last vessel  you'll  command is a coffin."
 "Let's see if you got guts as big as your guns."
-Pyke reads his list and impales it with his blade.
 "Heard a lot of 'last words'... forgot 'em all."
 "Oh look... your name's on the manifest."
-"I'm gonna drag 
-you
- down to the swimming 
-city
-!"
+"I'm gonna drag  you  down to the swimming  city !"
 "Got a hook with your name on it."
 "You're not on my list yet, keep it that way... Oh, wait, I wrote it on the back."
 "I don't like you, I like them less."
 "You're growing on me... like a barnacle... on my ass..."
-"You're on the list... but at the very, 
-very
- bottom."
+"You're on the list... but at the very,  very  bottom."
 "Let's see you get mouthy with a harpoon in your neck."
-Pyke tries in vain to cover leaks sprouting from his body.
 "Huh? No... Where's - ugh. No. Why?"
 "Hard to laugh with a hook through the cheek."
-Pyke laughs.
-Pyke laughs.
-Pyke laughs.
 "Kraken chum."
 "Let the water drag you under."
 "
-Sink
- with me!"
+"
 "Hope you're a swimmer."
 "Drag 'em under."
 "Tire 'em out!"
@@ -150,8 +128,7 @@ Sink
 "Chop 'em to bits."
 "You watched me drown!"
 "
-Sink
- till you float."
+"
 "One. Last. Breath."
 "You got clean hands."
 "We are owed blood."
@@ -168,9 +145,7 @@ Sink
 "Nobody threw me a line."
 "Hack 'em up!"
 "Show me your hands."
-"Yes, 
-you
- were there."
+"Yes,  you  were there."
 "The deep'll crush you."
 "Float to the bottom."
 "They said you ain't innocent."
@@ -184,9 +159,7 @@ you
 "Gotcha by the guts!"
 "Gotta keep my hooks rusty."
 "Sandstorm's blowin' in."
-"Gonna 
-bury
- you."
+"Gonna  bury  you."
 "Got silt in your mouth."
 "Quicksand's pulling you under."
 "Sand in your eyes."
@@ -194,20 +167,8 @@ bury
 "Big beast, biiig payday..."
 "Your sermons damned me, Illaoi."
 "Art's for fancy dead folk."
-"You betrayed 
-me
-, Kalista."
+"You betrayed  me , Kalista."
 "No. More. Captains."
-Pyke grunts.
-Pyke grunts.
-Pyke grunts.
-Pyke grunts.
-Pyke grunts.
-Pyke grunts.
-Pyke grunts.
-Pyke grunts.
-Pyke grunts.
-Pyke grunts.
 "Swim faster than they run."
 "Fog's rolling in."
 "Deep below the surface."
@@ -223,9 +184,7 @@ Pyke grunts.
 "Breathe!"
 "I am the deep!"
 "Rise!"
-"Gonna 
-get 'em
-!"
+"Gonna  get 'em !"
 "Hushhh... rest now."
 "Sink with me."
 "Welcome to the swimming city."
@@ -241,21 +200,6 @@ get 'em
 "You pulled your weight."
 "Crews share the wealth."
 "Here is your share."
-Plays on first and second execution in sequence (
-Double Kill
-)
-Plays on first and second execution in sequence (
-Double Kill
-)
-Plays on third execution in sequence (
-Triple Kill
-)
-Plays on fourth execution in sequence (
-Quadra Kill
-)
-Plays on fifth execution in sequence (
-Pentakill
-)
 "Another name off the list."
 "Finally quit kickin'."
 "Butcher's bill came due."
@@ -282,9 +226,7 @@ Pentakill
 "I got no blind spots."
 "Never leave their eyeline."
 "Keeps the fog away."
-"Got my 
-eye
- on you."
+"Got my  eye  on you."
 "Like an angler-shark."
 "Nothing swims past me."
 "Sun don't shine here no more."
@@ -316,9 +258,6 @@ eye
 "Going under for a breath, don't wait up."
 "Swimming city's calling."
 "Current takes me where I need to go."
-Sound effect.
-Sound effect.
-Sound effect.
 "I ain't finished yet."
 "I'm already dead, more death ain't gonna hurt."
 "Death keeps spitting me right back out."
@@ -327,17 +266,6 @@ Sound effect.
 "Sometimes you need an extra hand."
 "Backup would'a helped."
 "I work better with a crew."
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
-Sound effect.
 "I don't feel quite like myself these days." *laughs*
 "Revenge… then all of this ends."
 "You all left me to die, in a hundred different ways, with a thousand different faces."
@@ -396,22 +324,13 @@ Sound effect.
 "Your code. My code. Pulled by the same strings."
 "More bodies for the scrap heap."
 "Make me feel alive again!"
-Big words… for a hologram.
 "You get a snake! And you get a snake! Everybody gets a snake!"
 "Check under your seats! That's right, you're all getting snakes!"
 *Pyke laughs* "Funny."
-Pyke laughs.
-Pyke plays an electronic guitar riff.
-Pyke grunts.
-Pyke grunts.
-Pyke grunts.
-Pyke grunts.
-Pyke grunts.
 "I remember everything."
 "Quit your staring."
 "Break you down for parts."
 "What did you say?!"
-Pyke howls.
 "Gotta cut out your optics!"
 "We'll see how real you are!"
 "It was you, I know it!"
@@ -438,8 +357,7 @@ Pyke howls.
 "I know your face!"
 "What do you want?!"
 "Tear out your wires."
-"Knew you were one of 'em!
-"I'll show you dangerous, Irelia!"
+"Knew you were one of 'em! "I'll show you dangerous, Irelia!"
 "My voices don't like your voices, Jinx."
 "Just another dog now!"
 "PROJECT thought I was dead. They were right!"
@@ -448,7 +366,6 @@ Pyke howls.
 "I'll make 'em remember."
 "Can't run from a memory."
 "Dark mode engage."
-Pyke chuckles.
 "I'm in."
 "Phasing out."
 "A ghost in the dark…"
@@ -489,8 +406,6 @@ Pyke chuckles.
 "Leave enough scrap out here and someone's gonna find it."
 "Come on out! We've got a city to burn!"
 "I'm not the only monster PROJECT left behind." *laughs*
-Pyke groans.
-Pyke groans.
 "See you… soon…"
 "The voices… stopped…"
 "Brain function restored. Memory… incomplete."

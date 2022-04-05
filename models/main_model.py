@@ -12,25 +12,23 @@ class MainModel(QObject):
     def __init__(self) -> None:
         super(MainModel, self).__init__()
         
-        self.quotes: List[Quote] = None
-        self.load_quotes_from_file('/home/mihaiblaga/lol_quotes_game/quotes/Aatrox.txt')
+        self.quotes: List[Quote] = []
+        self.load_quotes_from_file('quotes/Aatrox.txt_good')
         random.shuffle(self.quotes)
         
         self.used_quotes_ids: List[Quote.id] = []
         
-        self.possible_answers_list: List[Answer] = None
-        self.load_answers_from_file("/home/mihaiblaga/lol_quotes_game/champions_list.txt")
+        self.possible_answers_list: List[Answer] = []
+        self.load_answers_from_file("champions_list.txt")
         
-        self.current_answers: List[Answer] = None
+        self.current_answers: List[Answer] = []
         self.current_quote: Quote = None
-        
-        
-        
+
     def on_answer_button_clicked(self, answer):
         if self.current_quote.answer.text == answer:
             self.correct_answer_clicked()
         else:
-            print('Bad')
+            self.wrong_answer_clicked()
             
     def correct_answer_clicked(self):
         self.used_quotes_ids.append(self.current_quote.id)
@@ -45,8 +43,7 @@ class MainModel(QObject):
             return self.quotes.pop(0)
         else:
             return Quote(None, 'No more quotes', Answer(''))
-             
-            
+
     def set_quote(self, quote):
         self.current_quote = quote
     

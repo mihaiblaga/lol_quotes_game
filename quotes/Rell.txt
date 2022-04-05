@@ -12,8 +12,7 @@
 "The helpless fight. The hardened live."
 "Friends just get in the way."
 "Don't let anyone in. Never let anyone in."
-"The Black Rose may have done this to me, but Noxus knew."'
-"Hurt me enough and I'll split your head open."
+"The Black Rose may have done this to me, but Noxus knew."' "Hurt me enough and I'll split your head open."
 "Noxians aren't the heroes they think they are."
 "I survived the academy. My 'instructors'... didn't."
 "Everyone who's ever stood in my way is dead or broken."
@@ -45,14 +44,9 @@
 "Iron body, iron will!"
 "I refuse to be broken!"
 "How 'bout you say that again?!"
-Rell rides her mount like a carousel.
 "Weeeeeeee."
 "I'm the happiest girl in the world."
 "Boo, you suck."
-Rell laughs.
-Rell grunts.
-Rell grunts.
-Rell grunts.
 "Now I'm mad!"
 "This is gonna suck for you!"
 "Hey, idiot!"
@@ -82,37 +76,24 @@ Rell grunts.
 "This is for everyone I've lost!"
 "Out of my way!"
 "Alright. Die then."
-Rell grunts.
-Rell grunts.
-Rell grunts.
 "Mount up!"
 "Ride!"
 "Run 'em down!"
 "Let's crush 'em underhoof!"
 "Don't fall behind!"
-Rell grunts.
-Rell grunts.
-Rell grunts.
 "Armoring up!"
 "Unbreakable!"
 "Let's do this for real!"
 "I'll fight to the end!"
 "For the null!"
-Rell grunts.
-Rell grunts.
 "Toughen up!"
 "Get mean!"
 "I got you!"
 "We fight together!"
 "Don't die!"
-Rell grunts.
-Rell grunts.
-Rell grunts.
 "Nobody leaves!"
 "I am not finished!"
 "Do not walk away!"
-Rell grunts.
-Rell grunts.
 "Someone scrape this idiot off the floor."
 "Thanks for the practice, stupid."
 "Beaten by a girl, to death."
@@ -142,9 +123,6 @@ Rell grunts.
 "This sucks! I don't have time for this!"
 "All this waiting! I just want to fight!"
 "I can't stop fighting..."
-Rell groans.
-Rell groans.
-Rell groans.
 "Can't tell if I taste metal or blood."
 "'Excellence is measured in sacrifice,' or whatever."
 "These sigils are a reminder. Screw my sigils."

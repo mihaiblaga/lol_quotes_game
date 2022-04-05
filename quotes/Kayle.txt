@@ -95,10 +95,7 @@
 "You Demacians have lost your way."
 "Are you a talking animal? Tiny mortal? Why are you so soft?!"
 "Sister. Here to break my heart anew?"
-"Better a broken heart than a 
- 
-shackled soul
-."
+"Better a broken heart than a    shackled soul ."
 "Still playing with your little human pets, sister?"
 "At least I haven't smited all my friends."
 "Your sword is with me. Do you want it back?"
@@ -124,9 +121,6 @@ shackled soul
 "My laws have more merit than your whims ever will."
 "Evil fears only fire! And Yordles, because, what even ARE they?"
 "A thief, a murderer, and a corrupt guard, all walk into my sword. The end." *Kayle laughs*
-Kayle laughs.
-Kayle laughs.
-Kayle laughs.
 "By divine edict!"
 "Fear the cleansing fire."
 "Justice unyielding!"
@@ -186,7 +180,6 @@ Kayle laughs.
 "I am your salvation!"
 "The worthy survive!"
 "I am your salvation!"
-Oh spare me!
 "Sister!"
 "Kayle!"
 "Redemption in the light!"
@@ -210,25 +203,8 @@ Oh spare me!
 "I dim..."
 "If I... Could see my sister..."
 "The light renews."
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Note: Nearly all of the audios here are replaced with non-filtered ones, but some filtered audios remain. Please replace them.'
 "This space is now under the jurisdiction of the RSM, all criminals will be judged and executed."
 "X07-Gevurah is combat operational, targets locked: let judgment commence."
-Attention criminal element, I am Justicar Kayle of the Royal Space Military, you will not leave this planet alive.
 "Someone has to keep the peace around here."
 "In the eyes of the law everyone's expendable."
 "I don't have time for restraint."
@@ -282,10 +258,6 @@ Attention criminal element, I am Justicar Kayle of the Royal Space Military, you
 "I don't need a badge to do my job.  Well yes I technically have a badge but I don't- why am I explaining this?"
 "Hey EXO, tell me a joke. Pfft, government issue."
 "Keep it moving, citizen. I'll handle the one liners here."
-Kayle laughs.
-Kayle laughs.
-Kayle laughs.
-Kayle laughs.
 "Justicar inbound."
 "You're out of line, dirtbag!"
 "Try me, punk."
@@ -349,8 +321,7 @@ Kayle laughs.
 "Judged, juried, and executed."
 "The RSM thanks you for your cooperation."
 "I know I'm supposed to remain impartial General, but I enjoyed putting you down."
-"I don't care if you ended the war, Gangplank. Traitors deserve to die.
-"You knew the risks of deserting Kai'Sa, kill on sight."
+"I don't care if you ended the war, Gangplank. Traitors deserve to die. "You knew the risks of deserting Kai'Sa, kill on sight."
 "I like your AI, Sarah. Never mind."
 "Sorry sister. You fought the law and I won."
 "I am the judge, I am the jury, and I am the law!"
@@ -362,24 +333,6 @@ Kayle laughs.
 "Attacking a military justicar is a capital offence."
 "Suspects appear uncooperative."
 "Now you're just pissing me off."
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle sighs.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
-Kayle grunts.
 "You shall be judged."
 "I will bring you to Justice, Morgana!"
 "GG!"

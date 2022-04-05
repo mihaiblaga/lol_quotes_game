@@ -25,19 +25,6 @@
 "My purpose is eating deadly creatures. My hobby is eating Yordles."
 "I ate an optimist once, but I couldn't keep him down."
 "I have evolved beyond jokes. I am now a robot. Beep. Boop."
-Kha'Zix laughs.
-Kha'Zix laughs.
-Kha'Zix laughs.
-Kha'Zix laughs.
-Kha'Zix growls. 
-Kha'Zix growls.
-Kha'Zix growls.
-Kha'Zix growls.
-Kha'Zix growls.
-Kha'Zix growls.
-Kha'Zix growls.
-Kha'Zix growls.
-Kha'Zix growls.
 "Isolate and devour."
 "One by one."
 "Ah... delicious."
@@ -49,27 +36,8 @@ Kha'Zix growls.
 "Strike from above."
 "Die running."
 "Slice them apart."
-Kha'Zix growls.
-Kha'Zix growls.
-Kha'Zix growls.
-Kha'Zix growls.
-Kha'Zix growls.
-Kha'Zix growls.
-Kha'Zix growls.
-Kha'Zix growls.
-Kha'Zix growls.
-Kha'Zix growls.
-Kha'Zix growls.
-Kha'Zix growls.
 "I am living change."
 "Evolve and overcome."
 "They can't keep up."
 "They will not expect this!"
-Kha'Zix growls.
-Kha'Zix growls.
-Kha'Zix growls.
-Kha'Zix growls.
-Kha'Zix dies.
-Kha'Zix dies.
-Kha'Zix dies.
-Kha'Zix dies.
+.

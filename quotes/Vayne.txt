@@ -11,10 +11,6 @@
 "Hitting me is like boxing with shadows."
 "I have no time for nonsense."
 "Joke? What do you mean?"
-Vayne laughs
-Vayne laughs
-Vayne laughs
-An electronic song plays.
 "I bring swift death."
 "I release them from their pain."
 "I pass judgment."
@@ -32,12 +28,12 @@ An electronic song plays.
 "The machine made me, now I hunt the machine."
 "The enemy is in all of us, programmed in our very core."
 "Delete the past. I am the future."
-(Ally) "Temporary PROJECT integration complete."
-(Ally) "When the machine breaks down, we break down."
-(Enemy) "I will find PROJECT and destroy it."
-(Enemy) "To them, we are nothing but lab rats and batteries."
-(Ally) "For humanity to heal, it must sometimes align with the virus."
-(Enemy) "The virus is here."
+"Temporary PROJECT integration complete."
+"When the machine breaks down, we break down."
+"I will find PROJECT and destroy it."
+"To them, we are nothing but lab rats and batteries."
+"For humanity to heal, it must sometimes align with the virus."
+"The virus is here."
 "In a world of neon, I am the darkness."
 "My mission is zero defects."
 "I pursue the end game."
@@ -82,7 +78,6 @@ An electronic song plays.
 "I was not rebuilt to play nice."
 "Now where did I park that thing?"
 "The future isn't funny."
-Vayne breakdances to a beat.
 "You will be disassembled."
 "I will not be generous with your life."
 "No warning shots."
@@ -242,22 +237,6 @@ Vayne breakdances to a beat.
 "Reacquiring targets."
 "Power levels stabilized."
 "Scanning for thermal signatures."
-Sound effect
-Sound effect
-Sound effect
-Sound effect
-Sound effect
-Sound effect
-Sound effect
-Sound effect
-Sound effect
-Sound effect
-Sound effect
-Sound effect
-Sound effect
-Sound effect
-Sound effect
-Sound effect
 "Nothing's changed since I joined the Sentinels. Well. Better weapons. Maybe."
 "As long as they're fighting evil, I'm with the Sentinels. I guess."
 "Upgrading to a better class of monster. Feels good. Feels right."
@@ -320,4 +299,4 @@ Sound effect
 "I'm not finished with these monsters yet."
 "Can't rest until those wraiths are vanquished."
 "Where's my gear? There's evil to fight."
-ἀνερρίφθω κύβος
+�

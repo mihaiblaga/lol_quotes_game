@@ -3,9 +3,7 @@
 "The blood you spilled calls to me."
 "The chains are broken... the beast is free."
 "Oh, what a day. What a bloody day."
-"Violence 
-super
-charged!"
+"Violence  super charged!"
 "Blood and chrome!"
 "The beast grows stronger."
 "This place is familiar."
@@ -33,9 +31,7 @@ charged!"
 "Pain... nothing!"
 "Watch you bleed!"
 "Claws... hungry!"
-"Hero... 
-die
-!"
+"Hero...  die !"
 "Men... slaughter... "
 "Hurting you... "
 "I ran these streets - now it's your turn to run."
@@ -74,12 +70,6 @@ die
 "Who's a good boy? I am!"
 "Scratch behind my ears... "
 "I'll do a trick for a Warwick snack!"
-Warwick laughs.
-Warwick laughs.
-Warwick laughs.
-Warwick laughs.
-Warwick laughs.
-Warwick laughs.
 "You're the prey!"
 "Less talking, more biting!"
 "Blood brings rage."
@@ -113,20 +103,11 @@ Warwick laughs.
 "Bite back!"
 "Run, faster!"
 "Blood spilled!"
-"Rev up!
-Drums play.
-Drums play.
-Drums play.
-Drums play.
-Drums play.
-"Meat!"
+"Rev up! Drums play. Drums play. Drums play. Drums play. Drums play. "Meat!"
 "I have your scent."
 "More scars - as if I didn't have enough."
 "If I don't kill you, Zaun will."
-"Back to killing 
-chem-barons
-."
-A shortened version of the 2015 URF login plays.
+"Back to killing  chem-barons ."
 "You killed Warwick, but left the beast."
 "I almost felt that."
 "One thing you should know; I honour my debts."
@@ -136,4 +117,4 @@ A shortened version of the 2015 URF login plays.
 "Time to run!"
 "I'll eat your heart, Starchild."
 "Heroes Never Die!"
-“Oh, what a day… What a lovely day!”
+�

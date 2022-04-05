@@ -9,10 +9,6 @@
 "Swiftly!"
 "Never underestimate the power of the Scout's code."
 "Size doesn't mean everything."
-Teemo laughs.
-Teemo laughs.
-Teemo laughs.
-Teemo plays a tune on his flute.
 "There's a mushroom out there with your name on it."
 "Survive here a week, then you get a name."
 "The war never ends, the battlefield just changes."
@@ -50,10 +46,6 @@ Teemo plays a tune on his flute.
 "You and I are survivors, buddy. They can never kill us."
 "They won't make the mistake of thinking you're harmless again."
 "We'll make them pay for what they did to your family little guy."
-Teemo laughs.
-Teemo laughs.
-Teemo laughs.
-Teemo laughs.
 "Take the pain!"
 "Natural-born killer."
 "Turns out, I got a proficiency in killing."
@@ -67,9 +59,7 @@ Teemo laughs.
 "I don't feel anything."
 "Who's my next tally mark?"
 "Look alive."
-"This is 
-very
- personal."
+"This is  very  personal."
 "Smell that? That's fear."
 "Killing's all I'm good at."
 "I'm taking everyone with me!"
@@ -93,7 +83,6 @@ very
 "Teemo'd."
 "I'm everywhere."
 "You're welcome."
-Teemo laughs.
 "Got teeth? You got a weapon."
 "We all live in the jaws of the beast."
 "Next time I see Nashor, I'll yank a couple more."

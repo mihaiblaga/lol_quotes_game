@@ -47,32 +47,23 @@
 "Maybe your cards will mourn you."
 "I don't need a good hand to see your fate."
 "Yar ha har argh - ! (coughs) Had something in my throat."
-"They're not just oranges - they're 
-blood
- oranges."
+"They're not just oranges - they're  blood  oranges."
 "I've got it this time!"
 "I'm back at the helm."
-Gangplank laughs.
-Gangplank laughs.
-Gangplank laughs.
 "Hack their kidneys out."
 "They have no concept of misery."
 "One slash, ear to ear."
 "Crying won't do any good."
 "Pistols or blades, don't matter to me."
 "Paint the docks in their blood."
-"Dead men tell 
-my
- tale."
+"Dead men tell  my  tale."
 "Feed 'em their fingers."
 "Their tears will salt the ocean."
 "I'll take my time with 'em."
 "I see corpses waiting to drop."
 "Blade to bone, that's the way."
 "I will carve my name in their skulls."
-"This 
-is
- mercy in Bilgewater!"
+"This  is  mercy in Bilgewater!"
 "Toss 'em to the sharks."
 "Bones'll splinter."
 "You haven't seen blood yet."
@@ -174,15 +165,9 @@ is
 "You're a losing bet, Fate."
 "You're just a chip in my game, Fate."
 "What shall we do with a drunken sailor?"
-"They're not just oranges... they're 
-blood
- oranges!"
+"They're not just oranges... they're  blood  oranges!"
 "I have a deficiency... of cares."
 "Keep your eye on the ball."
-Gangplank laughs.
-Gangplank laughs.
-Gangplank laughs.
-Gangplank laughs.
 "Brutality brings loyalty."
 "Cut 'em from stem to stern."
 "They're sailing into dark waters."
@@ -362,9 +347,7 @@ Gangplank laughs.
 "Legendary kill!"
 "Legendary kill!"
 "Legendary kill! They'll think twice next time!"
-"Legendary kill! They'll remember 
-your
- name!"
+"Legendary kill! They'll remember  your  name!"
 "Ally double kill!"
 "Your ally got a double kill!"
 "Your ally found friends!"

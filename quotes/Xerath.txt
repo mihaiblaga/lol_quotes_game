@@ -32,29 +32,16 @@
 "Azir, the boy destined to chase the sun."
 "This time, Azir, I will need no surprise to topple you!"
 "You are emperor of a wasteland, Azir."
-"Nasus... thank you for your 
- 
-brother
-."
+"Nasus... thank you for your    brother ."
 "Nasus, the loyal pup, ever nipping at my heels."
 "You chase power, Syndra. I am power!"
 "Those chains cannot hold me either, jailor."
 "Power, immortality, omniscience... but no leg room?!"
 "Lightning bolt! Lightning bolt! Lightning bolt! Lightning bolt! Lightning bolt! Lightning bolt!"
-Xerath laughs.
-Xerath laughs.
-Xerath laughs.
-Xerath laughs.
 "Nobody puts Xerath in a sarcophagus, nobody!"
-"With Ascension, 
-comes killer moves!
-"
+"With Ascension,  comes killer moves! "
 "Trapped for centuries, but I've still got it!"
 "I've waited a millennium for this!"
-Xerath grunts.
-Xerath grunts.
-Xerath grunts.
-Xerath grunts.
 "I will unmake you."
 "Sacrifices must be made."
 "Simple fools."
@@ -65,29 +52,9 @@ Xerath grunts.
 "Magic? I'll show you real magic."
 "My will is law!"
 "I will not be subverted!"
-Effort sound.
-Effort sound.
-Effort sound.
-Effort sound.
-Effort sound.
-Effort sound.
-Effort sound.
-Effort sound.
-Effort sound.
-Effort sound.
-Effort sound.
-Effort sound.
-Effort sound.
-Effort sound.
-Effort sound.
-Effort sound.
 "True Ascension is granted only to the worthy!"
 "I will allow nothing to stand in my way."
 "Behold, my power is unmatched!"
-Death sound.
-Death sound.
-Death sound.
-Death sound.
 "You seek Ascension, you will find failure."
 "I am power incarnate! Who dares oppose me?"
 "I will never concede the power I have taken!"
@@ -99,15 +66,8 @@ Death sound.
 "Only ten of you? How disappointing."
 "Ascension is not granted, it is taken!"
 "Nobody puts Xerath in a sarcophagus, nobody!"
-"With Ascension, 
-comes killer moves!
-"
+"With Ascension,  comes killer moves! "
 "Trapped for centuries, but I've still got it!"
-"It's electric!" Xerath raps.
-"I've waited a millenium for this!"
-LARPing Lightning Bolt!
-Power Thirst
-JoJo's Bizarre Adventure
-Windy of Tenebra
+"It's electric!" Xerath raps. "I've waited a millenium for this!"
 "I will show you true power!"
 "Sacrifices must be made."

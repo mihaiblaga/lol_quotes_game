@@ -16,22 +16,6 @@
 "Come get a glimpse into the belly of the beast!"
 "Think you're a dragon slayer? Come here and try."
 "What do you get when a dragon sneezes? (chuckles) Out of the way."
-Shyvana laughs.
-Shyvana laughs.
-Shyvana laughs.
-Shyvana laughs.
-Shyvana laughs.
-Shyvana laughs.
-Shyvana laughs.
-Shyvana laughs.
-Shyvana grunts.
-Shyvana grunts.
-Shyvana grunts.
-Shyvana grunts.
-Shyvana grunts.
-Shyvana grunts.
-Shyvana grunts.
-Shyvana grunts.
 "Suffer my fury."
 "The might of Demacia will prevail."
 "The rage."
@@ -42,38 +26,10 @@ Shyvana grunts.
 "I will dance in their ashes."
 "Feel my talons."
 "Fear me."
-Shyvana grunts.
-Shyvana grunts.
-Shyvana grunts.
-Shyvana grunts.
-Shyvana grunts.
-Shyvana grunts.
-Shyvana grunts.
-Shyvana grunts.
-Shyvana grunts.
-Shyvana grunts.
-Shyvana grunts.
-Shyvana grunts.
-Shyvana roars.
-Shyvana roars.
-Shyvana roars.
-Shyvana roars.
-Shyvana grunts.
-Shyvana grunts.
-Shyvana grunts.
-Shyvana grunts.
 "Power flows through me."
 "Tremble before the power of a dragon."
 "I am unleashed!"
 "Behold my true form!"
-Shyvana groans.
-Shyvana groans.
-Shyvana groans.
-Shyvana groans.
-Shyvana groans.
-Shyvana groans.
-Shyvana groans.
-Shyvana groans.
 "I love the quiet before battle."
 "Dragons have no remorse."
 "GG!"

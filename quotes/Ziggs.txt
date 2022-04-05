@@ -1,8 +1,5 @@
 "This'll be a blast!"
 "I'm going, I'm going."
- 
-Ziggs
- randomly makes several laughing noises as he moves about and attacks on a regular basis (unlike other champions, whom only play audible sounds when performing commands)
 "Right-o."
 "Anyone got a match?"
 "Come on, come on, come on!"
@@ -14,13 +11,8 @@ Ziggs
 "I'm going, I'm going."
 "I'll take this one and this one and throw it in your face!"
 "I like my enemies like I like my bombs: about to explode!"
-Ziggs brandishes an armed bomb before swallowing it and belching shortly after.
 "Come on! Does this look dangerous to you?"
 "You wanna see how to disarm a bomb?"
-Ziggs laughs.
-Ziggs laughs.
-Ziggs laughs.
-Ziggs laughs.
 "Bombs away!"
 "Fuses burning, fuses burning!"
 "Take cover!"
@@ -33,9 +25,6 @@ Ziggs laughs.
 "Yeee-Haaa!"
 "Incoming!"
 "Oh! Look out below!"
-Ziggs laughs.
-Ziggs laughs.
-Ziggs laughs.
 "Welcome to Summoner's Rift!"
 "Welcome to Summoner's Rift!"
 "Welcome to Summoner's Rift!"

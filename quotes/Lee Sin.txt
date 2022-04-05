@@ -55,10 +55,6 @@
 "Our foes are not much to look at."
 "Enough blind jokes. Stop asking for more."
 "I fail to see the humor in that."
-Lee Sin laughs.
-Lee sin laughs.
-Lee Sin laughs.
-Lee Sin laughs.
 "Strike firmly!"
 "Their heartbeats quicken."
 "Worry not."
@@ -87,34 +83,10 @@ Lee Sin laughs.
 "Tong!"
 "Tong!"
 "Tong!"
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
 "Stand firm!"
 "Fight on!"
 "Keep up!"
 "Endure!"
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
 "Begone!"
 "Behold!"
 "Hikuh!"
@@ -149,10 +121,6 @@ Lee Sin grunts.
 "I... was not... worthy..."
 "Dragon spirit... I've failed you."
 "My final lesson..."
-Lee sin groans.
-Lee sin groans.
-Lee sin groans.
-Lee Sin grunts.
 "I shall not repeat that mistake."
 "Failure has not stopped me before.  It will not now."
 "The dragon spirit offers me another chance."
@@ -193,25 +161,15 @@ Lee Sin grunts.
 "You have gained no enlightenment in death."
 "Come and say that to my fist."
 "I hold myself to a higher standard."
-"You taunt a god?" Lee Sin laughs.
-Lee Sin kicks the air rapidly, and accidentally sets his foot on fire.
-"Divinity can be an extreme fire hazard."
+"You taunt a god?" Lee Sin laughs. Lee Sin kicks the air rapidly, and accidentally sets his foot on fire. "Divinity can be an extreme fire hazard."
 "Just wait until I reach super ultimate god level tier."
 "This world is beneath me. Literally."
 "You seek to amuse a god? You have failed."
 "You make a joke in the face of your destruction? That is funny."
-Lee Sin laughs.
-Lee Sin laughs.
-Lee Sin laughs.
-Lee Sin laughs.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
 "You lack conviction."
 "If you believe yourself worthy, fight."
 "Your confidence is no substitute for skill."
-Lee Sin laughs. "I am not a man, I am a god."
+"I am not a man, I am a god."
 "You will fall before my divinity."
 "Even a blind man can see your weakness."
 "Your soul has already given up."
@@ -256,46 +214,15 @@ Lee Sin laughs. "I am not a man, I am a god."
 "It's not arrogance if your skill is unmatched."
 "They will witness my power."
 "Mortals are so fragile."
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
 "Divine intervention!"
 "Safety to my allies!"
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
 "Opportunities multiply as they are taken."
 "When they believe you are far, strike close."
 "This world is without challenge."
 "My victory will be absolute."
 "Your fear makes me hungry!"
 "I feast on your dread!"
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
 "Kneel!"
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
 "Do not worry, death builds character."
 "Your failure is proof that I am superior."
 "I take no pleasure in besting the weak."
@@ -354,17 +281,12 @@ Lee Sin grunts.
 "Your prayers have been answered."
 "If you do not fight, you have already lost."
 "They are so fragile."
-"God-like? Ha! I 
-am
- a god."
-"I need no weapon, 
-I
- am the weapon."
+"God-like? Ha! I  am  a god."
+"I need no weapon,  I  am the weapon."
 "I am hungry for a challenge."
 "Is no one here my better?"
 "Order has returned."
 "Their bones are weak."
-Lee Sin laughs.
 "The first of many."
 "Such feeble will."
 "It falls easier than a child's toy."
@@ -455,19 +377,15 @@ Lee Sin laughs.
 "You have defiled a dragon, Brand! I will avenge your blasphemy!"
 "A dragon's strength is wasted on a mere brawler, Sett."
 "Shyvana, you resemble the masters, but possess none of their power."
-Lee Sin does push-ups with his hands, then with his powers.
 "You are but a tiny squall. I am the hurricane's wrath!"
 "Can your dragon do this?"
 "You're late, Ao Shin... seven years late."
 "Couldn't hear you over this dragon."
-Lee Sin summons a storm cloud that rains on him.
 "With the power of... aw."
 "Really? Did I offend you or something?"
 "Are you blessed by a dragon? Because I'm blessed by a dragon."
-Lee Sin laughs.
 "Tong!"
-"Tong!
-"Ha!"
+"Tong! "Ha!"
 "Hueh!"
 "Hikuh!"
 "Hikuh!"
@@ -506,22 +424,12 @@ Lee Sin laughs.
 "You're a disgrace to the dragon, Sett!"
 "You're just an overgrown lizard!"
 "You mock the true dragons!"
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
-Lee Sin grunts.
 "Stay strong!"
 "With me!"
 "Hold fast!"
 "I am here!"
 "Stand firm!"
 "Keep going!"
-Lee Sin grunts.
-Lee Sin grunts
 "Backforce!"
 "Dragon blast!"
 "Wrath!"
@@ -554,10 +462,7 @@ Lee Sin grunts
 "My master's power is invincible!"
 "I have... failed..."
 "Master... forgive... me."
-Lee Sin groans.
-Lee Sin groans.
-Lee Sin groans.
 "I return stronger under Ao Shin's gaze!"
 "The dragon's power shields me from destruction!"
 "The storm builds, until it breaks."
-The Incredibles
+s

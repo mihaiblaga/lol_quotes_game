@@ -10,9 +10,7 @@
 "Hmm... let me fix that."
 "Wonderfully efficient!"
 "Goggles on!"
-"By 
-my
- calculations... "
+"By  my  calculations... "
 "Did I leave the Tridyminiumobulator on?"
 "Just as I hypothesized!"
 "Aha!"
@@ -41,10 +39,6 @@ my
 "Why do chemists call helium, curium, and barium 'the medical elements'? Because, if you can't 'helium' or 'curium', you 'barium'! Hm hm!"
 "Why do people say 'you can't trust atoms'? Because they 'make up everything'! Hehe!"
 "There are three key ingredients to invention: excessive imagination, good old fashioned stick-to-it-iveness, and a rocking good hairstyle!"
-Heimerdinger laughs.
-Heimerdinger laughs.
-Heimerdinger laughs.
-Heimerdinger laughs.
 "Eureka!"
 "Eureka!!"
 "For great science!"
@@ -69,17 +63,10 @@ Heimerdinger laughs.
 "Rise, my creation!"
 "It's gone mad!"
 "Ah, the sweet smell of science!"
-"Perhaps I should try 
-more
- rockets!"
-"No, not 
-all
- the rockets!"
+"Perhaps I should try  more  rockets!"
+"No, not  all  the rockets!"
 "Come on... nngh... ?! WAAAAA--- "
-"Alright, everyone! Remember your training and do your best out there!" (Pythagoras roars.)
-"Your first real battle! Are you ready, Pythagoras?" (Pythagoras squeals.)
-"Our first live-fire lesson will be conducted in the field." (Pythagoras squeaks.)
-"Now to apply the foundations of dragonography." (Pythagoras makes a disappointed noise.) "My apologies, dragonology!"
+"Alright, everyone! Remember your training and do your best out there!" (Pythagoras roars.) "Your first real battle! Are you ready, Pythagoras?" (Pythagoras squeals.) "Our first live-fire lesson will be conducted in the field." (Pythagoras squeaks.) "Now to apply the foundations of dragonography." (Pythagoras makes a disappointed noise.) "My apologies, dragonology!"
 "Pythagoras, what are you doing up there?"
 "Draconic enzymes. Highly flammable, and slobbery."
 "The Aurelion Sol! Do you respond to treats? Chew toys? Can I boop your nose?"
@@ -87,34 +74,20 @@ all
 "Your highness! Please, stay back! These dragons are my friends."
 "Ah, a fellow dragon trainer! No, wait, you're just insane! Criminally insane!"
 "Lulu! What excellent happenstance. Let's conduct a joint orientation."
-"Oho! The fearsome Dragon Knight! You won't corrupt these dragons!" (Pythagoras roars.)
-"Pantheon, the First Dragonslayer! I suppose by now you are set in your ways."
+"Oho! The fearsome Dragon Knight! You won't corrupt these dragons!" (Pythagoras roars.) "Pantheon, the First Dragonslayer! I suppose by now you are set in your ways."
 "Fascinating! A half-dragon hybrid! I must add this to my field guide."
 "What an adorable spirit guardian! But is it a dragon? I think not!"
 "Swain! You are a pawn of the diabolical elder dragons. And we are going to stop you!"
-"Tristana! Delightful. Everyone! We're having a sparring match!" (Pythagoras cheers.)
-"Watch out, Pythagoras! Vayne can't be reasoned with!" (Pythagoras makes a disappointed noise.)
-"Xin Zhao! You stopped the dragon sorceress. But did you have to destroy the eggs?"
+"Tristana! Delightful. Everyone! We're having a sparring match!" (Pythagoras cheers.) "Watch out, Pythagoras! Vayne can't be reasoned with!" (Pythagoras makes a disappointed noise.) "Xin Zhao! You stopped the dragon sorceress. But did you have to destroy the eggs?"
 "Aha! A Dragon Sorceress. If we defeat you here, dragon-kind shall be freed from your control!"
 "Now class! Remember the rules! Shoot them with fire until they stop moving."
 "You're interrupting our class! Keep it down, or you'll be forcefully ejected."
-(Pythagoras squeals.) "You're right! That mastery isn't impressive at all."
+"You're right! That mastery isn't impressive at all."
 "See that, Pythagoras? That's a mastery. They are irrelevant!"
 "I don't want to sound rude, but these dragons can't understand a word you're saying." (Pythagoras protests.) "But they don't know that."
-(Pythagoras squeaks.) "I'm not calling you "Queen of the Monsters."" (Pythagoras groans.) "Grow another two heads and we'll talk."
-(Pythagoras squeaks.) "Your name is fine. "Queen Under the Mountain" is incredibly excessive."
-(Pythagoras chirps.) "I don't think I can train them to tell better jokes."
-Heimerdinger laughs.
-Heimerdinger laughs.
-Heimerdinger laughs.
-Heimerdinger laughs.
-Heimerdinger dances to an electronic beat.
-Heimerdinger grunts
-Heimerdinger grunts
-Heimerdinger grunts
-Heimerdinger grunts
-Heimerdinger grunts
-Heimerdinger grunts
+"I'm not calling you "Queen of the Monsters."" (Pythagoras groans.) "Grow another two heads and we'll talk."
+"Your name is fine. "Queen Under the Mountain" is incredibly excessive."
+"I don't think I can train them to tell better jokes."
 "Get the treat. Go get it!"
 "That way! Go that way!"
 "Take this! And that!"
@@ -142,30 +115,21 @@ Heimerdinger grunts
 "Sorry about that! My dragons are very excitable."
 "Oho! You made them all crispy!"
 "You shouldn't have worn such combustible clothing!"
-(Laugh) "I didn't know you're allergic to dragon fire!"
+"I didn't know you're allergic to dragon fire!"
 "What a riveting turn of events! Huzzah!"
 "Ah, the enchanting aroma of burnt... Oh my."
 "Perhaps you'd like a lesson in dragon defense?"
-"Excellent work, class! Today, everyone graduates!" (Pythagoras cheers.)
-"Those villains were no match for the class of 42!" (Pythagoras cheers.)
-"With this many adorable dragons, how could I lose?"
+"Excellent work, class! Today, everyone graduates!" (Pythagoras cheers.) "Those villains were no match for the class of 42!" (Pythagoras cheers.) "With this many adorable dragons, how could I lose?"
 "Was the training to your liking? Lulu?... Oh. Oh dear."
-"We came to train, and instead, defeated an ancient evil!" (Pythagoras squawks.)
-"You're free of the dragon's curse, Swain!" (Pythagoras coos.) "I'm so proud of us!" (Pythagoras squeaks.)
-"Aha! The first round goes to Pythagoras!" (Pythagoras cheers.)
-"We saved all of dragon-kind from Zyra! Excellent work, everyone!"
+"We came to train, and instead, defeated an ancient evil!" (Pythagoras squawks.) "You're free of the dragon's curse, Swain!" (Pythagoras coos.) "I'm so proud of us!" (Pythagoras squeaks.) "Aha! The first round goes to Pythagoras!" (Pythagoras cheers.) "We saved all of dragon-kind from Zyra! Excellent work, everyone!"
 "Hah! My adorable friends. What are you... Oh, oh my, oh my! Ooh!"
 "Oh! Hello there! Are you interested in... I say... This is highly irregular!?!"
 "What? Are we going somewhere? Back to base? Ah... ah, ahh!!"
-Dying sound
-Dying sound
-Dying sound
-Dying sound
 "Avenge... me..."
 "Remember... our lessons."
 "You know, we may require a new training regimen."
 "Alright, everyone. Let's go back out there and try again!"
-(Pythagoras squeals.) "What do you mean it was my fault?"
+"What do you mean it was my fault?"
 "Don't just sit there."
 "Now you're the lesson."
 "Now, Pythagoras!"
@@ -178,8 +142,7 @@ Dying sound
 "Remember the three D's: desensitize, distract, dragon-fire."
 "Aha! A new chew toy."
 "According to my hypothesis..." (Pythagoras squeaks.) "Exactly!"
-"Bite that one. That one!
-"Oh, forget the lessons."
+"Bite that one. That one! "Oh, forget the lessons."
 "Shoot that way."
 "Society has this whole dragon thing backward."
 "Oho! So you think you can defeat a dragon trainer? En garde, whippersnapper."
@@ -192,7 +155,7 @@ Dying sound
 "Make 'em extra crispy!"
 "Resource guarding is a common and a natural behavior." (Pythagoras complains.) "You can sit on your gold pile when we get home."
 "Ah! Of course! They are all good dragons."
-(Pythagoras squeaks.) "Stop chewing my hair!"
+"Stop chewing my hair!"
 "Aim for the face!"
 "Reptile or cuddle monster? I must know."
 "Let's practice our aim."
@@ -207,13 +170,12 @@ Dying sound
 "Haha! In decoy-base training, you are the decoy."
 "Here's a handy checklist for specimen conditioning: large stockpiles of meat, a suit of armor, a stronger suit of armor."
 "Training is the pinnacle of modern dragonology."
-"See something? Burn something!
-"How are you doing, Pythagoras?" (Pythagoras squeals.) "Excellent!"
+"See something? Burn something! "How are you doing, Pythagoras?" (Pythagoras squeals.) "Excellent!"
 "Diagnosis: indigestion!"
-(Pythagoras squeaks.) "So what if I need a haircut?"
+"So what if I need a haircut?"
 "Zoosemiotics! Of course! How could I forget?"
 "Pythagoras! Go!"
-(Pythagoras squawks.) "Yes, yes, I know."
+"Yes, yes, I know."
 "Avoid swooping. Swooping is bad."
 "I think she likes you."
 "Don't singe my hair! Don't you singe it!"
@@ -221,13 +183,10 @@ Dying sound
 "Teaching dragons complex behavior. Hmm, yes." (Pythagoras screeches.) "Well, excuse you!"
 "Does anyone understand how hard it is to fight a fireproof veterinarian?!"
 "I know I left that chew toy somewhere."
-"Hold still up there! I have a sensitive scalp." (Pythagoras groans.)
-"I believe in the future of dragon-kind!" (Pythagoras cheers.)
-"Try not to get toasted!"
+"Hold still up there! I have a sensitive scalp." (Pythagoras groans.) "I believe in the future of dragon-kind!" (Pythagoras cheers.) "Try not to get toasted!"
 "That's your target!"
-(Pythagoras squeals.) "You're not a luck dragon! You're a Shuriman whelk." (Pythagoras squeaks.)
-"Eat this!"
-(Pythagoras squawks.) "Of course I know where I'm going."
+"You're not a luck dragon! You're a Shuriman whelk." (Pythagoras squeaks.) "Eat this!"
+"Of course I know where I'm going."
 "Hmm. Subdivision into species. I see!"
 "Dragonology is a truly fascinating field."
 "Wet food or dry food? A perplexing conundrum."

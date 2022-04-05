@@ -71,13 +71,11 @@
 "Death and war. This will be delicious..."
 "We find Aatrox, and it's a party. Of murder. A murder party!"
 "Together, we are unstoppable, Zed!"
-"I can see twelve ways to kill you. Ah! Correction: thirteen. It's thirteen.
-"I'm holding a sentient weapon of doom, denied blood for eons! You think I'm scared of you?"
+"I can see twelve ways to kill you. Ah! Correction: thirteen. It's thirteen. "I'm holding a sentient weapon of doom, denied blood for eons! You think I'm scared of you?"
 "I find your will to live amusing.."
 "I smell death... No, it's you. You smell...bad."
 "A craftsman never blames his tools."
 "I will make an exception in this case."
-Kayn laughs.
 "Shadows cut deep as fear!"
 "Found you!"
 "Cowering in the light—how foolish!"
@@ -126,7 +124,6 @@ Kayn laughs.
 "Yes..."
 "Here we go!"
 "Oh! I do like this."
-Kayn laughs.
 "Every kill fuels my fury."
 "Yes! Slaughter!"
 "Just like that, and the world will be yours to destroy."
@@ -194,7 +191,7 @@ Kayn laughs.
 "Sight...a pitiful crutch for the weak."
 "Darkness falls."
 "These trinkets only annoy me."
- "The fight will continue."
+"The fight will continue."
 "But there's still so much to kill!"
 "Retreat?!"
 "Do not question me, or my motives!"
@@ -210,9 +207,7 @@ Kayn laughs.
 "Which to wreak first? Carnage, havoc, or mayhem? I just can't decide..."
 "I am the undoing!"
 "How I missed this!"
-"I survived eternity. They will die today—and the next—
-and
- the next!"
+"I survived eternity. They will die today—and the next— and  the next!"
 "Shadows? Perhaps. Order? Not so much."
 "Their blood will decorate the ground, and the walls! Everything, really..."
 "Poor Kayn! Guess I was a bad influence after all..."
@@ -220,17 +215,13 @@ and
 "I have broken the great Kayn; you think you can defeat me?!"
 "Now I am pure wrath—fear me!"
 "This ends badly for you I'm afraid."
-"I will never 
-not
- kill a Yordle."
+"I will never  not  kill a Yordle."
 "We're moving to plan B, Aatrox: you die."
 "Do not press me, Aatrox. This is my time!"
 "Varus, the three of us—um, five of us—well...together, we will lay waste to this realm!"
 "Yes, Varus! Let us sow chaos!"
 "Key to staying alive? Don't be you."
 "You have two options: one, die quietly. Two, die loudly... Okay, one option really."
-Rhaast laughs.
-Rhaast laughs.
 "Slash 'em up!"
 "Oh yeahhhhh!"
 "Wrath!"
@@ -253,11 +244,8 @@ Rhaast laughs.
 "Shadows aren't enough, Zed!"
 "I own the dark now, Zed!"
 "There you are!"
-"Kayn failed; as will you, Zed!
-"He just won't die!"
-"So little! So annoying! So 
-hard
- to kill!"
+"Kayn failed; as will you, Zed! "He just won't die!"
+"So little! So annoying! So  hard  to kill!"
 "Goodbye, Kayn! Reaping will commence...now!"
 "It's all Rhaast now!"
 "Poor Kayn. All those plans for naught."
@@ -269,8 +257,6 @@ hard
 "Yeeeesss..."
 "Yeeeeesss..."
 "Yeeesss..."
-Rhaast laughs.
-Rhaast laughs.
 "That was some good murdering!"
 "Not worthy."
 "Pitiful. They send only fools!"
@@ -492,10 +478,7 @@ Rhaast laughs.
 "Every waking moment."
 "In the future I see a great empire!"
 "
-My
- future! 
-My
- empire!"
+"
 "I am no mere plaything."
 "You said it, not me."
 "So. Much. Ora within you!"
@@ -546,10 +529,8 @@ My
 "Rhaast."
 "What!?"
 "
-Rhaast.
 "
 "
-What do you want Kayn!?
 "
 "...Hi."
 "Should we do Karaoke night again?"
@@ -636,9 +617,7 @@ What do you want Kayn!?
 "First your brother, then you. It's poetic, really."
 "He popped! How splendid!"
 "I think some got on me."
-"Get off my planet! Get out of my galaxy, and stay... 
-dead
-."
+"Get off my planet! Get out of my galaxy, and stay...  dead ."
 "It's like they were never there!"
 "High five Rhaast!"
 "Down low - oh, I don't have hands. How mature."
@@ -784,8 +763,7 @@ dead
 "Oblivion is too good for you. Come back, so I can tear you apart again."
 "It's all Rhaast now!" *Laughs*
 "I'll let the rest of you in when I'm satisfied. And not a moment sooner."
-"Don't worry Thresh. Soon enough we'll all join you.
-"Sad little girl. You have no idea what violence truly means."
+"Don't worry Thresh. Soon enough we'll all join you. "Sad little girl. You have no idea what violence truly means."
 "The bigger they are, the louder they scream."
 "I thank you templar. For dooming all of creation."
 "The only odyssey awaiting you, captain, is your own extinction."

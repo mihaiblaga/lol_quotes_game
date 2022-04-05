@@ -42,8 +42,7 @@
 "Carnage, hate, yes! I am the World-Ender!"
 "Take everything from them! Become the World-Ender!"
 "Insects, the World-Ender has come!"
-"This is the time, the World-Ender is here!
-"Death to all! The World-Ender awaits!"
+"This is the time, the World-Ender is here! "Death to all! The World-Ender awaits!"
 "See your World-Ender!"
 "Bow worms! Bow before the World-Ender!"
 "Behold, the World-Ender!"
@@ -65,13 +64,7 @@
 "March flesh, march toward them! We have horrors to sow! Lives to reap! Let me make them regret... being free."
 "Dark deeds I will do this day... Though I will carry myself as my former pride dictates!"
 "Where I was excellence, I am deformed... Recast poorly with these crude materials. But this abomination of flesh well serves my murderous intent."
-"I shall 
-not
- kiss the ground, nor let myself be wielded as a tool! I am 
-damned
-, but I will remake this world in 
-my
- dark image!"
+"I shall  not  kiss the ground, nor let myself be wielded as a tool! I am  damned , but I will remake this world in  my  dark image!"
 "Let me tear their flesh from them. Let me break their souls... And murder their dreams."
 "I am but an unholy copy of life... A mockery of its freedom... And born in the cruel betrayal of the noble ideals I would've served."
 "I touched the stars, and saw the glorious light of a thousand suns! Now, blinded by this elegance, how could my purpose be anything... but dark..."
@@ -81,9 +74,7 @@ my
 "I do not obey! I cannot lay down! I will be the ender of all things!"
 "We march to battle... Let me carve flesh, let me cloak myself in the slaughter! Hide me in their carnage... Hide me from this suffering..."
 "I shall regard their cries as braying steeds, waiting to be whipped, broken, and bridled!"
-"I am in a cage within a prison... But this 
-foul
- shape reminds me of my purpose!"
+"I am in a cage within a prison... But this  foul  shape reminds me of my purpose!"
 "Do you see my edge?! Your death awaits!"
 "Pray, fool! You face a Darkin."
 "This violence shall amuse!"
@@ -98,9 +89,7 @@ foul
 "I know your name, Fiora. This is not a duel you shall win."
 "A statue? Rock shatters as easily as bone! Come!"
 "Guns and oranges? Are you a cliché or a joke? Come! Fight! Die!"
-"Scream 'Demacia', Garen! Scream its name before I crush you, 
-and
- it!"
+"Scream 'Demacia', Garen! Scream its name before I crush you,  and  it!"
 "I kill gods, priestess. Let us continue this fight... until all things stop!"
 "A worthy vessel! Come, Jax!"
 "You would rush towards me, Kai'Sa? What fool would build a strategy on that idea? Come, let us begin."
@@ -108,9 +97,7 @@ and
 "Ooh, a shadow warrior! How edgy!"
 "I did not think my fellows weak, Rhaast! Already you disappoint me!"
 "A lightning squirrel?" *Laughs* "Thank you! Your death will amuse me!"
-"Are you a joke, you loud, horrible thing? I shall kill you 
-and
- your steed!"
+"Are you a joke, you loud, horrible thing? I shall kill you  and  your steed!"
 "Where is your head, rock thing? Where is the neck I shall sever?"
 "Am I challenged by a tree?! Fine, let me build a pyre from you!"
 "You would bind yourself to this realm. Morgana? Fine, let me show you the ground!"
@@ -118,19 +105,13 @@ and
 "Your noble purpose amuses me, Nautilus! Fight me, see true death!"
 "Hail father Ornn, god of fire and forge!" *Laughs* "I am Aatrox, and I am the god killer!"
 "Hail Pantheon! Let me hear you cry of friendship! Let me hear you scream of brotherhood!"
-"Hail Pantheon! See the weapon I have become! Watch as 
-you
- are destroyed!"
-"Hail Pantheon! How noble and proud he carries himself! Come betrayer! Come 
-fiend
-!"
+"Hail Pantheon! See the weapon I have become! Watch as  you  are destroyed!"
+"Hail Pantheon! How noble and proud he carries himself! Come betrayer! Come  fiend !"
 "A bird? You would challenge me with a bird?!" *Laughs* "Come!"
 "Renekton! In your madness, you know my suffering! Though I shall end yours."
 "Riven, dance, child! That broken blade is no match for me!"
 "You would challenge me in a machine? You are a strange spirit, Rumble."
-"A spirit blade, master Shen? Test it agaist me, let 
-me
- shatter your illusions!"
+"A spirit blade, master Shen? Test it agaist me, let  me  shatter your illusions!"
 "Yes Sion! I kill even that which will not die! I end all things!"
 "Hail the protector! Hail Taric, aspect of- get a haircut!"
 "Cowardly spirit, how annoying you are! I will savour killing you, Teemo!"
@@ -153,21 +134,12 @@ me
 "Do I resemble you, abomination? Your form isn't my destiny... is it? You don't know how to talk, do you? Shit..."
 "I am like a demon, but more edgy, right? You know, cause I'm a sword. Hmm..."
 "So uh, I'm Aatrox. I'm a transcendental being trapped inside cutlery... What's your deal?"
-"Uh, nice world you have here. I intend to destroy it, you know, 
-FYI
-."
-Aatrox laughs
-Aatrox laughs
-Aatrox laughs
+"Uh, nice world you have here. I intend to destroy it, you know,  FYI ."
 "Come, let me show you darkness!"
 "Fight! Join me in death!"
 "Your death awaits!"
 "I will hack and chop and cleave, and sunder the filth of your forms!"
-"I am not 
-your
- enemy, I am 
-the
- enemy!"
+"I am not  your  enemy, I am  the  enemy!"
 "I am Darkin! Your gods fear me!"
 "I will sever your limbs! I will carve your souls!"
 "Carnage is my method."
@@ -182,35 +154,17 @@ the
 "You would fight me?! Come, let me show you hell!"
 "Your annihilation beckons!"
 "Violence... distracts me from these chains!"
-Aatrox snarls.
-Aatrox roars.
 "I come for you, Pantheon."
 "The power of an aspect, wasted on a fool!"
 "I killed your tribe. Now, join them!"
 "Tryndamere! This is your destiny!"
 "I will gut you, and tear you from existence, trickster!"
-"Aspect of change! Now 
-you
- die!"
-Aatrox yells.
-Aatrox yells.
-Aatrox yells.
-Aatrox yells.
-Aatrox yells.
-Aatrox yells.
-Aatrox yells.
-Aatrox yells.
-Aatrox yells.
-Aatrox grunts.
-Aatrox grunts.
+"Aspect of change! Now  you  die!"
 "Fight! Or be forgotten!"
 "Become... hate!"
 "I offer you victory!"
 "Let blood be our sacrament!"
 "Follow me into destruction!"
-Aatrox roars.
-Aatrox roars.
-Aatrox roars.
 "Fight! Or be forgotten!"
 "Become... hate!"
 "I offer you victory!"
@@ -263,29 +217,14 @@ Aatrox roars.
 "Ah, mastery, well done! Now master your insignificance."
 "Insects, you think you can kill me? Behold my curse!"
 "You cannot destroy me!"
-"I 
-do not
- die!"
+"I  do not  die!"
 *Grunt* "Nothing can kill me!"
 "I return!"
 *Laughs* "Yes! Fight me!"
-"I... am 
-not
- a mortal!"
-"Did you think you could kill 
-me
-?!"
+"I... am  not  a mortal!"
+"Did you think you could kill  me ?!"
 "You think you can kill me?"
 "As long as life exists, as long as time has meaning, I am not done!"
-Aatrox laughs
-Aatrox gasps.
-Aatrox gasps.
-Aatrox gasps.
-Aatrox gasps.
-Aatrox gasps, then roars.
-Aatrox groans.
-Aatrox groans.
-Aatrox groans.
 "Who knows what evil lurks in the hearts of men? The Shadow knows... "
 "Peace is a lie, there is only passion... "
 "Pain is temporary, pride is forever"
