@@ -13,7 +13,7 @@ class MainModel(QObject):
         super(MainModel, self).__init__()
         
         self.quotes: List[Quote] = []
-        self.load_quotes_from_file('quotes/Aatrox.txt_good')
+        self.load_quotes_from_file('quotes/Aatrox.txt')
         random.shuffle(self.quotes)
         
         self.used_quotes_ids: List[Quote.id] = []
@@ -24,19 +24,19 @@ class MainModel(QObject):
         self.current_answers: List[Answer] = []
         self.current_quote: Quote = None
 
-    def on_answer_button_clicked(self, answer):
-        if self.current_quote.answer.text == answer:
-            self.correct_answer_clicked()
-        else:
-            self.wrong_answer_clicked()
-            
-    def correct_answer_clicked(self):
-        self.used_quotes_ids.append(self.current_quote.id)
-        self.update_model()
-        # TODO score
-        
-    def wrong_answer_clicked(self):
-        print("wrong answer")
+    def on_answer_button_clicked(self, answer):                                                      
+        if self.current_quote.answer.text == answer:                             
+            self.correct_answer_clicked()                            
+        else:                            
+            self.wrong_answer_clicked()                          
+                                        
+    def correct_answer_clicked(self):             
+        self.used_quotes_ids.append(self.current_quote.id)             
+        self.update_model()             
+        # TODO score             
+                    
+    def wrong_answer_clicked(self):             
+        print("wrong answer")             
         
     def get_quote(self):
         if self.quotes:
